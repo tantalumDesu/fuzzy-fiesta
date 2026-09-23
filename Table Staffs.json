@@ -1,0 +1,159 @@
+{
+  "title": "Staffs",
+  "source_file": "Table Staffs.txt",
+  "columns": [
+    "Medium",
+    "Major",
+    "Staff",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "medium": "01-15",
+      "major": "01-03",
+      "staff": "Charming",
+      "market_price": "16,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "16-30",
+      "major": "04-09",
+      "staff": "Fire",
+      "market_price": "28,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "31-40",
+      "major": "10-11",
+      "staff": "Swarming insects",
+      "market_price": "24,750 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "41-60",
+      "major": "12-17",
+      "staff": "Healing",
+      "market_price": "27,750 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "61-75",
+      "major": "18-19",
+      "staff": "Size alteration",
+      "market_price": "29,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "76-90",
+      "major": "20-24",
+      "staff": "Illumination",
+      "market_price": "48,250 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "91-95",
+      "major": "25-31",
+      "staff": "Frost",
+      "market_price": "56,250 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "96-100",
+      "major": "32-38",
+      "staff": "Defense",
+      "market_price": "58,250 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "39-43",
+      "staff": "Abjuration",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "44-48",
+      "staff": "Conjuration",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "49-53",
+      "staff": "Enchantment",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "54-58",
+      "staff": "Evocation",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "59-63",
+      "staff": "Illusion",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "64-68",
+      "staff": "Necromancy",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "69-73",
+      "staff": "Transmutation",
+      "market_price": "65,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "74-77",
+      "staff": "Divination",
+      "market_price": "73,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "78-82",
+      "staff": "Earth and stone",
+      "market_price": "80,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "83-87",
+      "staff": "Woodlands",
+      "market_price": "101,250 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "88-92",
+      "staff": "Life",
+      "market_price": "155,750 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "93-97",
+      "staff": "Passage",
+      "market_price": "170,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "98-100",
+      "staff": "Power",
+      "market_price": "211,000 gp",
+      "indent_level": 0
+    }
+  ]
+}

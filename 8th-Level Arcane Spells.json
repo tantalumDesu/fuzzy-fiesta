@@ -1,0 +1,186 @@
+{
+  "title": "8th-Level Arcane Spells",
+  "source_file": "8th-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-02",
+      "spell": "antipathy",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "03-05",
+      "spell": "clenched fist",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "06-08",
+      "spell": "binding",
+      "market_price": "8,500 gp1"
+    },
+    {
+      "d": "09-12",
+      "spell": "charm monster, mass",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "13",
+      "spell": "clone",
+      "market_price": "4,000 gp"
+    },
+    {
+      "d": "14-16",
+      "spell": "create greater undead",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "17-19",
+      "spell": "demand",
+      "market_price": "3,600 gp"
+    },
+    {
+      "d": "20-22",
+      "spell": "dimensional lock",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "23-26",
+      "spell": "discern location",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "27-29",
+      "spell": "horrid wilting",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "30-32",
+      "spell": "incendiary cloud",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "33-35",
+      "spell": "iron body",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "36-38",
+      "spell": "maze",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "39-41",
+      "spell": "mind blank",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "42-44",
+      "spell": "moment of prescience",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "45-48",
+      "spell": "telekinetic sphere",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "49-51",
+      "spell": "irresistible dance",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "52-54",
+      "spell": "planar binding, greater",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "55-57",
+      "spell": "polar ray",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "58-60",
+      "spell": "polymorph any object",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "61-63",
+      "spell": "power word stun",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "64-66",
+      "spell": "prismatic wall",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "67-70",
+      "spell": "protection from spells",
+      "market_price": "3,500 gp"
+    },
+    {
+      "d": "71-73",
+      "spell": "prying eyes, greater",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "74-76",
+      "spell": "scintillating pattern",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "77-78",
+      "spell": "screen",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "79-81",
+      "spell": "shadow evocation, greater",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "82-84",
+      "spell": "shout, greater",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "85-87",
+      "spell": "summon monster VIII",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "88-90",
+      "spell": "sunburst",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "91",
+      "spell": "symbol of death",
+      "market_price": "8,000 gp"
+    },
+    {
+      "d": "92",
+      "spell": "symbol of insanity",
+      "market_price": "8,000 gp"
+    },
+    {
+      "d": "93-94",
+      "spell": "sympathy",
+      "market_price": "4,500 gp"
+    },
+    {
+      "d": "95-98",
+      "spell": "temporal stasis",
+      "market_price": "3,500 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "trap the soul",
+      "market_price": "13,000 gp"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "title": "5th-Level Divine Spells",
+  "source_file": "5th-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-03",
+      "spell": "animal growth",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "04-05",
+      "spell": "atonement",
+      "market_price": "3,625 gp"
+    },
+    {
+      "d": "06",
+      "spell": "awaken",
+      "market_price": "2,375 gp"
+    },
+    {
+      "d": "07-09",
+      "spell": "baleful polymorph",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "10-13",
+      "spell": "break enchantment",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "14-16",
+      "spell": "call lightning storm",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "17-20",
+      "spell": "command, greater",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "21",
+      "spell": "commune",
+      "market_price": "1,625 gp"
+    },
+    {
+      "d": "22",
+      "spell": "commune with nature",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "23-24",
+      "spell": "control winds",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "25-30",
+      "spell": "cure light wounds, mass",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "31-34",
+      "spell": "dispel chaos/evil/good/law",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "35-38",
+      "spell": "disrupting weapon",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "39-41",
+      "spell": "flame strike",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "42-43",
+      "spell": "hallow",
+      "market_price": "6,125 gp1"
+    },
+    {
+      "d": "44-46",
+      "spell": "ice storm",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "47-49",
+      "spell": "inflict light wounds, mass",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "50-52",
+      "spell": "insect plague",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "53",
+      "spell": "mark of justice",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "54-56",
+      "spell": "plane shift",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "57-58",
+      "spell": "raise dead",
+      "market_price": "6,125 gp"
+    },
+    {
+      "d": "59-61",
+      "spell": "righteous might",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "62-63",
+      "spell": "scrying",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "64-66",
+      "spell": "slay living",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "67-69",
+      "spell": "spell resistance",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "70-71",
+      "spell": "stoneskin",
+      "market_price": "1,375 gp"
+    },
+    {
+      "d": "72-74",
+      "spell": "summon monster V",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "75-77",
+      "spell": "summon nature’s ally V",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "78",
+      "spell": "symbol of pain",
+      "market_price": "2,125 gp"
+    },
+    {
+      "d": "79",
+      "spell": "symbol of sleep",
+      "market_price": "2,125 gp"
+    },
+    {
+      "d": "80-82",
+      "spell": "transmute mud to rock",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "83-85",
+      "spell": "transmute rock to mud",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "86-89",
+      "spell": "true seeing",
+      "market_price": "1,375 gp"
+    },
+    {
+      "d": "90-91",
+      "spell": "unhallow",
+      "market_price": "6,125 gp"
+    },
+    {
+      "d": "92-94",
+      "spell": "wall of fire",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "95-97",
+      "spell": "wall of stone",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "98-100",
+      "spell": "wall of thorns",
+      "market_price": "1,125 gp"
+    }
+  ]
+}

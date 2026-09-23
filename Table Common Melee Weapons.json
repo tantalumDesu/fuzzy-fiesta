@@ -1,0 +1,107 @@
+{
+  "title": "Common Melee Weapons",
+  "source_file": "Table Common Melee Weapons.txt",
+  "columns": [
+    "d%",
+    "Weapon",
+    "Weapon Cost1"
+  ],
+  "rows": [
+    {
+      "d_percentile": "01-04",
+      "weapon": "Dagger",
+      "weapon_cost1": "+302 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "05-14",
+      "weapon": "Greataxe",
+      "weapon_cost1": "+320 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "15-24",
+      "weapon": "Greatsword",
+      "weapon_cost1": "+350 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "25-28",
+      "weapon": "Kama",
+      "weapon_cost1": "+302 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "29-41",
+      "weapon": "Longsword",
+      "weapon_cost1": "+315 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "42-45",
+      "weapon": "Mace, light",
+      "weapon_cost1": "+305 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "46-50",
+      "weapon": "Mace, heavy",
+      "weapon_cost1": "+312 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "51-54",
+      "weapon": "Nunchaku",
+      "weapon_cost1": "+302 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "55-57",
+      "weapon": "Quarterstaff2",
+      "weapon_cost1": "+600 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "58-61",
+      "weapon": "Rapier",
+      "weapon_cost1": "+320 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "62-66",
+      "weapon": "Scimitar",
+      "weapon_cost1": "+315 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "67-70",
+      "weapon": "Shortspear",
+      "weapon_cost1": "+302 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "71-74",
+      "weapon": "Siangham",
+      "weapon_cost1": "+303 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "75-84",
+      "weapon": "Sword, bastard",
+      "weapon_cost1": "+335 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "85-89",
+      "weapon": "Sword, short",
+      "weapon_cost1": "+310 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "90-100",
+      "weapon": "Waraxe, dwarven",
+      "weapon_cost1": "+330 gp",
+      "indent_level": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Number of Spells on Scroll",
+  "source_file": "Table Number of Spells on Scroll.txt",
+  "columns": [
+    "Scroll Type",
+    "Number of Spells"
+  ],
+  "rows": [
+    {
+      "scroll_type": "Minor scroll",
+      "number_of_spells": "1d3 spells"
+    },
+    {
+      "scroll_type": "Medium scroll",
+      "number_of_spells": "1d4 spells"
+    },
+    {
+      "scroll_type": "Major scroll",
+      "number_of_spells": "1d6 spells"
+    }
+  ]
+}

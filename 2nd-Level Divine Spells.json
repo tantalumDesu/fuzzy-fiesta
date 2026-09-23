@@ -1,0 +1,271 @@
+{
+  "title": "2nd-Level Divine Spells",
+  "source_file": "2nd-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01",
+      "spell": "animal messenger",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "02",
+      "spell": "animal trance",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "03-04",
+      "spell": "augury",
+      "market_price": "175 gp"
+    },
+    {
+      "d": "05-06",
+      "spell": "barkskin",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "07-09",
+      "spell": "bear’s endurance",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "10-12",
+      "spell": "bull’s strength",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "13-14",
+      "spell": "calm emotions",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "15-17",
+      "spell": "cat’s grace",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "18",
+      "spell": "chill metal",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "19-20",
+      "spell": "consecrate",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "21-24",
+      "spell": "cure moderate wounds",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "25-26",
+      "spell": "darkness",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "27",
+      "spell": "death knell",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "28-30",
+      "spell": "delay poison",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "31-32",
+      "spell": "desecrate",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "33-35",
+      "spell": "eagle’s splendor",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "36-37",
+      "spell": "enthrall",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "38-39",
+      "spell": "find traps",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "40",
+      "spell": "fire trap",
+      "market_price": "175 gp"
+    },
+    {
+      "d": "41-42",
+      "spell": "flame blade",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "43-44",
+      "spell": "flaming sphere",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "45-46",
+      "spell": "fog cloud",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "47",
+      "spell": "gentle repose",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "48",
+      "spell": "gust of wind",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "49",
+      "spell": "heat metal",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "50-51",
+      "spell": "hold animal",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "52-54",
+      "spell": "hold person",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "55-56",
+      "spell": "inflict moderate wounds",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "57-58",
+      "spell": "make whole",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "59-61",
+      "spell": "owl’s wisdom",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "62",
+      "spell": "reduce animal",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "remove paralysis",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "65-67",
+      "spell": "resist energy",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "68-70",
+      "spell": "restoration, lesser",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "71-72",
+      "spell": "shatter",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "73-74",
+      "spell": "shield other",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "75-76",
+      "spell": "silence",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "77",
+      "spell": "snare",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "78",
+      "spell": "soften earth and stone",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "79-80",
+      "spell": "sound burst",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "81",
+      "spell": "speak with plants",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "82-83",
+      "spell": "spider climb",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "84-85",
+      "spell": "spiritual weapon",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "86",
+      "spell": "status",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "87-88",
+      "spell": "summon monster II",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "89-90",
+      "spell": "summon nature’s ally II",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "91-92",
+      "spell": "summon swarm",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "93",
+      "spell": "tree shape",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "94-95",
+      "spell": "undetectable alignment",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "96-97",
+      "spell": "warp wood",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "98",
+      "spell": "wood shape",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "zone of truth",
+      "market_price": "150 gp"
+    }
+  ]
+}

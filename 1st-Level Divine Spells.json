@@ -1,0 +1,226 @@
+{
+  "title": "1st-Level Divine Spells",
+  "source_file": "1st-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01",
+      "spell": "alarm",
+      "market_price": "100 gp"
+    },
+    {
+      "d": "02-03",
+      "spell": "bane",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "04-06",
+      "spell": "bless",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "07-09",
+      "spell": "bless water",
+      "market_price": "50 gp"
+    },
+    {
+      "d": "10",
+      "spell": "bless weapon",
+      "market_price": "100 gp"
+    },
+    {
+      "d": "11-12",
+      "spell": "calm animals",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "13-14",
+      "spell": "cause fear",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "15-16",
+      "spell": "charm animal",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "17-19",
+      "spell": "command",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "20-21",
+      "spell": "comprehend languages",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "22-26",
+      "spell": "cure light wounds",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "27-28",
+      "spell": "curse water",
+      "market_price": "50 gp"
+    },
+    {
+      "d": "29-30",
+      "spell": "deathwatch",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "31-32",
+      "spell": "detect animals or plants",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "33-35",
+      "spell": "detect chaos/evil/good/law",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "36-37",
+      "spell": "detect snares and pits",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "38-39",
+      "spell": "detect undead",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "40-41",
+      "spell": "divine favor",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "42-43",
+      "spell": "doom",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "44-48",
+      "spell": "endure elements",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "49-50",
+      "spell": "entangle",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "51-52",
+      "spell": "entropic shield",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "53-54",
+      "spell": "faerie fire",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "55-56",
+      "spell": "goodberry",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "57-58",
+      "spell": "hide from animals",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "59-60",
+      "spell": "hide from undead",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "61-62",
+      "spell": "inflict light wounds",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "jump",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "65-66",
+      "spell": "longstrider",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "67-68",
+      "spell": "magic fang",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "69-72",
+      "spell": "magic stone",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "73-74",
+      "spell": "magic weapon",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "75-78",
+      "spell": "obscuring mist",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "79-80",
+      "spell": "pass without trace",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "81-82",
+      "spell": "produce flame",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "83-86",
+      "spell": "protection from chaos/evil/good/law",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "87-88",
+      "spell": "remove fear",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "89-90",
+      "spell": "sanctuary",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "91-92",
+      "spell": "shield of faith",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "93-94",
+      "spell": "shillelagh",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "95-96",
+      "spell": "speak with animals",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "97-98",
+      "spell": "summon monster I",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "summon nature’s ally I",
+      "market_price": "25 gp"
+    }
+  ]
+}

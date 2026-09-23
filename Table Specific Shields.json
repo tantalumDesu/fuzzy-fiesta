@@ -1,0 +1,77 @@
+{
+  "title": "Specific Shields",
+  "source_file": "Table Specific Shields.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Specific Shield",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "minor": "01-30",
+      "medium": "01-20",
+      "major": "—",
+      "specific_shield": "Darkwood buckler",
+      "market_price": "205 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "31-80",
+      "medium": "21-45",
+      "major": "—",
+      "specific_shield": "Darkwood shield",
+      "market_price": "257 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "81-95",
+      "medium": "46-70",
+      "major": "—",
+      "specific_shield": "Mithral heavy shield",
+      "market_price": "1,020 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "96-100",
+      "medium": "71-85",
+      "major": "01-20",
+      "specific_shield": "Caster’s shield",
+      "market_price": "3,153 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "86-90",
+      "major": "21-40",
+      "specific_shield": "Spined shield",
+      "market_price": "5,580 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "91-95",
+      "major": "41-60",
+      "specific_shield": "Lion’s shield",
+      "market_price": "9,170 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "96-100",
+      "major": "61-90",
+      "specific_shield": "Winged shield",
+      "market_price": "17,257 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "91-100",
+      "specific_shield": "Absorbing shield",
+      "market_price": "50,170 gp",
+      "indent_level": 0
+    }
+  ]
+}

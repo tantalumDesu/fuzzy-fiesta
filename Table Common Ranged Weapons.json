@@ -1,0 +1,287 @@
+{
+  "title": "Common Ranged Weapons",
+  "source_file": "Table Common Ranged Weapons.txt",
+  "columns": [
+    "d%",
+    "Weapon",
+    "Weapon Cost"
+  ],
+  "rows": [
+    {
+      "d_percentile": "01-10",
+      "weapon": "Ammunition (roll again):",
+      "weapon_cost": "",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "01-50",
+      "weapon": "Arrows (50)",
+      "weapon_cost": "+302 gp 5 sp",
+      "indent_level": 1
+    },
+    {
+      "d_percentile": "51-75",
+      "weapon": "Bolts, crossbow (50)",
+      "weapon_cost": "+305 gp",
+      "indent_level": 1
+    },
+    {
+      "d_percentile": "76-80",
+      "weapon": "Bolts, repeating crossbow (50)",
+      "weapon_cost": "+310 gp",
+      "indent_level": 1
+    },
+    {
+      "d_percentile": "81-100",
+      "weapon": "Bullets, sling (50)",
+      "weapon_cost": "+300 gp 5 sp",
+      "indent_level": 1
+    },
+    {
+      "d_percentile": "11-15",
+      "weapon": "Axe, throwing",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "16-25",
+      "weapon": "Crossbow, heavy",
+      "weapon_cost": "+350 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "26-35",
+      "weapon": "Crossbow, light",
+      "weapon_cost": "+335 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "36-39",
+      "weapon": "Dart",
+      "weapon_cost": "+300 gp 5 sp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "40-41",
+      "weapon": "Javelin",
+      "weapon_cost": "+301 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "42-46",
+      "weapon": "Shortbow",
+      "weapon_cost": "+330 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "47-51",
+      "weapon": "Shortbow, composite (+0 Str bonus)",
+      "weapon_cost": "+375 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "52-56",
+      "weapon": "Shortbow, composite (+1 Str bonus)",
+      "weapon_cost": "+450 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "57-61",
+      "weapon": "Shortbow, composite (+2 Str bonus)",
+      "weapon_cost": "+525 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "62-65",
+      "weapon": "Sling",
+      "weapon_cost": "+300 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "66-75",
+      "weapon": "Longbow",
+      "weapon_cost": "+375 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "76-80",
+      "weapon": "Longbow, composite",
+      "weapon_cost": "+400 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "81-85",
+      "weapon": "Longbow, composite (+1 Str bonus)",
+      "weapon_cost": "+500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "86-90",
+      "weapon": "Longbow, composite (+2 Str bonus)",
+      "weapon_cost": "+600 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "91-95",
+      "weapon": "Longbow, composite (+3 Str bonus)",
+      "weapon_cost": "+700 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "96-100",
+      "weapon": "Longbow, composite (+4 Str bonus)",
+      "weapon_cost": "+800 gp",
+      "indent_level": 0
+    }
+  ],
+  "tree": [
+    {
+      "d_percentile": "01-10",
+      "weapon": "Ammunition (roll again):",
+      "weapon_cost": "",
+      "indent_level": 0,
+      "children": [
+        {
+          "d_percentile": "01-50",
+          "weapon": "Arrows (50)",
+          "weapon_cost": "+302 gp 5 sp",
+          "indent_level": 1,
+          "children": []
+        },
+        {
+          "d_percentile": "51-75",
+          "weapon": "Bolts, crossbow (50)",
+          "weapon_cost": "+305 gp",
+          "indent_level": 1,
+          "children": []
+        },
+        {
+          "d_percentile": "76-80",
+          "weapon": "Bolts, repeating crossbow (50)",
+          "weapon_cost": "+310 gp",
+          "indent_level": 1,
+          "children": []
+        },
+        {
+          "d_percentile": "81-100",
+          "weapon": "Bullets, sling (50)",
+          "weapon_cost": "+300 gp 5 sp",
+          "indent_level": 1,
+          "children": []
+        }
+      ]
+    },
+    {
+      "d_percentile": "11-15",
+      "weapon": "Axe, throwing",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "16-25",
+      "weapon": "Crossbow, heavy",
+      "weapon_cost": "+350 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "26-35",
+      "weapon": "Crossbow, light",
+      "weapon_cost": "+335 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "36-39",
+      "weapon": "Dart",
+      "weapon_cost": "+300 gp 5 sp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "40-41",
+      "weapon": "Javelin",
+      "weapon_cost": "+301 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "42-46",
+      "weapon": "Shortbow",
+      "weapon_cost": "+330 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "47-51",
+      "weapon": "Shortbow, composite (+0 Str bonus)",
+      "weapon_cost": "+375 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "52-56",
+      "weapon": "Shortbow, composite (+1 Str bonus)",
+      "weapon_cost": "+450 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "57-61",
+      "weapon": "Shortbow, composite (+2 Str bonus)",
+      "weapon_cost": "+525 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "62-65",
+      "weapon": "Sling",
+      "weapon_cost": "+300 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "66-75",
+      "weapon": "Longbow",
+      "weapon_cost": "+375 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "76-80",
+      "weapon": "Longbow, composite",
+      "weapon_cost": "+400 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "81-85",
+      "weapon": "Longbow, composite (+1 Str bonus)",
+      "weapon_cost": "+500 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "86-90",
+      "weapon": "Longbow, composite (+2 Str bonus)",
+      "weapon_cost": "+600 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "91-95",
+      "weapon": "Longbow, composite (+3 Str bonus)",
+      "weapon_cost": "+700 gp",
+      "indent_level": 0,
+      "children": []
+    },
+    {
+      "d_percentile": "96-100",
+      "weapon": "Longbow, composite (+4 Str bonus)",
+      "weapon_cost": "+800 gp",
+      "indent_level": 0,
+      "children": []
+    }
+  ]
+}

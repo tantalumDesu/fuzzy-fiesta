@@ -1,0 +1,246 @@
+{
+  "title": "3rd-Level Arcane Spells",
+  "source_file": "3rd-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-02",
+      "spell": "arcane sight",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "03-04",
+      "spell": "blink",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "05-06",
+      "spell": "clairaudience/clairvoyance",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "07",
+      "spell": "cure serious wounds",
+      "market_price": "525 gp"
+    },
+    {
+      "d": "08-10",
+      "spell": "daylight",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "11-12",
+      "spell": "deep slumber",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "13-15",
+      "spell": "dispel magic",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "16-17",
+      "spell": "displacement",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "18",
+      "spell": "explosive runes",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "19-20",
+      "spell": "fireball",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "21-22",
+      "spell": "flame arrow",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "23-25",
+      "spell": "fly",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "26-27",
+      "spell": "gaseous form",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "28-29",
+      "spell": "gentle repose",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "30",
+      "spell": "glibness",
+      "market_price": "525 gp"
+    },
+    {
+      "d": "31",
+      "spell": "good hope",
+      "market_price": "525 gp"
+    },
+    {
+      "d": "32-33",
+      "spell": "halt undead",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "34-36",
+      "spell": "haste",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "37-38",
+      "spell": "heroism",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "39-40",
+      "spell": "hold person",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "41",
+      "spell": "illusory script",
+      "market_price": "425 gp"
+    },
+    {
+      "d": "42-44",
+      "spell": "invisibility sphere",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "45-47",
+      "spell": "keen edge",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "48-49",
+      "spell": "tiny hut",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "50-51",
+      "spell": "lightning bolt",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "52-59",
+      "spell": "magic circle against chaos/evil/good/law",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "60-62",
+      "spell": "magic weapon, greater",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "major image",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "65-66",
+      "spell": "nondetection",
+      "market_price": "425 gp"
+    },
+    {
+      "d": "67-68",
+      "spell": "phantom steed",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "69-71",
+      "spell": "protection from energy",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "72-73",
+      "spell": "rage",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "74-75",
+      "spell": "ray of exhaustion",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "76",
+      "spell": "sculpt sound",
+      "market_price": "525 gp"
+    },
+    {
+      "d": "77",
+      "spell": "secret page",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "78",
+      "spell": "sepia snake sigil",
+      "market_price": "875 gp"
+    },
+    {
+      "d": "79",
+      "spell": "shrink item",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "80-81",
+      "spell": "sleet storm",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "82-83",
+      "spell": "slow",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "84",
+      "spell": "speak with animals",
+      "market_price": "525 gp"
+    },
+    {
+      "d": "85-86",
+      "spell": "stinking cloud",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "87-88",
+      "spell": "suggestion",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "89-90",
+      "spell": "summon monster III",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "91-93",
+      "spell": "tongues",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "94-95",
+      "spell": "vampiric touch",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "96-98",
+      "spell": "water breathing",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "wind wall",
+      "market_price": "375 gp"
+    }
+  ]
+}

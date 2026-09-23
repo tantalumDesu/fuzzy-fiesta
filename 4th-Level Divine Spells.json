@@ -1,0 +1,176 @@
+{
+  "title": "4th-Level Divine Spells",
+  "source_file": "4th-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-05",
+      "spell": "air walk",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "06-07",
+      "spell": "antiplant shell",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "08-09",
+      "spell": "blight",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "10-11",
+      "spell": "break enchantment",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "12-13",
+      "spell": "command plants",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "14-15",
+      "spell": "control water",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "16-21",
+      "spell": "cure critical wounds",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "22-26",
+      "spell": "death ward",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "27-31",
+      "spell": "dimensional anchor",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "32-34",
+      "spell": "discern lies",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "35-37",
+      "spell": "dismissal",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "38-39",
+      "spell": "divination",
+      "market_price": "725 gp"
+    },
+    {
+      "d": "40-42",
+      "spell": "divine power",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "43-47",
+      "spell": "freedom of movement",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "48-49",
+      "spell": "giant vermin",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "50-51",
+      "spell": "holy sword",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "52-54",
+      "spell": "imbue with spell ability",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "55-57",
+      "spell": "inflict critical wounds",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "58-60",
+      "spell": "magic weapon, greater",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "61-62",
+      "spell": "nondetection",
+      "market_price": "750 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "planar ally, lesser",
+      "market_price": "1,200 gp"
+    },
+    {
+      "d": "65-67",
+      "spell": "poison",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "68-69",
+      "spell": "reincarnate",
+      "market_price": "1,700 gp"
+    },
+    {
+      "d": "70-71",
+      "spell": "repel vermin",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "72-76",
+      "spell": "restoration",
+      "market_price": "800 gp"
+    },
+    {
+      "d": "77-78",
+      "spell": "rusting grasp",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "79-81",
+      "spell": "sending",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "82-85",
+      "spell": "spell immunity",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "86-87",
+      "spell": "spike stones",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "88-90",
+      "spell": "summon monster IV",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "91-93",
+      "spell": "summon nature’s ally IV",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "94-98",
+      "spell": "tongues",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "tree stride",
+      "market_price": "700 gp"
+    }
+  ]
+}

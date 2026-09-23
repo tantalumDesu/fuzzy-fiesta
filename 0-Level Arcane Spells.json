@@ -1,0 +1,121 @@
+{
+  "title": "0-Level Arcane Spells",
+  "source_file": "0-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-04",
+      "spell": "acid splash",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "05-08",
+      "spell": "arcane mark",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "09-13",
+      "spell": "dancing lights",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "14-17",
+      "spell": "daze",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "18-24",
+      "spell": "detect magic",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "25-28",
+      "spell": "detect poison",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "29-32",
+      "spell": "disrupt undead",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "33-37",
+      "spell": "flare",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "38-42",
+      "spell": "ghost sound",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "43-44",
+      "spell": "know direction",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "45-50",
+      "spell": "light",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "51-52",
+      "spell": "lullaby",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "53-57",
+      "spell": "mage hand",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "58-62",
+      "spell": "mending",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "63-67",
+      "spell": "message",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "68-72",
+      "spell": "open/close",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "73-77",
+      "spell": "prestidigitation",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "78-81",
+      "spell": "ray of frost",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "82-87",
+      "spell": "read magic",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "88-94",
+      "spell": "resistance",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "95-96",
+      "spell": "summon instrument",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "97-100",
+      "spell": "touch of fatigue",
+      "market_price": "12 gp 5 sp"
+    }
+  ]
+}

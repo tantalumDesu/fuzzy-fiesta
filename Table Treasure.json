@@ -1,0 +1,1798 @@
+{
+  "title": "Treasure",
+  "source_file": "Table: Treasure",
+  "columns": [
+    "Level",
+    "d%",
+    "Coins",
+    "d%",
+    "Goods",
+    "d%",
+    "Items"
+  ],
+  "rows": [
+    {
+      "level": "1st",
+      "d_percentile": "01-14",
+      "coins": "—",
+      "d_percentile_2": "01-90",
+      "goods": "—",
+      "d_percentile_3": "01-71",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "15-29",
+      "coins": "1d6 × 1,000 cp",
+      "d_percentile_2": "91-95",
+      "goods": "1 gem",
+      "d_percentile_3": "72-95",
+      "items": "1 mundane"
+    },
+    {
+      "level": "",
+      "d_percentile": "30-52",
+      "coins": "1d8 × 100 sp",
+      "d_percentile_2": "96-100",
+      "goods": "1 art",
+      "d_percentile_3": "96-100",
+      "items": "1 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "53-95",
+      "coins": "2d8 × 10 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "96-100",
+      "coins": "1d4 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "2nd",
+      "d_percentile": "01-13",
+      "coins": "—",
+      "d_percentile_2": "01-81",
+      "goods": "—",
+      "d_percentile_3": "01-49",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "14-23",
+      "coins": "1d10 × 1,000 cp",
+      "d_percentile_2": "82-95",
+      "goods": "1d3 gems",
+      "d_percentile_3": "50-85",
+      "items": "1 mundane"
+    },
+    {
+      "level": "",
+      "d_percentile": "24-43",
+      "coins": "2d10 × 100 sp",
+      "d_percentile_2": "96-100",
+      "goods": "1d3 art",
+      "d_percentile_3": "86-100",
+      "items": "1 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "44-95",
+      "coins": "4d10 × 10 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "96-100",
+      "coins": "2d8 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "3rd",
+      "d_percentile": "01-11",
+      "coins": "—",
+      "d_percentile_2": "01-77",
+      "goods": "—",
+      "d_percentile_3": "01-49",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "12-21",
+      "coins": "2d10 × 1,000 cp",
+      "d_percentile_2": "78-95",
+      "goods": "1d3 gems",
+      "d_percentile_3": "50-79",
+      "items": "1d3 mundane"
+    },
+    {
+      "level": "",
+      "d_percentile": "22-41",
+      "coins": "4d8 × 100 sp",
+      "d_percentile_2": "96-100",
+      "goods": "1d3 art",
+      "d_percentile_3": "80-100",
+      "items": "1 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "42-95",
+      "coins": "1d4 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "96-100",
+      "coins": "1d10 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "4th",
+      "d_percentile": "01-11",
+      "coins": "—",
+      "d_percentile_2": "01-70",
+      "goods": "—",
+      "d_percentile_3": "01-42",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "12-21",
+      "coins": "3d10 × 1,000 cp",
+      "d_percentile_2": "71-95",
+      "goods": "1d4 gems",
+      "d_percentile_3": "43-62",
+      "items": "1d4 mundane"
+    },
+    {
+      "level": "",
+      "d_percentile": "22-41",
+      "coins": "4d12 × 1,000 sp",
+      "d_percentile_2": "96-100",
+      "goods": "1d3 art",
+      "d_percentile_3": "63-100",
+      "items": "1 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "42-95",
+      "coins": "1d6 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "96-100",
+      "coins": "1d8 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "5th",
+      "d_percentile": "01-10",
+      "coins": "—",
+      "d_percentile_2": "01-60",
+      "goods": "—",
+      "d_percentile_3": "01-57",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "11-19",
+      "coins": "1d4 × 10,000 cp",
+      "d_percentile_2": "61-95",
+      "goods": "1d4 gems",
+      "d_percentile_3": "58-67",
+      "items": "1d4 mundane"
+    },
+    {
+      "level": "",
+      "d_percentile": "20-38",
+      "coins": "1d6 × 1,000 sp",
+      "d_percentile_2": "96-100",
+      "goods": "1d4 art",
+      "d_percentile_3": "68-100",
+      "items": "1d3 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "39-95",
+      "coins": "1d8 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "96-100",
+      "coins": "1d10 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "6th",
+      "d_percentile": "01-10",
+      "coins": "—",
+      "d_percentile_2": "01-56",
+      "goods": "—",
+      "d_percentile_3": "01-54",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "11-18",
+      "coins": "1d6 × 10,000 cp",
+      "d_percentile_2": "57-92",
+      "goods": "1d4 gems",
+      "d_percentile_3": "55-59",
+      "items": "1d4 mundane"
+    },
+    {
+      "level": "",
+      "d_percentile": "19-37",
+      "coins": "1d8 × 1,000 sp",
+      "d_percentile_2": "93-100",
+      "goods": "1d4 art",
+      "d_percentile_3": "60-99",
+      "items": "1d3 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "38-95",
+      "coins": "1d10 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "100",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "96-100",
+      "coins": "1d12 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "7th",
+      "d_percentile": "01-11",
+      "coins": "—",
+      "d_percentile_2": "01-48",
+      "goods": "—",
+      "d_percentile_3": "01-51",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "12-18",
+      "coins": "1d10 × 10,000 cp",
+      "d_percentile_2": "49-88",
+      "goods": "1d4 gems",
+      "d_percentile_3": "52-97",
+      "items": "1d3 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "19-35",
+      "coins": "1d12 × 1,000 sp",
+      "d_percentile_2": "89-100",
+      "goods": "1d4 art",
+      "d_percentile_3": "98-100",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "36-93",
+      "coins": "2d6 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "94-100",
+      "coins": "3d4 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "8th",
+      "d_percentile": "01-10",
+      "coins": "—",
+      "d_percentile_2": "01-45",
+      "goods": "—",
+      "d_percentile_3": "01-48",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "11-15",
+      "coins": "1d12 × 10,000 cp",
+      "d_percentile_2": "46-85",
+      "goods": "1d6 gems",
+      "d_percentile_3": "49-96",
+      "items": "1d4 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "16-29",
+      "coins": "2d6 × 1,000 sp",
+      "d_percentile_2": "86-100",
+      "goods": "1d4 art",
+      "d_percentile_3": "97-100",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "30-87",
+      "coins": "2d8 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "88-100",
+      "coins": "3d6 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "9th",
+      "d_percentile": "01-10",
+      "coins": "—",
+      "d_percentile_2": "01-40",
+      "goods": "—",
+      "d_percentile_3": "01-43",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "11-15",
+      "coins": "2d6 × 10,000 cp",
+      "d_percentile_2": "41-80",
+      "goods": "1d8 gems",
+      "d_percentile_3": "44-91",
+      "items": "1d4 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "16-29",
+      "coins": "2d8 × 1,000 sp",
+      "d_percentile_2": "81-100",
+      "goods": "1d4 art",
+      "d_percentile_3": "92-100",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "30-85",
+      "coins": "5d4 × 100 gp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "",
+      "d_percentile": "86-100",
+      "coins": "2d12 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "",
+      "items": ""
+    },
+    {
+      "level": "10th",
+      "d_percentile": "01-10",
+      "coins": "—",
+      "d_percentile_2": "01-35",
+      "goods": "—",
+      "d_percentile_3": "01-40",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "11-24",
+      "coins": "2d10 × 1,000 sp",
+      "d_percentile_2": "36-79",
+      "goods": "1d8 gems",
+      "d_percentile_3": "41-88",
+      "items": "1d4 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "25-79",
+      "coins": "6d4 × 100 gp",
+      "d_percentile_2": "80-100",
+      "goods": "1d6 art",
+      "d_percentile_3": "89-99",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "80-100",
+      "coins": "5d6 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "100",
+      "items": "1 major"
+    },
+    {
+      "level": "11th",
+      "d_percentile": "01-08",
+      "coins": "—",
+      "d_percentile_2": "01-24",
+      "goods": "—",
+      "d_percentile_3": "01-31",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "09-14",
+      "coins": "3d10 × 1,000 sp",
+      "d_percentile_2": "25-74",
+      "goods": "1d10 gems",
+      "d_percentile_3": "32-84",
+      "items": "1d4 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "15-75",
+      "coins": "4d8 × 100 gp",
+      "d_percentile_2": "75-100",
+      "goods": "1d6 art",
+      "d_percentile_3": "85-98",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "76-100",
+      "coins": "4d10 × 10 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "99-100",
+      "items": "1 major"
+    },
+    {
+      "level": "12th",
+      "d_percentile": "01-08",
+      "coins": "—",
+      "d_percentile_2": "01-17",
+      "goods": "—",
+      "d_percentile_3": "01-27",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "09-14",
+      "coins": "3d12 × 1,000 sp",
+      "d_percentile_2": "18-70",
+      "goods": "1d10 gems",
+      "d_percentile_3": "28-82",
+      "items": "1d6 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "15-75",
+      "coins": "1d4 × 1,000 gp",
+      "d_percentile_2": "71-100",
+      "goods": "1d8 art",
+      "d_percentile_3": "83-97",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "76-100",
+      "coins": "1d4 × 100 pp",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "98-100",
+      "items": "1 major"
+    },
+    {
+      "level": "13th",
+      "d_percentile": "01-08",
+      "coins": "—",
+      "d_percentile_2": "01-11",
+      "goods": "—",
+      "d_percentile_3": "01-19",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "09-75",
+      "coins": "1d4 × 1,000 gp",
+      "d_percentile_2": "12-66",
+      "goods": "1d12 gems",
+      "d_percentile_3": "20-73",
+      "items": "1d6 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "76-100",
+      "coins": "1d10 × 100 pp",
+      "d_percentile_2": "67-100",
+      "goods": "1d10 art",
+      "d_percentile_3": "74-95",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "",
+      "coins": "",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "96-100",
+      "items": "1 major"
+    },
+    {
+      "level": "14th",
+      "d_percentile": "01-08",
+      "coins": "—",
+      "d_percentile_2": "01-11",
+      "goods": "—",
+      "d_percentile_3": "01-19",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "09-75",
+      "coins": "1d6 × 1,000 gp",
+      "d_percentile_2": "12-66",
+      "goods": "2d8 gems",
+      "d_percentile_3": "20-58",
+      "items": "1d6 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "76-100",
+      "coins": "1d12 × 100 pp",
+      "d_percentile_2": "67-100",
+      "goods": "2d6 art",
+      "d_percentile_3": "59-92",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "",
+      "coins": "",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "93-100",
+      "items": "1 major"
+    },
+    {
+      "level": "15th",
+      "d_percentile": "01-03",
+      "coins": "—",
+      "d_percentile_2": "01-09",
+      "goods": "—",
+      "d_percentile_3": "01-11",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "04-74",
+      "coins": "1d8 × 1,000 gp",
+      "d_percentile_2": "10-65",
+      "goods": "2d10 gems",
+      "d_percentile_3": "12-46",
+      "items": "1d10 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "75-100",
+      "coins": "3d4 × 100 pp",
+      "d_percentile_2": "66-100",
+      "goods": "2d8 art",
+      "d_percentile_3": "47-90",
+      "items": "1 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "",
+      "coins": "",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "91-100",
+      "items": "1 major"
+    },
+    {
+      "level": "16th",
+      "d_percentile": "01-03",
+      "coins": "—",
+      "d_percentile_2": "01-07",
+      "goods": "—",
+      "d_percentile_3": "01-40",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "04-74",
+      "coins": "1d12 × 1,000 gp",
+      "d_percentile_2": "08-64",
+      "goods": "4d6 gems",
+      "d_percentile_3": "41-46",
+      "items": "1d10 minor"
+    },
+    {
+      "level": "",
+      "d_percentile": "75-100",
+      "coins": "3d4 × 100 pp",
+      "d_percentile_2": "65-100",
+      "goods": "2d10 art",
+      "d_percentile_3": "47-90",
+      "items": "1d3 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "",
+      "coins": "",
+      "d_percentile_2": "",
+      "goods": "",
+      "d_percentile_3": "91-100",
+      "items": "1 major"
+    },
+    {
+      "level": "17th",
+      "d_percentile": "01-03",
+      "coins": "—",
+      "d_percentile_2": "01-04",
+      "goods": "—",
+      "d_percentile_3": "01-33",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "04-68",
+      "coins": "3d4 × 1,000 gp",
+      "d_percentile_2": "05-63",
+      "goods": "4d8 gems",
+      "d_percentile_3": "34-83",
+      "items": "1d3 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "69-100",
+      "coins": "2d10 × 100 pp",
+      "d_percentile_2": "64-100",
+      "goods": "3d8 art",
+      "d_percentile_3": "84-100",
+      "items": "1 major"
+    },
+    {
+      "level": "18th",
+      "d_percentile": "01-02",
+      "coins": "—",
+      "d_percentile_2": "01-04",
+      "goods": "—",
+      "d_percentile_3": "01-24",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "03-65",
+      "coins": "3d6 × 1,000 gp",
+      "d_percentile_2": "05-54",
+      "goods": "3d12 gems",
+      "d_percentile_3": "25-80",
+      "items": "1d4 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "66-100",
+      "coins": "5d4 × 100 pp",
+      "d_percentile_2": "55-100",
+      "goods": "3d10 art",
+      "d_percentile_3": "81-100",
+      "items": "1 major"
+    },
+    {
+      "level": "19th",
+      "d_percentile": "01-02",
+      "coins": "—",
+      "d_percentile_2": "01-03",
+      "goods": "—",
+      "d_percentile_3": "01-04",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "03-65",
+      "coins": "3d8 × 1,000 gp",
+      "d_percentile_2": "04-50",
+      "goods": "6d6 gems",
+      "d_percentile_3": "05-70",
+      "items": "1d4 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "66-100",
+      "coins": "3d10 × 100 pp",
+      "d_percentile_2": "51-100",
+      "goods": "6d6 art",
+      "d_percentile_3": "71-100",
+      "items": "1 major"
+    },
+    {
+      "level": "20th",
+      "d_percentile": "01-02",
+      "coins": "—",
+      "d_percentile_2": "01-02",
+      "goods": "—",
+      "d_percentile_3": "01-25",
+      "items": "—"
+    },
+    {
+      "level": "",
+      "d_percentile": "03-65",
+      "coins": "4d8 × 1,000 gp",
+      "d_percentile_2": "03-38",
+      "goods": "4d10 gems",
+      "d_percentile_3": "26-65",
+      "items": "1d4 medium"
+    },
+    {
+      "level": "",
+      "d_percentile": "66-100",
+      "coins": "4d10 × 100 pp",
+      "d_percentile_2": "39-100",
+      "goods": "7d6 art",
+      "d_percentile_3": "66-100",
+      "items": "1d3 major"
+    }
+  ],
+  "levels": [
+    {
+      "level": "1st",
+      "coins": [
+        {
+          "d_percentile": "01-14",
+          "result": "—"
+        },
+        {
+          "d_percentile": "15-29",
+          "result": "1d6 × 1,000 cp"
+        },
+        {
+          "d_percentile": "30-52",
+          "result": "1d8 × 100 sp"
+        },
+        {
+          "d_percentile": "53-95",
+          "result": "2d8 × 10 gp"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d4 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-90",
+          "result": "—"
+        },
+        {
+          "d_percentile": "91-95",
+          "result": "1 gem"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-71",
+          "result": "—"
+        },
+        {
+          "d_percentile": "72-95",
+          "result": "1 mundane"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1 minor"
+        }
+      ]
+    },
+    {
+      "level": "2nd",
+      "coins": [
+        {
+          "d_percentile": "01-13",
+          "result": "—"
+        },
+        {
+          "d_percentile": "14-23",
+          "result": "1d10 × 1,000 cp"
+        },
+        {
+          "d_percentile": "24-43",
+          "result": "2d10 × 100 sp"
+        },
+        {
+          "d_percentile": "44-95",
+          "result": "4d10 × 10 gp"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "2d8 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-81",
+          "result": "—"
+        },
+        {
+          "d_percentile": "82-95",
+          "result": "1d3 gems"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d3 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-49",
+          "result": "—"
+        },
+        {
+          "d_percentile": "50-85",
+          "result": "1 mundane"
+        },
+        {
+          "d_percentile": "86-100",
+          "result": "1 minor"
+        }
+      ]
+    },
+    {
+      "level": "3rd",
+      "coins": [
+        {
+          "d_percentile": "01-11",
+          "result": "—"
+        },
+        {
+          "d_percentile": "12-21",
+          "result": "2d10 × 1,000 cp"
+        },
+        {
+          "d_percentile": "22-41",
+          "result": "4d8 × 100 sp"
+        },
+        {
+          "d_percentile": "42-95",
+          "result": "1d4 × 100 gp"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d10 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-77",
+          "result": "—"
+        },
+        {
+          "d_percentile": "78-95",
+          "result": "1d3 gems"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d3 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-49",
+          "result": "—"
+        },
+        {
+          "d_percentile": "50-79",
+          "result": "1d3 mundane"
+        },
+        {
+          "d_percentile": "80-100",
+          "result": "1 minor"
+        }
+      ]
+    },
+    {
+      "level": "4th",
+      "coins": [
+        {
+          "d_percentile": "01-11",
+          "result": "—"
+        },
+        {
+          "d_percentile": "12-21",
+          "result": "3d10 × 1,000 cp"
+        },
+        {
+          "d_percentile": "22-41",
+          "result": "4d12 × 1,000 sp"
+        },
+        {
+          "d_percentile": "42-95",
+          "result": "1d6 × 100 gp"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d8 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-70",
+          "result": "—"
+        },
+        {
+          "d_percentile": "71-95",
+          "result": "1d4 gems"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d3 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-42",
+          "result": "—"
+        },
+        {
+          "d_percentile": "43-62",
+          "result": "1d4 mundane"
+        },
+        {
+          "d_percentile": "63-100",
+          "result": "1 minor"
+        }
+      ]
+    },
+    {
+      "level": "5th",
+      "coins": [
+        {
+          "d_percentile": "01-10",
+          "result": "—"
+        },
+        {
+          "d_percentile": "11-19",
+          "result": "1d4 × 10,000 cp"
+        },
+        {
+          "d_percentile": "20-38",
+          "result": "1d6 × 1,000 sp"
+        },
+        {
+          "d_percentile": "39-95",
+          "result": "1d8 × 100 gp"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d10 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-60",
+          "result": "—"
+        },
+        {
+          "d_percentile": "61-95",
+          "result": "1d4 gems"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d4 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-57",
+          "result": "—"
+        },
+        {
+          "d_percentile": "58-67",
+          "result": "1d4 mundane"
+        },
+        {
+          "d_percentile": "68-100",
+          "result": "1d3 minor"
+        }
+      ]
+    },
+    {
+      "level": "6th",
+      "coins": [
+        {
+          "d_percentile": "01-10",
+          "result": "—"
+        },
+        {
+          "d_percentile": "11-18",
+          "result": "1d6 × 10,000 cp"
+        },
+        {
+          "d_percentile": "19-37",
+          "result": "1d8 × 1,000 sp"
+        },
+        {
+          "d_percentile": "38-95",
+          "result": "1d10 × 100 gp"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1d12 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-56",
+          "result": "—"
+        },
+        {
+          "d_percentile": "57-92",
+          "result": "1d4 gems"
+        },
+        {
+          "d_percentile": "93-100",
+          "result": "1d4 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-54",
+          "result": "—"
+        },
+        {
+          "d_percentile": "55-59",
+          "result": "1d4 mundane"
+        },
+        {
+          "d_percentile": "60-99",
+          "result": "1d3 minor"
+        },
+        {
+          "d_percentile": "100",
+          "result": "1 medium"
+        }
+      ]
+    },
+    {
+      "level": "7th",
+      "coins": [
+        {
+          "d_percentile": "01-11",
+          "result": "—"
+        },
+        {
+          "d_percentile": "12-18",
+          "result": "1d10 × 10,000 cp"
+        },
+        {
+          "d_percentile": "19-35",
+          "result": "1d12 × 1,000 sp"
+        },
+        {
+          "d_percentile": "36-93",
+          "result": "2d6 × 100 gp"
+        },
+        {
+          "d_percentile": "94-100",
+          "result": "3d4 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-48",
+          "result": "—"
+        },
+        {
+          "d_percentile": "49-88",
+          "result": "1d4 gems"
+        },
+        {
+          "d_percentile": "89-100",
+          "result": "1d4 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-51",
+          "result": "—"
+        },
+        {
+          "d_percentile": "52-97",
+          "result": "1d3 minor"
+        },
+        {
+          "d_percentile": "98-100",
+          "result": "1 medium"
+        }
+      ]
+    },
+    {
+      "level": "8th",
+      "coins": [
+        {
+          "d_percentile": "01-10",
+          "result": "—"
+        },
+        {
+          "d_percentile": "11-15",
+          "result": "1d12 × 10,000 cp"
+        },
+        {
+          "d_percentile": "16-29",
+          "result": "2d6 × 1,000 sp"
+        },
+        {
+          "d_percentile": "30-87",
+          "result": "2d8 × 100 gp"
+        },
+        {
+          "d_percentile": "88-100",
+          "result": "3d6 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-45",
+          "result": "—"
+        },
+        {
+          "d_percentile": "46-85",
+          "result": "1d6 gems"
+        },
+        {
+          "d_percentile": "86-100",
+          "result": "1d4 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-48",
+          "result": "—"
+        },
+        {
+          "d_percentile": "49-96",
+          "result": "1d4 minor"
+        },
+        {
+          "d_percentile": "97-100",
+          "result": "1 medium"
+        }
+      ]
+    },
+    {
+      "level": "9th",
+      "coins": [
+        {
+          "d_percentile": "01-10",
+          "result": "—"
+        },
+        {
+          "d_percentile": "11-15",
+          "result": "2d6 × 10,000 cp"
+        },
+        {
+          "d_percentile": "16-29",
+          "result": "2d8 × 1,000 sp"
+        },
+        {
+          "d_percentile": "30-85",
+          "result": "5d4 × 100 gp"
+        },
+        {
+          "d_percentile": "86-100",
+          "result": "2d12 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-40",
+          "result": "—"
+        },
+        {
+          "d_percentile": "41-80",
+          "result": "1d8 gems"
+        },
+        {
+          "d_percentile": "81-100",
+          "result": "1d4 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-43",
+          "result": "—"
+        },
+        {
+          "d_percentile": "44-91",
+          "result": "1d4 minor"
+        },
+        {
+          "d_percentile": "92-100",
+          "result": "1 medium"
+        }
+      ]
+    },
+    {
+      "level": "10th",
+      "coins": [
+        {
+          "d_percentile": "01-10",
+          "result": "—"
+        },
+        {
+          "d_percentile": "11-24",
+          "result": "2d10 × 1,000 sp"
+        },
+        {
+          "d_percentile": "25-79",
+          "result": "6d4 × 100 gp"
+        },
+        {
+          "d_percentile": "80-100",
+          "result": "5d6 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-35",
+          "result": "—"
+        },
+        {
+          "d_percentile": "36-79",
+          "result": "1d8 gems"
+        },
+        {
+          "d_percentile": "80-100",
+          "result": "1d6 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-40",
+          "result": "—"
+        },
+        {
+          "d_percentile": "41-88",
+          "result": "1d4 minor"
+        },
+        {
+          "d_percentile": "89-99",
+          "result": "1 medium"
+        },
+        {
+          "d_percentile": "100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "11th",
+      "coins": [
+        {
+          "d_percentile": "01-08",
+          "result": "—"
+        },
+        {
+          "d_percentile": "09-14",
+          "result": "3d10 × 1,000 sp"
+        },
+        {
+          "d_percentile": "15-75",
+          "result": "4d8 × 100 gp"
+        },
+        {
+          "d_percentile": "76-100",
+          "result": "4d10 × 10 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-24",
+          "result": "—"
+        },
+        {
+          "d_percentile": "25-74",
+          "result": "1d10 gems"
+        },
+        {
+          "d_percentile": "75-100",
+          "result": "1d6 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-31",
+          "result": "—"
+        },
+        {
+          "d_percentile": "32-84",
+          "result": "1d4 minor"
+        },
+        {
+          "d_percentile": "85-98",
+          "result": "1 medium"
+        },
+        {
+          "d_percentile": "99-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "12th",
+      "coins": [
+        {
+          "d_percentile": "01-08",
+          "result": "—"
+        },
+        {
+          "d_percentile": "09-14",
+          "result": "3d12 × 1,000 sp"
+        },
+        {
+          "d_percentile": "15-75",
+          "result": "1d4 × 1,000 gp"
+        },
+        {
+          "d_percentile": "76-100",
+          "result": "1d4 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-17",
+          "result": "—"
+        },
+        {
+          "d_percentile": "18-70",
+          "result": "1d10 gems"
+        },
+        {
+          "d_percentile": "71-100",
+          "result": "1d8 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-27",
+          "result": "—"
+        },
+        {
+          "d_percentile": "28-82",
+          "result": "1d6 minor"
+        },
+        {
+          "d_percentile": "83-97",
+          "result": "1 medium"
+        },
+        {
+          "d_percentile": "98-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "13th",
+      "coins": [
+        {
+          "d_percentile": "01-08",
+          "result": "—"
+        },
+        {
+          "d_percentile": "09-75",
+          "result": "1d4 × 1,000 gp"
+        },
+        {
+          "d_percentile": "76-100",
+          "result": "1d10 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-11",
+          "result": "—"
+        },
+        {
+          "d_percentile": "12-66",
+          "result": "1d12 gems"
+        },
+        {
+          "d_percentile": "67-100",
+          "result": "1d10 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-19",
+          "result": "—"
+        },
+        {
+          "d_percentile": "20-73",
+          "result": "1d6 minor"
+        },
+        {
+          "d_percentile": "74-95",
+          "result": "1 medium"
+        },
+        {
+          "d_percentile": "96-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "14th",
+      "coins": [
+        {
+          "d_percentile": "01-08",
+          "result": "—"
+        },
+        {
+          "d_percentile": "09-75",
+          "result": "1d6 × 1,000 gp"
+        },
+        {
+          "d_percentile": "76-100",
+          "result": "1d12 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-11",
+          "result": "—"
+        },
+        {
+          "d_percentile": "12-66",
+          "result": "2d8 gems"
+        },
+        {
+          "d_percentile": "67-100",
+          "result": "2d6 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-19",
+          "result": "—"
+        },
+        {
+          "d_percentile": "20-58",
+          "result": "1d6 minor"
+        },
+        {
+          "d_percentile": "59-92",
+          "result": "1 medium"
+        },
+        {
+          "d_percentile": "93-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "15th",
+      "coins": [
+        {
+          "d_percentile": "01-03",
+          "result": "—"
+        },
+        {
+          "d_percentile": "04-74",
+          "result": "1d8 × 1,000 gp"
+        },
+        {
+          "d_percentile": "75-100",
+          "result": "3d4 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-09",
+          "result": "—"
+        },
+        {
+          "d_percentile": "10-65",
+          "result": "2d10 gems"
+        },
+        {
+          "d_percentile": "66-100",
+          "result": "2d8 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-11",
+          "result": "—"
+        },
+        {
+          "d_percentile": "12-46",
+          "result": "1d10 minor"
+        },
+        {
+          "d_percentile": "47-90",
+          "result": "1 medium"
+        },
+        {
+          "d_percentile": "91-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "16th",
+      "coins": [
+        {
+          "d_percentile": "01-03",
+          "result": "—"
+        },
+        {
+          "d_percentile": "04-74",
+          "result": "1d12 × 1,000 gp"
+        },
+        {
+          "d_percentile": "75-100",
+          "result": "3d4 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-07",
+          "result": "—"
+        },
+        {
+          "d_percentile": "08-64",
+          "result": "4d6 gems"
+        },
+        {
+          "d_percentile": "65-100",
+          "result": "2d10 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-40",
+          "result": "—"
+        },
+        {
+          "d_percentile": "41-46",
+          "result": "1d10 minor"
+        },
+        {
+          "d_percentile": "47-90",
+          "result": "1d3 medium"
+        },
+        {
+          "d_percentile": "91-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "17th",
+      "coins": [
+        {
+          "d_percentile": "01-03",
+          "result": "—"
+        },
+        {
+          "d_percentile": "04-68",
+          "result": "3d4 × 1,000 gp"
+        },
+        {
+          "d_percentile": "69-100",
+          "result": "2d10 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-04",
+          "result": "—"
+        },
+        {
+          "d_percentile": "05-63",
+          "result": "4d8 gems"
+        },
+        {
+          "d_percentile": "64-100",
+          "result": "3d8 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-33",
+          "result": "—"
+        },
+        {
+          "d_percentile": "34-83",
+          "result": "1d3 medium"
+        },
+        {
+          "d_percentile": "84-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "18th",
+      "coins": [
+        {
+          "d_percentile": "01-02",
+          "result": "—"
+        },
+        {
+          "d_percentile": "03-65",
+          "result": "3d6 × 1,000 gp"
+        },
+        {
+          "d_percentile": "66-100",
+          "result": "5d4 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-04",
+          "result": "—"
+        },
+        {
+          "d_percentile": "05-54",
+          "result": "3d12 gems"
+        },
+        {
+          "d_percentile": "55-100",
+          "result": "3d10 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-24",
+          "result": "—"
+        },
+        {
+          "d_percentile": "25-80",
+          "result": "1d4 medium"
+        },
+        {
+          "d_percentile": "81-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "19th",
+      "coins": [
+        {
+          "d_percentile": "01-02",
+          "result": "—"
+        },
+        {
+          "d_percentile": "03-65",
+          "result": "3d8 × 1,000 gp"
+        },
+        {
+          "d_percentile": "66-100",
+          "result": "3d10 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-03",
+          "result": "—"
+        },
+        {
+          "d_percentile": "04-50",
+          "result": "6d6 gems"
+        },
+        {
+          "d_percentile": "51-100",
+          "result": "6d6 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-04",
+          "result": "—"
+        },
+        {
+          "d_percentile": "05-70",
+          "result": "1d4 medium"
+        },
+        {
+          "d_percentile": "71-100",
+          "result": "1 major"
+        }
+      ]
+    },
+    {
+      "level": "20th",
+      "coins": [
+        {
+          "d_percentile": "01-02",
+          "result": "—"
+        },
+        {
+          "d_percentile": "03-65",
+          "result": "4d8 × 1,000 gp"
+        },
+        {
+          "d_percentile": "66-100",
+          "result": "4d10 × 100 pp"
+        }
+      ],
+      "goods": [
+        {
+          "d_percentile": "01-02",
+          "result": "—"
+        },
+        {
+          "d_percentile": "03-38",
+          "result": "4d10 gems"
+        },
+        {
+          "d_percentile": "39-100",
+          "result": "7d6 art"
+        }
+      ],
+      "items": [
+        {
+          "d_percentile": "01-25",
+          "result": "—"
+        },
+        {
+          "d_percentile": "26-65",
+          "result": "1d4 medium"
+        },
+        {
+          "d_percentile": "66-100",
+          "result": "1d3 major"
+        }
+      ]
+    }
+  ]
+}

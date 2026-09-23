@@ -1,0 +1,264 @@
+{
+  "title": "Rods",
+  "source_file": "Table Rods.txt",
+  "columns": [
+    "Medium",
+    "Major",
+    "Rod",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "medium": "01-07",
+      "major": "—",
+      "rod": "Metamagic, Enlarge, lesser",
+      "market_price": "3,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "08-14",
+      "major": "—",
+      "rod": "Metamagic, Extend, lesser",
+      "market_price": "3,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "15-21",
+      "major": "—",
+      "rod": "Metamagic, Silent, lesser",
+      "market_price": "3,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "22-28",
+      "major": "—",
+      "rod": "Immovable",
+      "market_price": "5,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "29-35",
+      "major": "—",
+      "rod": "Metamagic, Empower, lesser",
+      "market_price": "9,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "36-42",
+      "major": "—",
+      "rod": "Metal and mineral detection",
+      "market_price": "10,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "43-53",
+      "major": "01-04",
+      "rod": "Cancellation",
+      "market_price": "11,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "54-57",
+      "major": "05-06",
+      "rod": "Metamagic, Enlarge",
+      "market_price": "11,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "58-61",
+      "major": "07-08",
+      "rod": "Metamagic, Extend",
+      "market_price": "11,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "62-65",
+      "major": "09-10",
+      "rod": "Metamagic, Silent",
+      "market_price": "11,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "66-71",
+      "major": "11-14",
+      "rod": "Wonder",
+      "market_price": "12,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "72-79",
+      "major": "15-18",
+      "rod": "Python",
+      "market_price": "13,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "80-83",
+      "major": "—",
+      "rod": "Metamagic, Maximize, lesser",
+      "market_price": "14,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "84-89",
+      "major": "19-21",
+      "rod": "Flame extinguishing",
+      "market_price": "15,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "90-97",
+      "major": "22-25",
+      "rod": "Viper",
+      "market_price": "19,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "26-30",
+      "rod": "Enemy detection",
+      "market_price": "23,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "31-36",
+      "rod": "Metamagic, Enlarge, greater",
+      "market_price": "24,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "37-42",
+      "rod": "Metamagic, Extend, greater",
+      "market_price": "24,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "43-48",
+      "rod": "Metamagic, Silent, greater",
+      "market_price": "24,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "49-53",
+      "rod": "Splendor",
+      "market_price": "25,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "54-58",
+      "rod": "Withering",
+      "market_price": "25,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "98-99",
+      "major": "59-64",
+      "rod": "Metamagic, Empower",
+      "market_price": "32,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "65-69",
+      "rod": "Thunder and lightning",
+      "market_price": "33,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "100",
+      "major": "70-73",
+      "rod": "Metamagic, Quicken, lesser",
+      "market_price": "35,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "74-77",
+      "rod": "Negation",
+      "market_price": "37,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "78-80",
+      "rod": "Absorption",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "81-84",
+      "rod": "Flailing",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "85-86",
+      "rod": "Metamagic, Maximize",
+      "market_price": "54,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "87-88",
+      "rod": "Rulership",
+      "market_price": "60,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "89-90",
+      "rod": "Security",
+      "market_price": "61,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "91-92",
+      "rod": "Lordly might",
+      "market_price": "70,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "93-94",
+      "rod": "Metamagic, Empower, greater",
+      "market_price": "73,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "95-96",
+      "rod": "Metamagic, Quicken",
+      "market_price": "75,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "97-98",
+      "rod": "Alertness",
+      "market_price": "85,000 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "99",
+      "rod": "Metamagic, Maximize, greater",
+      "market_price": "121,500 gp",
+      "indent_level": 0
+    },
+    {
+      "medium": "—",
+      "major": "100",
+      "rod": "Metamagic, Quicken, greater",
+      "market_price": "170,000 gp",
+      "indent_level": 0
+    }
+  ]
+}

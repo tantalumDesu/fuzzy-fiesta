@@ -1,0 +1,191 @@
+{
+  "title": "6th-Level Divine Spells",
+  "source_file": "6th-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-03",
+      "spell": "animate objects",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "04-06",
+      "spell": "antilife shell",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "07-09",
+      "spell": "banishment",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "10-13",
+      "spell": "bear’s endurance, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "14-16",
+      "spell": "blade barrier",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "17-20",
+      "spell": "bull’s strength, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "21-24",
+      "spell": "cat’s grace, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "25",
+      "spell": "create undead",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "26-29",
+      "spell": "cure moderate wounds, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "30-33",
+      "spell": "dispel magic, greater",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "34-37",
+      "spell": "eagle’s splendor, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "38-40",
+      "spell": "find the path",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "41-43",
+      "spell": "fire seeds",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "44",
+      "spell": "forbiddance",
+      "market_price": "4,650 gp2"
+    },
+    {
+      "d": "45",
+      "spell": "geas/quest",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "46",
+      "spell": "glyph of warding, greater",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "47-49",
+      "spell": "harm",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "50-52",
+      "spell": "heal",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "53-55",
+      "spell": "heroes’ feast",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "56-58",
+      "spell": "inflict moderate wounds, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "59-61",
+      "spell": "ironwood",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "62",
+      "spell": "liveoak",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "63-65",
+      "spell": "move earth",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "66-69",
+      "spell": "owl’s wisdom, mass",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "70-71",
+      "spell": "planar ally",
+      "market_price": "2,400 gp"
+    },
+    {
+      "d": "72-74",
+      "spell": "repel wood",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "75-77",
+      "spell": "spellstaff",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "78-80",
+      "spell": "stone tell",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "81-83",
+      "spell": "summon monster VI",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "84-86",
+      "spell": "summon nature’s ally VI",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "87",
+      "spell": "symbol of fear",
+      "market_price": "2,650 gp"
+    },
+    {
+      "d": "88",
+      "spell": "symbol of persuasion",
+      "market_price": "6,650 gp"
+    },
+    {
+      "d": "89-91",
+      "spell": "transport via plants",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "92-94",
+      "spell": "undeath to death",
+      "market_price": "2,150 gp"
+    },
+    {
+      "d": "95-97",
+      "spell": "wind walk",
+      "market_price": "1,650 gp"
+    },
+    {
+      "d": "98-100",
+      "spell": "word of recall",
+      "market_price": "1,650 gp"
+    }
+  ]
+}

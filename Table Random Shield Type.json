@@ -1,0 +1,47 @@
+{
+  "title": "Random Shield Type",
+  "source_file": "Table Random Shield Type.txt",
+  "columns": [
+    "d%",
+    "Shield",
+    "Shield Cost1"
+  ],
+  "rows": [
+    {
+      "d_percentile": "01-10",
+      "shield": "Buckler",
+      "shield_cost1": "+165 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "11-15",
+      "shield": "Shield, light, wooden",
+      "shield_cost1": "+153 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "16-20",
+      "shield": "Shield, light, steel",
+      "shield_cost1": "+159 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "21-30",
+      "shield": "Shield, heavy, wooden",
+      "shield_cost1": "+157 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "31-95",
+      "shield": "Shield, heavy, steel",
+      "shield_cost1": "+170 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "96-100",
+      "shield": "Shield, tower",
+      "shield_cost1": "+180 gp",
+      "indent_level": 0
+    }
+  ]
+}

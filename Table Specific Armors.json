@@ -1,0 +1,109 @@
+{
+  "title": "Specific Armors",
+  "source_file": "Table Specific Armors.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Specific Armor",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "minor": "01-50",
+      "medium": "01-25",
+      "major": "—",
+      "specific_armor": "Mithral shirt",
+      "market_price": "1,100 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "51-80",
+      "medium": "26-45",
+      "major": "—",
+      "specific_armor": "Dragonhide plate",
+      "market_price": "3,300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "81-100",
+      "medium": "46-57",
+      "major": "—",
+      "specific_armor": "Elven chain",
+      "market_price": "4,150 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "58-67",
+      "major": "—",
+      "specific_armor": "Rhino hide",
+      "market_price": "5,165 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "68-82",
+      "major": "01-10",
+      "specific_armor": "Adamantine breastplate",
+      "market_price": "10,200 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "83-97",
+      "major": "11-20",
+      "specific_armor": "Dwarven plate",
+      "market_price": "16,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "98-100",
+      "major": "21-32",
+      "specific_armor": "Banded mail of luck",
+      "market_price": "18,900 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "33-50",
+      "specific_armor": "Celestial armor",
+      "market_price": "22,400 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "51-60",
+      "specific_armor": "Plate armor of the deep",
+      "market_price": "24,650 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "61-75",
+      "specific_armor": "Breastplate of command",
+      "market_price": "25,400 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "76-90",
+      "specific_armor": "Mithral full plate of speed",
+      "market_price": "26,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "91-100",
+      "specific_armor": "Demon armor",
+      "market_price": "52,260 gp",
+      "indent_level": 0
+    }
+  ]
+}

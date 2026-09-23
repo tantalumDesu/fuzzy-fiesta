@@ -1,0 +1,186 @@
+{
+  "title": "7th-Level Arcane Spells",
+  "source_file": "7th-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-03",
+      "spell": "arcane sight, greater",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "04-07",
+      "spell": "banishment",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "08-10",
+      "spell": "grasping hand",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "11-13",
+      "spell": "control undead",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "14-16",
+      "spell": "control weather",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "17-19",
+      "spell": "delayed blast fireball",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "20-21",
+      "spell": "instant summons",
+      "market_price": "3,275 gp"
+    },
+    {
+      "d": "22-25",
+      "spell": "ethereal jaunt",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "26-28",
+      "spell": "finger of death",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "29-31",
+      "spell": "forcecage",
+      "market_price": "3,775 gp"
+    },
+    {
+      "d": "32-35",
+      "spell": "hold person, mass",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "36-38",
+      "spell": "insanity",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "39-42",
+      "spell": "invisibility, mass",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "43",
+      "spell": "limited wish",
+      "market_price": "3,775 gp2"
+    },
+    {
+      "d": "44-45",
+      "spell": "mage’s magnificent mansion",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "46-48",
+      "spell": "mage’s sword",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "49-51",
+      "spell": "phase door",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "52-54",
+      "spell": "plane shift",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "55-57",
+      "spell": "power word blind",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "58-61",
+      "spell": "prismatic spray",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "62-64",
+      "spell": "project image",
+      "market_price": "2,280 gp"
+    },
+    {
+      "d": "65-67",
+      "spell": "reverse gravity",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "68-70",
+      "spell": "scrying, greater",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "71-73",
+      "spell": "sequester",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "74-76",
+      "spell": "shadow conjuration, greater",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "77",
+      "spell": "simulacrum",
+      "market_price": "7,275 gp3"
+    },
+    {
+      "d": "78-80",
+      "spell": "spell turning",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "81-82",
+      "spell": "statue",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "83-85",
+      "spell": "summon monster VII",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "86",
+      "spell": "symbol of stunning",
+      "market_price": "7,275 gp"
+    },
+    {
+      "d": "87",
+      "spell": "symbol of weakness",
+      "market_price": "7,275 gp"
+    },
+    {
+      "d": "88-90",
+      "spell": "teleport object",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "91-95",
+      "spell": "teleport, greater",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "96-97",
+      "spell": "vision",
+      "market_price": "2,775 gp"
+    },
+    {
+      "d": "98-100",
+      "spell": "waves of exhaustion",
+      "market_price": "2,275 gp"
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "title": "Potions and Oils",
+  "source_file": "Table Potions and Oils.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Potion or Oil",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "minor": "01-10",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Cure light wounds (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "11-13",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Endure elements (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "14-15",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Hide from animals (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "16-17",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Hide from undead (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "18-19",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Jump (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "20-22",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Mage armor (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "23-25",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Magic fang (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "26",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Magic stone (oil)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "27-29",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Magic weapon (oil)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "30",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Pass without trace (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "31-32",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Protection from (alignment) (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "33-34",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Remove fear (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "35",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Sanctuary (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "36-38",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Shield of faith +2 (potion)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "39",
+      "medium": "—",
+      "major": "—",
+      "potion_or_oil": "Shillelagh (oil)",
+      "market_price": "50 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "40-41",
+      "medium": "01-02",
+      "major": "—",
+      "potion_or_oil": "Bless weapon (oil)",
+      "market_price": "100 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "42-44",
+      "medium": "03-04",
+      "major": "—",
+      "potion_or_oil": "Enlarge person (potion)",
+      "market_price": "250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "45",
+      "medium": "05",
+      "major": "—",
+      "potion_or_oil": "Reduce person (potion)",
+      "market_price": "250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "46-47",
+      "medium": "06",
+      "major": "—",
+      "potion_or_oil": "Aid (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "48-50",
+      "medium": "07",
+      "major": "—",
+      "potion_or_oil": "Barkskin +2 (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "51-53",
+      "medium": "08-10",
+      "major": "—",
+      "potion_or_oil": "Bear’s endurance (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "54-56",
+      "medium": "11-13",
+      "major": "01-02",
+      "potion_or_oil": "Blur (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "57-59",
+      "medium": "14-16",
+      "major": "—",
+      "potion_or_oil": "Bull’s strength (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "60-62",
+      "medium": "17-19",
+      "major": "—",
+      "potion_or_oil": "Cat’s grace (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "63-67",
+      "medium": "20-27",
+      "major": "03-07",
+      "potion_or_oil": "Cure moderate wounds (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "68",
+      "medium": "28",
+      "major": "—",
+      "potion_or_oil": "Darkness (oil)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "69-71",
+      "medium": "29-30",
+      "major": "08-09",
+      "potion_or_oil": "Darkvision (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "72-74",
+      "medium": "31",
+      "major": "—",
+      "potion_or_oil": "Delay poison (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "75-76",
+      "medium": "32-33",
+      "major": "—",
+      "potion_or_oil": "Eagle’s splendor (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "77-78",
+      "medium": "34-35",
+      "major": "—",
+      "potion_or_oil": "Fox’s cunning (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "79-81",
+      "medium": "36-37",
+      "major": "10-11",
+      "potion_or_oil": "Invisibility (potion or oil)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "82-84",
+      "medium": "38",
+      "major": "12",
+      "potion_or_oil": "Lesser restoration (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "85-86",
+      "medium": "39",
+      "major": "—",
+      "potion_or_oil": "Levitate (potion or oil)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "87",
+      "medium": "40",
+      "major": "—",
+      "potion_or_oil": "Misdirection (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "88-89",
+      "medium": "41-42",
+      "major": "—",
+      "potion_or_oil": "Owl’s wisdom (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "90-91",
+      "medium": "43",
+      "major": "—",
+      "potion_or_oil": "Protection from arrows 10/magic (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "92-93",
+      "medium": "44",
+      "major": "13",
+      "potion_or_oil": "Remove paralysis (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "94-96",
+      "medium": "45-46",
+      "major": "—",
+      "potion_or_oil": "Resist energy (type) 10 (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "97",
+      "medium": "47-48",
+      "major": "14",
+      "potion_or_oil": "Shield of faith +3 (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "98-99",
+      "medium": "49",
+      "major": "—",
+      "potion_or_oil": "Spider climb (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "100",
+      "medium": "50",
+      "major": "15",
+      "potion_or_oil": "Undetectable alignment (potion)",
+      "market_price": "300 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "51",
+      "major": "16",
+      "potion_or_oil": "Barkskin +3 (potion)",
+      "market_price": "600 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "52",
+      "major": "17-18",
+      "potion_or_oil": "Shield of faith +4 (potion)",
+      "market_price": "600 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "53-55",
+      "major": "19-20",
+      "potion_or_oil": "Resist energy (type) 20 (potion)",
+      "market_price": "700 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "56-60",
+      "major": "21-28",
+      "potion_or_oil": "Cure serious wounds (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "61",
+      "major": "29",
+      "potion_or_oil": "Daylight (oil)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "62-64",
+      "major": "30-32",
+      "potion_or_oil": "Displacement (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "65",
+      "major": "33",
+      "potion_or_oil": "Flame arrow (oil)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "66-68",
+      "major": "34-38",
+      "potion_or_oil": "Fly (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "69",
+      "major": "39",
+      "potion_or_oil": "Gaseous form (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "70-71",
+      "major": "—",
+      "potion_or_oil": "Greater magic fang +1 (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "72-73",
+      "major": "—",
+      "potion_or_oil": "Greater magic weapon +1 (oil)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "74-75",
+      "major": "40-41",
+      "potion_or_oil": "Haste (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "76-78",
+      "major": "42-44",
+      "potion_or_oil": "Heroism (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "79-80",
+      "major": "45-46",
+      "potion_or_oil": "Keen edge (oil)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "81",
+      "major": "47",
+      "potion_or_oil": "Magic circle against (alignment) (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "82-83",
+      "major": "—",
+      "potion_or_oil": "Magic vestment +1 (oil)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "84-86",
+      "major": "48-50",
+      "potion_or_oil": "Neutralize poison (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "87-88",
+      "major": "51-52",
+      "potion_or_oil": "Nondetection (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "89-91",
+      "major": "53-54",
+      "potion_or_oil": "Protection from energy (type) (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "92-93",
+      "major": "55",
+      "potion_or_oil": "Rage (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "94",
+      "major": "56",
+      "potion_or_oil": "Remove blindness/deafness (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "95",
+      "major": "57",
+      "potion_or_oil": "Remove curse (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "96",
+      "major": "58",
+      "potion_or_oil": "Remove disease (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "97",
+      "major": "59",
+      "potion_or_oil": "Tongues (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "98-99",
+      "major": "60",
+      "potion_or_oil": "Water breathing (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "100",
+      "major": "61",
+      "potion_or_oil": "Water walk (potion)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "62-63",
+      "potion_or_oil": "Barkskin +4 (potion)",
+      "market_price": "900 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "64",
+      "potion_or_oil": "Shield of faith +5 (potion)",
+      "market_price": "900 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "65",
+      "potion_or_oil": "Good hope (potion)",
+      "market_price": "1,050 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "66-68",
+      "potion_or_oil": "Resist energy (type) 30 (potion)",
+      "market_price": "1,100 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "69",
+      "potion_or_oil": "Barkskin +5 (potion)",
+      "market_price": "1,200 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "70-73",
+      "potion_or_oil": "Greater magic fang +2 (potion)",
+      "market_price": "1,200 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "74-77",
+      "potion_or_oil": "Greater magic weapon +2 (oil)",
+      "market_price": "1,200 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "78-81",
+      "potion_or_oil": "Magic vestment +2 (oil)",
+      "market_price": "1,200 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "82",
+      "potion_or_oil": "Protection from arrows 15/magic (potion)",
+      "market_price": "1,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "83-85",
+      "potion_or_oil": "Greater magic fang +3 (potion)",
+      "market_price": "1,800 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "86-88",
+      "potion_or_oil": "Greater magic weapon +3 (oil)",
+      "market_price": "1,800 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "89-91",
+      "potion_or_oil": "Magic vestment +3 (oil)",
+      "market_price": "1,800 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "92-93",
+      "potion_or_oil": "Greater magic fang +4 (potion)",
+      "market_price": "2,400 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "94-95",
+      "potion_or_oil": "Greater magic weapon +4 (oil)",
+      "market_price": "2,400 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "96-97",
+      "potion_or_oil": "Magic vestment +4 (oil)",
+      "market_price": "2,400 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "98",
+      "potion_or_oil": "Greater magic fang +5 (potion)",
+      "market_price": "3,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "99",
+      "potion_or_oil": "Greater magic weapon +5 (oil)",
+      "market_price": "3,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "100",
+      "potion_or_oil": "Magic vestment +5 (oil)",
+      "market_price": "3,000 gp",
+      "indent_level": 0
+    }
+  ]
+}

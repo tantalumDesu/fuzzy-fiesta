@@ -1,0 +1,18 @@
+{
+  "title": "Scroll Types",
+  "source_file": "Table Scroll.txt",
+  "columns": [
+    "d% roll",
+    "Scroll Type"
+  ],
+  "rows": [
+    {
+      "d_roll": "01-70",
+      "scroll_type": "Arcane"
+    },
+    {
+      "d_roll": "71-100",
+      "scroll_type": "Divine"
+    }
+  ]
+}

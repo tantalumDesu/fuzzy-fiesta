@@ -1,0 +1,226 @@
+{
+  "title": "1st-Level Arcane Spells",
+  "source_file": "1st-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-03",
+      "spell": "alarm",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "04-05",
+      "spell": "animate rope",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "06-07",
+      "spell": "burning hands",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "08-09",
+      "spell": "cause fear",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "10-12",
+      "spell": "charm person",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "13-14",
+      "spell": "chill touch",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "15-16",
+      "spell": "color spray",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "17-19",
+      "spell": "comprehend languages",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "20",
+      "spell": "confusion, lesser",
+      "market_price": "50 gp"
+    },
+    {
+      "d": "21",
+      "spell": "cure light wounds",
+      "market_price": "50 gp"
+    },
+    {
+      "d": "22-24",
+      "spell": "detect secret doors",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "25-26",
+      "spell": "detect undead",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "27-29",
+      "spell": "disguise self",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "30-32",
+      "spell": "endure elements",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "33-35",
+      "spell": "enlarge person",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "36-37",
+      "spell": "erase",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "38-40",
+      "spell": "expeditious retreat",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "41",
+      "spell": "feather fall",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "42-43",
+      "spell": "grease",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "44-45",
+      "spell": "hold portal",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "46-47",
+      "spell": "hypnotism",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "48-49",
+      "spell": "identify",
+      "market_price": "125 gp"
+    },
+    {
+      "d": "50-51",
+      "spell": "jump",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "52-54",
+      "spell": "mage armor",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "55-56",
+      "spell": "magic missile",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "57-59",
+      "spell": "magic weapon",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "60-62",
+      "spell": "mount",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "magic aura",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "65-66",
+      "spell": "obscuring mist",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "67-74",
+      "spell": "protection from chaos/evil/good/law",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "75-76",
+      "spell": "ray of enfeeblement",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "77-78",
+      "spell": "reduce person",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "79-80",
+      "spell": "remove fear",
+      "market_price": "50 gp"
+    },
+    {
+      "d": "81-82",
+      "spell": "shield",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "83-84",
+      "spell": "shocking grasp",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "85-86",
+      "spell": "silent image",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "87-88",
+      "spell": "sleep",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "89-90",
+      "spell": "summon monster I",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "91-93",
+      "spell": "floating disk",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "94-95",
+      "spell": "true strike",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "96",
+      "spell": "undetectable alignment",
+      "market_price": "50 gp"
+    },
+    {
+      "d": "97-98",
+      "spell": "unseen servant",
+      "market_price": "25 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "ventriloquism",
+      "market_price": "25 gp"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "8th-Level Divine Spells",
+  "source_file": "8th-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-04",
+      "spell": "animal shapes",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "05-10",
+      "spell": "antimagic field",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "11-13",
+      "spell": "cloak of chaos",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "14-17",
+      "spell": "control plants",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "18-20",
+      "spell": "create greater undead",
+      "market_price": "3,600 gp"
+    },
+    {
+      "d": "21-27",
+      "spell": "cure critical wounds, mass",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "28-32",
+      "spell": "dimensional lock",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "33-36",
+      "spell": "discern location",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "37-41",
+      "spell": "earthquake",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "42-45",
+      "spell": "finger of death",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "46-49",
+      "spell": "fire storm",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "50-52",
+      "spell": "holy aura",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "53-56",
+      "spell": "inflict critical wounds, mass",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "57-60",
+      "spell": "planar ally, greater",
+      "market_price": "5,500 gp"
+    },
+    {
+      "d": "61-65",
+      "spell": "repel metal or stone",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "66-69",
+      "spell": "reverse gravity",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "70-72",
+      "spell": "shield of law",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "73-76",
+      "spell": "spell immunity, greater",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "77-80",
+      "spell": "summon monster VIII",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "81-84",
+      "spell": "summon nature’s ally VIII",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "85-89",
+      "spell": "sunburst",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "90-91",
+      "spell": "symbol of death",
+      "market_price": "8,000 gp"
+    },
+    {
+      "d": "92-93",
+      "spell": "symbol of insanity",
+      "market_price": "8,000 gp"
+    },
+    {
+      "d": "94-96",
+      "spell": "unholy aura",
+      "market_price": "3,000 gp"
+    },
+    {
+      "d": "97-100",
+      "spell": "whirlwind",
+      "market_price": "3,000 gp"
+    }
+  ]
+}

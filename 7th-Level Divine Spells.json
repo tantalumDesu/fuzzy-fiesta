@@ -1,0 +1,131 @@
+{
+  "title": "7th-Level Divine Spells",
+  "source_file": "7th-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-05",
+      "spell": "animate plants",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "06-09",
+      "spell": "blasphemy",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "10-14",
+      "spell": "changestaff",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "15-16",
+      "spell": "control weather",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "17-21",
+      "spell": "creeping doom",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "22-27",
+      "spell": "cure serious wounds, mass",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "28-32",
+      "spell": "destruction",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "33-36",
+      "spell": "dictum",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "37-41",
+      "spell": "ethereal jaunt",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "42-45",
+      "spell": "holy word",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "46-50",
+      "spell": "inflict serious wounds, mass",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "51-55",
+      "spell": "refuge",
+      "market_price": "3,775 gp"
+    },
+    {
+      "d": "56-60",
+      "spell": "regenerate",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "61-65",
+      "spell": "repulsion",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "66-69",
+      "spell": "restoration, greater",
+      "market_price": "4,775 gp"
+    },
+    {
+      "d": "70-71",
+      "spell": "resurrection",
+      "market_price": "12,275 gp"
+    },
+    {
+      "d": "72-76",
+      "spell": "scrying, greater",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "77-81",
+      "spell": "summon monster VII",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "82-85",
+      "spell": "summon nature’s ally VII",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "86-90",
+      "spell": "sunbeam",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "91",
+      "spell": "symbol of stunning",
+      "market_price": "7,275 gp"
+    },
+    {
+      "d": "92",
+      "spell": "symbol of weakness",
+      "market_price": "7,275 gp"
+    },
+    {
+      "d": "93-97",
+      "spell": "transmute metal to wood",
+      "market_price": "2,275 gp"
+    },
+    {
+      "d": "98-100",
+      "spell": "word of chaos",
+      "market_price": "2,275 gp"
+    }
+  ]
+}

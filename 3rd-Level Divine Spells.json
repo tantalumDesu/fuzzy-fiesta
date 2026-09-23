@@ -1,0 +1,236 @@
+{
+  "title": "3rd-Level Divine Spells",
+  "source_file": "3rd-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-02",
+      "spell": "animate dead",
+      "market_price": "625 gp"
+    },
+    {
+      "d": "03-04",
+      "spell": "bestow curse",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "05-06",
+      "spell": "blindness/deafness",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "07-08",
+      "spell": "call lightning",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "09-10",
+      "spell": "contagion",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "11-12",
+      "spell": "continual flame",
+      "market_price": "425 gp"
+    },
+    {
+      "d": "13-14",
+      "spell": "create food and water",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "15-18",
+      "spell": "cure serious wounds",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "19",
+      "spell": "darkvision",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "20-21",
+      "spell": "daylight",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "22-23",
+      "spell": "deeper darkness",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "24-25",
+      "spell": "diminish plants",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "26-27",
+      "spell": "dispel magic",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "28-29",
+      "spell": "dominate animal",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "30-31",
+      "spell": "glyph of warding",
+      "market_price": "575 gp"
+    },
+    {
+      "d": "32",
+      "spell": "heal mount",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "33-34",
+      "spell": "helping hand",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "35-36",
+      "spell": "inflict serious wounds",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "37-38",
+      "spell": "invisibility purge",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "39-40",
+      "spell": "locate object",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "41-46",
+      "spell": "magic circle against chaos/evil/good/law",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "47-48",
+      "spell": "magic fang, greater",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "49-50",
+      "spell": "magic vestment",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "51-52",
+      "spell": "meld into stone",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "53-55",
+      "spell": "neutralize poison",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "56-57",
+      "spell": "obscure object",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "58-59",
+      "spell": "plant growth",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "60-62",
+      "spell": "prayer",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "protection from energy",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "65-66",
+      "spell": "quench",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "67-69",
+      "spell": "remove blindness/deafness",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "70-71",
+      "spell": "remove curse",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "72-73",
+      "spell": "remove disease",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "74-76",
+      "spell": "searing light",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "77-78",
+      "spell": "sleet storm",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "79-80",
+      "spell": "snare",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "81-83",
+      "spell": "speak with dead",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "84-85",
+      "spell": "speak with plants",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "86-87",
+      "spell": "spike growth",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "88-89",
+      "spell": "stone shape",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "90-91",
+      "spell": "summon monster III",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "92-93",
+      "spell": "summon nature’s ally III",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "94-96",
+      "spell": "water breathing",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "97-98",
+      "spell": "water walk",
+      "market_price": "375 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "wind wall",
+      "market_price": "375 gp"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "0-Level Divine Spells",
+  "source_file": "0-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-07",
+      "spell": "create water",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "08-14",
+      "spell": "cure minor wounds",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "15-22",
+      "spell": "detect magic",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "23-29",
+      "spell": "detect poison",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "30-36",
+      "spell": "flare",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "37-43",
+      "spell": "guidance",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "44-50",
+      "spell": "inflict minor wounds",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "51-57",
+      "spell": "know direction",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "58-65",
+      "spell": "light",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "66-72",
+      "spell": "mending",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "73-79",
+      "spell": "purify food and drink",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "80-86",
+      "spell": "read magic",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "87-93",
+      "spell": "resistance",
+      "market_price": "12 gp 5 sp"
+    },
+    {
+      "d": "94-100",
+      "spell": "virtue",
+      "market_price": "12 gp 5 sp"
+    }
+  ]
+}

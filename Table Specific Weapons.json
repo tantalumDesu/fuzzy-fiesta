@@ -1,0 +1,285 @@
+{
+  "title": "Specific Weapons",
+  "source_file": "Table Specific Weapons.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Specific Weapon",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "minor": "01-15",
+      "medium": "—",
+      "major": "—",
+      "specific_weapon": "Sleep arrow",
+      "market_price": "132 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "16-25",
+      "medium": "—",
+      "major": "—",
+      "specific_weapon": "Screaming bolt",
+      "market_price": "267 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "26-45",
+      "medium": "—",
+      "major": "—",
+      "specific_weapon": "Silver dagger, masterwork",
+      "market_price": "322 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "46-65",
+      "medium": "—",
+      "major": "—",
+      "specific_weapon": "Cold iron longsword, masterwork",
+      "market_price": "330 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "66-75",
+      "medium": "01-09",
+      "major": "—",
+      "specific_weapon": "Javelin of lightning",
+      "market_price": "1,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "76-80",
+      "medium": "10-15",
+      "major": "—",
+      "specific_weapon": "Slaying arrow",
+      "market_price": "2,282 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "81-90",
+      "medium": "16-24",
+      "major": "—",
+      "specific_weapon": "Adamantine dagger",
+      "market_price": "3,002 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "91-100",
+      "medium": "25-33",
+      "major": "—",
+      "specific_weapon": "Adamantine battleaxe",
+      "market_price": "3,010 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "34-37",
+      "major": "—",
+      "specific_weapon": "Slaying arrow (greater)",
+      "market_price": "4,057 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "38-40",
+      "major": "—",
+      "specific_weapon": "Shatterspike",
+      "market_price": "4,315 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "41-46",
+      "major": "—",
+      "specific_weapon": "Dagger of venom",
+      "market_price": "8,302 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "47-51",
+      "major": "—",
+      "specific_weapon": "Trident of warning",
+      "market_price": "10,115 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "52-57",
+      "major": "01-04",
+      "specific_weapon": "Assassin’s dagger",
+      "market_price": "10,302 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "58-62",
+      "major": "05-07",
+      "specific_weapon": "Shifter’s sorrow",
+      "market_price": "12,780 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "63-66",
+      "major": "08-09",
+      "specific_weapon": "Trident of fish command",
+      "market_price": "18,650 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "67-74",
+      "major": "10-13",
+      "specific_weapon": "Flame tongue",
+      "market_price": "20,715 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "75-79",
+      "major": "14-17",
+      "specific_weapon": "Luck blade (0 wishes)",
+      "market_price": "22,060 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "80-86",
+      "major": "18-24",
+      "specific_weapon": "Sword of subtlety",
+      "market_price": "22,310 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "87-91",
+      "major": "25-31",
+      "specific_weapon": "Sword of the planes",
+      "market_price": "22,315 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "92-95",
+      "major": "32-37",
+      "specific_weapon": "Nine lives stealer",
+      "market_price": "23,057 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "96-98",
+      "major": "38-42",
+      "specific_weapon": "Sword of life stealing",
+      "market_price": "25,715 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "99-100",
+      "major": "43-46",
+      "specific_weapon": "Oathbow",
+      "market_price": "25,600 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "47-51",
+      "specific_weapon": "Mace of terror",
+      "market_price": "38,552 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "52-57",
+      "specific_weapon": "Life-drinker",
+      "market_price": "40,320 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "58-62",
+      "specific_weapon": "Sylvan scimitar",
+      "market_price": "47,315 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "63-67",
+      "specific_weapon": "Rapier of puncturing",
+      "market_price": "50,320 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "68-73",
+      "specific_weapon": "Sun blade",
+      "market_price": "50,335 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "74-79",
+      "specific_weapon": "Frost brand",
+      "market_price": "54,475 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "80-84",
+      "specific_weapon": "Dwarven thrower",
+      "market_price": "60,312 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "85-91",
+      "specific_weapon": "Luck blade (1 wish)",
+      "market_price": "62,360 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "92-95",
+      "specific_weapon": "Mace of smiting",
+      "market_price": "75,312 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "96-97",
+      "specific_weapon": "Luck blade (2 wishes)",
+      "market_price": "102,660 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "98-99",
+      "specific_weapon": "Holy avenger",
+      "market_price": "120,630 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "100",
+      "specific_weapon": "Luck blade (3 wishes)",
+      "market_price": "142,960 gp",
+      "indent_level": 0
+    }
+  ]
+}

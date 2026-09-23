@@ -1,0 +1,251 @@
+{
+  "title": "4th-Level Arcane Spells",
+  "source_file": "4th-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-02",
+      "spell": "animate dead",
+      "market_price": "1,050 gp"
+    },
+    {
+      "d": "03-05",
+      "spell": "arcane eye",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "06-07",
+      "spell": "bestow curse",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "08-10",
+      "spell": "charm monster",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "11-13",
+      "spell": "confusion",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "14-15",
+      "spell": "contagion",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "16-17",
+      "spell": "crushing despair",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "18",
+      "spell": "cure critical wounds",
+      "market_price": "1,000 gp"
+    },
+    {
+      "d": "19",
+      "spell": "detect scrying",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "20-23",
+      "spell": "dimension door",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "24-26",
+      "spell": "dimensional anchor",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "27-28",
+      "spell": "enervation",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "29-30",
+      "spell": "enlarge person, mass",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "31-32",
+      "spell": "black tentacles",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "33-34",
+      "spell": "fear",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "35-37",
+      "spell": "fire shield",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "38-39",
+      "spell": "fire trap",
+      "market_price": "725 gp"
+    },
+    {
+      "d": "40-42",
+      "spell": "freedom of movement",
+      "market_price": "1,000 gp"
+    },
+    {
+      "d": "43",
+      "spell": "geas, lesser",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "44-46",
+      "spell": "globe of invulnerability, lesser",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "47-48",
+      "spell": "hallucinatory terrain",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "49-50",
+      "spell": "ice storm",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "51-52",
+      "spell": "illusory wall",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "53-55",
+      "spell": "invisibility, greater",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "56-57",
+      "spell": "secure shelter",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "58",
+      "spell": "locate creature",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "59-60",
+      "spell": "minor creation",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "61",
+      "spell": "modify memory",
+      "market_price": "1,000 gp"
+    },
+    {
+      "d": "62",
+      "spell": "neutralize poison",
+      "market_price": "1,000 gp"
+    },
+    {
+      "d": "63-64",
+      "spell": "resilient sphere",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "65-66",
+      "spell": "phantasmal killer",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "67-68",
+      "spell": "polymorph",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "69-70",
+      "spell": "rainbow pattern",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "71",
+      "spell": "mnemonic enhancer",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "72-73",
+      "spell": "reduce person, mass",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "74-76",
+      "spell": "remove curse",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "77",
+      "spell": "repel vermin",
+      "market_price": "1,000 gp"
+    },
+    {
+      "d": "78-79",
+      "spell": "scrying",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "80-81",
+      "spell": "shadow conjuration",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "82-83",
+      "spell": "shout",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "84-85",
+      "spell": "solid fog",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "86",
+      "spell": "speak with plants",
+      "market_price": "1,000 gp"
+    },
+    {
+      "d": "87-88",
+      "spell": "stone shape",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "89-91",
+      "spell": "stoneskin",
+      "market_price": "950 gp"
+    },
+    {
+      "d": "92-93",
+      "spell": "summon monster IV",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "94-96",
+      "spell": "wall of fire",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "97-99",
+      "spell": "wall of ice",
+      "market_price": "700 gp"
+    },
+    {
+      "d": "100",
+      "spell": "zone of silence",
+      "market_price": "1,000 gp"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "title": "2nd-Level Arcane Spells",
+  "source_file": "2nd-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01",
+      "spell": "animal messenger",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "02",
+      "spell": "animal trance",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "03",
+      "spell": "arcane lock",
+      "market_price": "175 gp"
+    },
+    {
+      "d": "04-06",
+      "spell": "bear’s endurance",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "07-08",
+      "spell": "blindness/deafness",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "09-10",
+      "spell": "blur",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "11-13",
+      "spell": "bull’s strength",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "14",
+      "spell": "calm emotions",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "15-17",
+      "spell": "cat’s grace",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "18-19",
+      "spell": "command undead",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "20",
+      "spell": "continual flame",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "21",
+      "spell": "cure moderate wounds",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "22",
+      "spell": "darkness",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "23-25",
+      "spell": "darkvision",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "26",
+      "spell": "daze monster",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "27",
+      "spell": "delay poison",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "28-29",
+      "spell": "detect thoughts",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "30-31",
+      "spell": "disguise self",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "32-34",
+      "spell": "eagle’s splendor",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "35",
+      "spell": "enthrall",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "36-37",
+      "spell": "false life",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "38-39",
+      "spell": "flaming sphere",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "40",
+      "spell": "fog cloud",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "41-43",
+      "spell": "fox’s cunning",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "44",
+      "spell": "ghoul touch",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "45-46",
+      "spell": "glitterdust",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "47",
+      "spell": "gust of wind",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "48-49",
+      "spell": "hypnotic pattern",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "50-52",
+      "spell": "invisibility",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "53-55",
+      "spell": "knock",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "56",
+      "spell": "phantom trap",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "57-58",
+      "spell": "levitate",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "59",
+      "spell": "locate object",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "60",
+      "spell": "magic mouth",
+      "market_price": "160 gp"
+    },
+    {
+      "d": "61-62",
+      "spell": "acid arrow",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "63",
+      "spell": "minor image",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "64-65",
+      "spell": "mirror image",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "66",
+      "spell": "misdirection",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "67",
+      "spell": "obscure object",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "68-70",
+      "spell": "owl’s wisdom",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "71-73",
+      "spell": "protection from arrows",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "74-75",
+      "spell": "pyrotechnics",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "76-78",
+      "spell": "resist energy",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "79",
+      "spell": "rope trick",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "80",
+      "spell": "scare",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "81-82",
+      "spell": "scorching ray",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "83-85",
+      "spell": "see invisibility",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "86",
+      "spell": "shatter",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "87",
+      "spell": "silence",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "88",
+      "spell": "sound burst",
+      "market_price": "200 gp"
+    },
+    {
+      "d": "89",
+      "spell": "spectral hand",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "90-91",
+      "spell": "spider climb",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "92-93",
+      "spell": "summon monster II",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "94-95",
+      "spell": "summon swarm",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "96",
+      "spell": "hideous laughter",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "97",
+      "spell": "touch of idiocy",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "98-99",
+      "spell": "web",
+      "market_price": "150 gp"
+    },
+    {
+      "d": "100",
+      "spell": "whispering wind",
+      "market_price": "150 gp"
+    }
+  ]
+}

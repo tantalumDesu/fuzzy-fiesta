@@ -1,0 +1,3283 @@
+{
+  "title": "Mundane Items",
+  "source_file": "Table Mundane Items.txt",
+  "columns": [
+    "d%",
+    "Mundane Item"
+  ],
+  "rows": [
+    {
+      "roll": "01-17",
+      "item": "Alchemical item",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [],
+      "raw_cells": [
+        "01-17",
+        "Alchemical item"
+      ]
+    },
+    {
+      "roll": "01-12",
+      "item": "Alchemist’s fire (1d4 flasks, 20 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "01-12",
+        "Alchemist’s fire (1d4 flasks, 20 gp each)"
+      ]
+    },
+    {
+      "roll": "13-24",
+      "item": "Acid (2d4 flasks, 10 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "13-24",
+        "Acid (2d4 flasks, 10 gp each)"
+      ]
+    },
+    {
+      "roll": "25-36",
+      "item": "Smokesticks (1d4 sticks, 20 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "25-36",
+        "Smokesticks (1d4 sticks, 20 gp each)"
+      ]
+    },
+    {
+      "roll": "37-48",
+      "item": "Holy water (1d4 flasks, 25 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "37-48",
+        "Holy water (1d4 flasks, 25 gp each)"
+      ]
+    },
+    {
+      "roll": "49-62",
+      "item": "Antitoxin (1d4 doses, 50 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "49-62",
+        "Antitoxin (1d4 doses, 50 gp each)"
+      ]
+    },
+    {
+      "roll": "63-74",
+      "item": "Everburning torch",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "63-74",
+        "Everburning torch"
+      ]
+    },
+    {
+      "roll": "75-88",
+      "item": "Tanglefoot bags (1d4 bags, 50 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "75-88",
+        "Tanglefoot bags (1d4 bags, 50 gp each)"
+      ]
+    },
+    {
+      "roll": "89-100",
+      "item": "Thunderstones (1d4 stones, 30 gp each)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "89-100",
+        "Thunderstones (1d4 stones, 30 gp each)"
+      ]
+    },
+    {
+      "roll": "18-50",
+      "item": "Armor",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [],
+      "raw_cells": [
+        "18-50",
+        "Armor"
+      ]
+    },
+    {
+      "roll": "01-10",
+      "item": "Small",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "01-10",
+        "Small"
+      ]
+    },
+    {
+      "roll": "11-100",
+      "item": "Medium",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "11-100",
+        "Medium"
+      ]
+    },
+    {
+      "roll": "01-12",
+      "item": "Chain shirt (100 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "01-12",
+        "Chain shirt (100 gp)"
+      ]
+    },
+    {
+      "roll": "13-18",
+      "item": "Masterwork studded leather (175 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "13-18",
+        "Masterwork studded leather (175 gp)"
+      ]
+    },
+    {
+      "roll": "19-26",
+      "item": "Breastplate (200 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "19-26",
+        "Breastplate (200 gp)"
+      ]
+    },
+    {
+      "roll": "27-34",
+      "item": "Banded mail (250 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "27-34",
+        "Banded mail (250 gp)"
+      ]
+    },
+    {
+      "roll": "35-54",
+      "item": "Half-plate (600 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "35-54",
+        "Half-plate (600 gp)"
+      ]
+    },
+    {
+      "roll": "55-80",
+      "item": "Full plate (1,500 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "55-80",
+        "Full plate (1,500 gp)"
+      ]
+    },
+    {
+      "roll": "81-90",
+      "item": "Darkwood",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "81-90",
+        "Darkwood"
+      ]
+    },
+    {
+      "roll": "01-50",
+      "item": "Buckler (205 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "01-50",
+        "Buckler (205 gp)"
+      ]
+    },
+    {
+      "roll": "51-100",
+      "item": "Shield (257 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "51-100",
+        "Shield (257 gp)"
+      ]
+    },
+    {
+      "roll": "91-100",
+      "item": "Masterwork shield",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "91-100",
+        "Masterwork shield"
+      ]
+    },
+    {
+      "roll": "01-17",
+      "item": "Buckler (165 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "01-17",
+        "Buckler (165 gp)"
+      ]
+    },
+    {
+      "roll": "18-40",
+      "item": "Light wooden shield (153 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "18-40",
+        "Light wooden shield (153 gp)"
+      ]
+    },
+    {
+      "roll": "41-60",
+      "item": "Light steel shield (159 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "41-60",
+        "Light steel shield (159 gp)"
+      ]
+    },
+    {
+      "roll": "61-83",
+      "item": "Heavy wooden shield (157 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "61-83",
+        "Heavy wooden shield (157 gp)"
+      ]
+    },
+    {
+      "roll": "84-100",
+      "item": "Heavy steel shield (170 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "84-100",
+        "Heavy steel shield (170 gp)"
+      ]
+    },
+    {
+      "roll": "51-83",
+      "item": "Weapons",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [],
+      "raw_cells": [
+        "51-83",
+        "Weapons"
+      ]
+    },
+    {
+      "roll": "01-50",
+      "item": "Masterwork common melee weapon",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "01-50",
+        "Masterwork common melee weapon"
+      ]
+    },
+    {
+      "roll": "01-04",
+      "item": "Dagger (2 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "01-04",
+        "Dagger (2 gp)"
+      ]
+    },
+    {
+      "roll": "05-14",
+      "item": "Greataxe (20 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "05-14",
+        "Greataxe (20 gp)"
+      ]
+    },
+    {
+      "roll": "15-24",
+      "item": "Greatsword (50 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "15-24",
+        "Greatsword (50 gp)"
+      ]
+    },
+    {
+      "roll": "25-28",
+      "item": "Kama (2 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "25-28",
+        "Kama (2 gp)"
+      ]
+    },
+    {
+      "roll": "29-41",
+      "item": "Longsword (15 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "29-41",
+        "Longsword (15 gp)"
+      ]
+    },
+    {
+      "roll": "42-45",
+      "item": "Mace, light (5 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "42-45",
+        "Mace, light (5 gp)"
+      ]
+    },
+    {
+      "roll": "46-50",
+      "item": "Mace, heavy (12 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "46-50",
+        "Mace, heavy (12 gp)"
+      ]
+    },
+    {
+      "roll": "51-54",
+      "item": "Nunchaku (2 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "51-54",
+        "Nunchaku (2 gp)"
+      ]
+    },
+    {
+      "roll": "55-57",
+      "item": "Quarterstaff (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "55-57",
+        "Quarterstaff (1 gp)"
+      ]
+    },
+    {
+      "roll": "58-61",
+      "item": "Rapier (20 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "58-61",
+        "Rapier (20 gp)"
+      ]
+    },
+    {
+      "roll": "62-66",
+      "item": "Scimitar (15 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "62-66",
+        "Scimitar (15 gp)"
+      ]
+    },
+    {
+      "roll": "67-70",
+      "item": "Shortspear (2 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "67-70",
+        "Shortspear (2 gp)"
+      ]
+    },
+    {
+      "roll": "71-74",
+      "item": "Siangham (3 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "71-74",
+        "Siangham (3 gp)"
+      ]
+    },
+    {
+      "roll": "75-84",
+      "item": "Sword, bastard (35 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "75-84",
+        "Sword, bastard (35 gp)"
+      ]
+    },
+    {
+      "roll": "85-89",
+      "item": "Sword, short (10 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "85-89",
+        "Sword, short (10 gp)"
+      ]
+    },
+    {
+      "roll": "90-100",
+      "item": "Waraxe, dwarven (30 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "90-100",
+        "Waraxe, dwarven (30 gp)"
+      ]
+    },
+    {
+      "roll": "51-70",
+      "item": "Masterwork uncommon weapon",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "51-70",
+        "Masterwork uncommon weapon"
+      ]
+    },
+    {
+      "roll": "01-03",
+      "item": "Axe, orc double2 (60 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "01-03",
+        "Axe, orc double2 (60 gp)"
+      ]
+    },
+    {
+      "roll": "04-07",
+      "item": "Battleaxe (10 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "04-07",
+        "Battleaxe (10 gp)"
+      ]
+    },
+    {
+      "roll": "08-10",
+      "item": "Chain, spiked (25 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "08-10",
+        "Chain, spiked (25 gp)"
+      ]
+    },
+    {
+      "roll": "11-12",
+      "item": "Club (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "11-12",
+        "Club (1 gp)"
+      ]
+    },
+    {
+      "roll": "13-16",
+      "item": "Crossbow, hand (100 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "13-16",
+        "Crossbow, hand (100 gp)"
+      ]
+    },
+    {
+      "roll": "17-19",
+      "item": "Crossbow, repeating (250 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "17-19",
+        "Crossbow, repeating (250 gp)"
+      ]
+    },
+    {
+      "roll": "20-21",
+      "item": "Dagger, punching (2 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "20-21",
+        "Dagger, punching (2 gp)"
+      ]
+    },
+    {
+      "roll": "22-23",
+      "item": "Falchion (75 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "22-23",
+        "Falchion (75 gp)"
+      ]
+    },
+    {
+      "roll": "24-26",
+      "item": "Flail, dire (90 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "24-26",
+        "Flail, dire (90 gp)"
+      ]
+    },
+    {
+      "roll": "27-31",
+      "item": "Flail, heavy (15 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "27-31",
+        "Flail, heavy (15 gp)"
+      ]
+    },
+    {
+      "roll": "32-35",
+      "item": "Flail (8 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "32-35",
+        "Flail (8 gp)"
+      ]
+    },
+    {
+      "roll": "36-37",
+      "item": "Gauntlet (2 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "36-37",
+        "Gauntlet (2 gp)"
+      ]
+    },
+    {
+      "roll": "38-39",
+      "item": "Gauntlet, spiked (5 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "38-39",
+        "Gauntlet, spiked (5 gp)"
+      ]
+    },
+    {
+      "roll": "40-41",
+      "item": "Glaive (8 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "40-41",
+        "Glaive (8 gp)"
+      ]
+    },
+    {
+      "roll": "42-43",
+      "item": "Greatclub (5 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "42-43",
+        "Greatclub (5 gp)"
+      ]
+    },
+    {
+      "roll": "44-45",
+      "item": "Guisarme (9 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "44-45",
+        "Guisarme (9 gp)"
+      ]
+    },
+    {
+      "roll": "46-48",
+      "item": "Halberd (10 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "46-48",
+        "Halberd (10 gp)"
+      ]
+    },
+    {
+      "roll": "49-51",
+      "item": "Spear (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "49-51",
+        "Spear (1 gp)"
+      ]
+    },
+    {
+      "roll": "52-54",
+      "item": "Hammer, gnome hooked (20 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "52-54",
+        "Hammer, gnome hooked (20 gp)"
+      ]
+    },
+    {
+      "roll": "55-56",
+      "item": "Hammer, light (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "55-56",
+        "Hammer, light (1 gp)"
+      ]
+    },
+    {
+      "roll": "57-58",
+      "item": "Handaxe (6 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "57-58",
+        "Handaxe (6 gp)"
+      ]
+    },
+    {
+      "roll": "59-61",
+      "item": "Kukri (8 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "59-61",
+        "Kukri (8 gp)"
+      ]
+    },
+    {
+      "roll": "62-64",
+      "item": "Lance (10 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "62-64",
+        "Lance (10 gp)"
+      ]
+    },
+    {
+      "roll": "65-67",
+      "item": "Longspear (5 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "65-67",
+        "Longspear (5 gp)"
+      ]
+    },
+    {
+      "roll": "68-70",
+      "item": "Morningstar (8 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "68-70",
+        "Morningstar (8 gp)"
+      ]
+    },
+    {
+      "roll": "71-72",
+      "item": "Net (20 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "71-72",
+        "Net (20 gp)"
+      ]
+    },
+    {
+      "roll": "73-74",
+      "item": "Pick, heavy (8 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "73-74",
+        "Pick, heavy (8 gp)"
+      ]
+    },
+    {
+      "roll": "75-76",
+      "item": "Pick, light (4 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "75-76",
+        "Pick, light (4 gp)"
+      ]
+    },
+    {
+      "roll": "77-78",
+      "item": "Ranseur (10 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "77-78",
+        "Ranseur (10 gp)"
+      ]
+    },
+    {
+      "roll": "79-80",
+      "item": "Sap (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "79-80",
+        "Sap (1 gp)"
+      ]
+    },
+    {
+      "roll": "81-82",
+      "item": "Scythe (18 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "81-82",
+        "Scythe (18 gp)"
+      ]
+    },
+    {
+      "roll": "83-84",
+      "item": "Shuriken (50) (10 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "83-84",
+        "Shuriken (50) (10 gp)"
+      ]
+    },
+    {
+      "roll": "85-86",
+      "item": "Sickle",
+      "additional_cells": [
+        "+306 gp"
+      ],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "85-86",
+        "Sickle",
+        "+306 gp"
+      ]
+    },
+    {
+      "roll": "87-89",
+      "item": "Sword, two-bladed2",
+      "additional_cells": [
+        "+700 gp"
+      ],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "87-89",
+        "Sword, two-bladed2",
+        "+700 gp"
+      ]
+    },
+    {
+      "roll": "90-91",
+      "item": "Trident (15 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "90-91",
+        "Trident (15 gp)"
+      ]
+    },
+    {
+      "roll": "92-94",
+      "item": "Urgrosh, dwarven (50 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "92-94",
+        "Urgrosh, dwarven (50 gp)"
+      ]
+    },
+    {
+      "roll": "95-97",
+      "item": "Warhammer (12 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "95-97",
+        "Warhammer (12 gp)"
+      ]
+    },
+    {
+      "roll": "98-100",
+      "item": "Whip (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "98-100",
+        "Whip (1 gp)"
+      ]
+    },
+    {
+      "roll": "71-100",
+      "item": "Masterwork common ranged weapon",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "71-100",
+        "Masterwork common ranged weapon"
+      ]
+    },
+    {
+      "roll": "01-10",
+      "item": "Ammunition:",
+      "additional_cells": [
+        ""
+      ],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "01-10",
+        "Ammunition:",
+        ""
+      ]
+    },
+    {
+      "roll": "01-50",
+      "item": "Arrows (50) (2 gp 5 sp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "01-50",
+        "Arrows (50) (2 gp 5 sp)"
+      ]
+    },
+    {
+      "roll": "51-75",
+      "item": "Bolts, crossbow (50) (5 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "51-75",
+        "Bolts, crossbow (50) (5 gp)"
+      ]
+    },
+    {
+      "roll": "76-80",
+      "item": "Bolts, repeating crossbow (50) (10 gp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "76-80",
+        "Bolts, repeating crossbow (50) (10 gp)"
+      ]
+    },
+    {
+      "roll": "81-100",
+      "item": "Bullets, sling (50) (5 sp)",
+      "additional_cells": [],
+      "indent_level": 3,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "",
+        "81-100",
+        "Bullets, sling (50) (5 sp)"
+      ]
+    },
+    {
+      "roll": "11-15",
+      "item": "Axe, throwing (8 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "11-15",
+        "Axe, throwing (8 gp)"
+      ]
+    },
+    {
+      "roll": "16-25",
+      "item": "Crossbow, heavy (50 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "16-25",
+        "Crossbow, heavy (50 gp)"
+      ]
+    },
+    {
+      "roll": "26-35",
+      "item": "Crossbow, light (35 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "26-35",
+        "Crossbow, light (35 gp)"
+      ]
+    },
+    {
+      "roll": "36-39",
+      "item": "Dart (5 sp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "36-39",
+        "Dart (5 sp)"
+      ]
+    },
+    {
+      "roll": "40-41",
+      "item": "Javelin (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "40-41",
+        "Javelin (1 gp)"
+      ]
+    },
+    {
+      "roll": "42-46",
+      "item": "Shortbow (30 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "42-46",
+        "Shortbow (30 gp)"
+      ]
+    },
+    {
+      "roll": "47-51",
+      "item": "Shortbow, composite (+0 Str bonus) (75 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "47-51",
+        "Shortbow, composite (+0 Str bonus) (75 gp)"
+      ]
+    },
+    {
+      "roll": "52-56",
+      "item": "Shortbow, composite (+1 Str bonus) (150 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "52-56",
+        "Shortbow, composite (+1 Str bonus) (150 gp)"
+      ]
+    },
+    {
+      "roll": "57-61",
+      "item": "Shortbow, composite (+2 Str bonus) (225 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "57-61",
+        "Shortbow, composite (+2 Str bonus) (225 gp)"
+      ]
+    },
+    {
+      "roll": "62-65",
+      "item": "Sling (1 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "62-65",
+        "Sling (1 gp)"
+      ]
+    },
+    {
+      "roll": "66-75",
+      "item": "Longbow (75 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "66-75",
+        "Longbow (75 gp)"
+      ]
+    },
+    {
+      "roll": "76-80",
+      "item": "Longbow, composite (100 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "76-80",
+        "Longbow, composite (100 gp)"
+      ]
+    },
+    {
+      "roll": "81-85",
+      "item": "Longbow, composite (+1 Str bonus) (200 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "81-85",
+        "Longbow, composite (+1 Str bonus) (200 gp)"
+      ]
+    },
+    {
+      "roll": "86-90",
+      "item": "Longbow, composite (+2 Str bonus) (300 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "86-90",
+        "Longbow, composite (+2 Str bonus) (300 gp)"
+      ]
+    },
+    {
+      "roll": "91-95",
+      "item": "Longbow, composite (+3 Str bonus) (400 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "91-95",
+        "Longbow, composite (+3 Str bonus) (400 gp)"
+      ]
+    },
+    {
+      "roll": "96-100",
+      "item": "Longbow, composite (+4 Str bonus) (500 gp)",
+      "additional_cells": [],
+      "indent_level": 2,
+      "children": [],
+      "raw_cells": [
+        "",
+        "",
+        "96-100",
+        "Longbow, composite (+4 Str bonus) (500 gp)"
+      ]
+    },
+    {
+      "roll": "84-100",
+      "item": "Tools and gear",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [],
+      "raw_cells": [
+        "84-100",
+        "Tools and gear"
+      ]
+    },
+    {
+      "roll": "01-03",
+      "item": "Backpack, empty (2 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "01-03",
+        "Backpack, empty (2 gp)"
+      ]
+    },
+    {
+      "roll": "04-06",
+      "item": "Crowbar (2 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "04-06",
+        "Crowbar (2 gp)"
+      ]
+    },
+    {
+      "roll": "07-11",
+      "item": "Lantern, bullseye (12 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "07-11",
+        "Lantern, bullseye (12 gp)"
+      ]
+    },
+    {
+      "roll": "12-16",
+      "item": "Lock, simple (20 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "12-16",
+        "Lock, simple (20 gp)"
+      ]
+    },
+    {
+      "roll": "17-21",
+      "item": "Lock, average (40 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "17-21",
+        "Lock, average (40 gp)"
+      ]
+    },
+    {
+      "roll": "22-28",
+      "item": "Lock, good (80 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "22-28",
+        "Lock, good (80 gp)"
+      ]
+    },
+    {
+      "roll": "29-35",
+      "item": "Lock, superior (150 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "29-35",
+        "Lock, superior (150 gp)"
+      ]
+    },
+    {
+      "roll": "36-40",
+      "item": "Manacles, masterwork (50 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "36-40",
+        "Manacles, masterwork (50 gp)"
+      ]
+    },
+    {
+      "roll": "41-43",
+      "item": "Mirror, small steel (10 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "41-43",
+        "Mirror, small steel (10 gp)"
+      ]
+    },
+    {
+      "roll": "44-46",
+      "item": "Rope, silk (50 ft.) (10 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "44-46",
+        "Rope, silk (50 ft.) (10 gp)"
+      ]
+    },
+    {
+      "roll": "47-53",
+      "item": "Spyglass (1,000 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "47-53",
+        "Spyglass (1,000 gp)"
+      ]
+    },
+    {
+      "roll": "54-58",
+      "item": "Artisan’s tools, masterwork (55 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "54-58",
+        "Artisan’s tools, masterwork (55 gp)"
+      ]
+    },
+    {
+      "roll": "59-63",
+      "item": "Climber’s kit (80 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "59-63",
+        "Climber’s kit (80 gp)"
+      ]
+    },
+    {
+      "roll": "64-68",
+      "item": "Disguise kit (50 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "64-68",
+        "Disguise kit (50 gp)"
+      ]
+    },
+    {
+      "roll": "69-73",
+      "item": "Healer’s kit (50 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "69-73",
+        "Healer’s kit (50 gp)"
+      ]
+    },
+    {
+      "roll": "74-77",
+      "item": "Holy symbol, silver (25 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "74-77",
+        "Holy symbol, silver (25 gp)"
+      ]
+    },
+    {
+      "roll": "78-81",
+      "item": "Hourglass (25 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "78-81",
+        "Hourglass (25 gp)"
+      ]
+    },
+    {
+      "roll": "82-88",
+      "item": "Magnifying glass (100 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "82-88",
+        "Magnifying glass (100 gp)"
+      ]
+    },
+    {
+      "roll": "89-95",
+      "item": "Musical instrument, masterwork (100 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "89-95",
+        "Musical instrument, masterwork (100 gp)"
+      ]
+    },
+    {
+      "roll": "96-100",
+      "item": "Thieves’ tools, masterwork (50 gp)",
+      "additional_cells": [],
+      "indent_level": 1,
+      "children": [],
+      "raw_cells": [
+        "",
+        "96-100",
+        "Thieves’ tools, masterwork (50 gp)"
+      ]
+    }
+  ],
+  "tree": [
+    {
+      "roll": "01-17",
+      "item": "Alchemical item",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [
+        {
+          "roll": "01-12",
+          "item": "Alchemist’s fire (1d4 flasks, 20 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "01-12",
+            "Alchemist’s fire (1d4 flasks, 20 gp each)"
+          ]
+        },
+        {
+          "roll": "13-24",
+          "item": "Acid (2d4 flasks, 10 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "13-24",
+            "Acid (2d4 flasks, 10 gp each)"
+          ]
+        },
+        {
+          "roll": "25-36",
+          "item": "Smokesticks (1d4 sticks, 20 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "25-36",
+            "Smokesticks (1d4 sticks, 20 gp each)"
+          ]
+        },
+        {
+          "roll": "37-48",
+          "item": "Holy water (1d4 flasks, 25 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "37-48",
+            "Holy water (1d4 flasks, 25 gp each)"
+          ]
+        },
+        {
+          "roll": "49-62",
+          "item": "Antitoxin (1d4 doses, 50 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "49-62",
+            "Antitoxin (1d4 doses, 50 gp each)"
+          ]
+        },
+        {
+          "roll": "63-74",
+          "item": "Everburning torch",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "63-74",
+            "Everburning torch"
+          ]
+        },
+        {
+          "roll": "75-88",
+          "item": "Tanglefoot bags (1d4 bags, 50 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "75-88",
+            "Tanglefoot bags (1d4 bags, 50 gp each)"
+          ]
+        },
+        {
+          "roll": "89-100",
+          "item": "Thunderstones (1d4 stones, 30 gp each)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "89-100",
+            "Thunderstones (1d4 stones, 30 gp each)"
+          ]
+        }
+      ],
+      "raw_cells": [
+        "01-17",
+        "Alchemical item"
+      ]
+    },
+    {
+      "roll": "18-50",
+      "item": "Armor",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [
+        {
+          "roll": "01-10",
+          "item": "Small",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "01-10",
+            "Small"
+          ]
+        },
+        {
+          "roll": "11-100",
+          "item": "Medium",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [
+            {
+              "roll": "01-12",
+              "item": "Chain shirt (100 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "01-12",
+                "Chain shirt (100 gp)"
+              ]
+            },
+            {
+              "roll": "13-18",
+              "item": "Masterwork studded leather (175 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "13-18",
+                "Masterwork studded leather (175 gp)"
+              ]
+            },
+            {
+              "roll": "19-26",
+              "item": "Breastplate (200 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "19-26",
+                "Breastplate (200 gp)"
+              ]
+            },
+            {
+              "roll": "27-34",
+              "item": "Banded mail (250 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "27-34",
+                "Banded mail (250 gp)"
+              ]
+            },
+            {
+              "roll": "35-54",
+              "item": "Half-plate (600 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "35-54",
+                "Half-plate (600 gp)"
+              ]
+            },
+            {
+              "roll": "55-80",
+              "item": "Full plate (1,500 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "55-80",
+                "Full plate (1,500 gp)"
+              ]
+            },
+            {
+              "roll": "81-90",
+              "item": "Darkwood",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [
+                {
+                  "roll": "01-50",
+                  "item": "Buckler (205 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "01-50",
+                    "Buckler (205 gp)"
+                  ]
+                },
+                {
+                  "roll": "51-100",
+                  "item": "Shield (257 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "51-100",
+                    "Shield (257 gp)"
+                  ]
+                }
+              ],
+              "raw_cells": [
+                "",
+                "",
+                "81-90",
+                "Darkwood"
+              ]
+            },
+            {
+              "roll": "91-100",
+              "item": "Masterwork shield",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [
+                {
+                  "roll": "01-17",
+                  "item": "Buckler (165 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "01-17",
+                    "Buckler (165 gp)"
+                  ]
+                },
+                {
+                  "roll": "18-40",
+                  "item": "Light wooden shield (153 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "18-40",
+                    "Light wooden shield (153 gp)"
+                  ]
+                },
+                {
+                  "roll": "41-60",
+                  "item": "Light steel shield (159 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "41-60",
+                    "Light steel shield (159 gp)"
+                  ]
+                },
+                {
+                  "roll": "61-83",
+                  "item": "Heavy wooden shield (157 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "61-83",
+                    "Heavy wooden shield (157 gp)"
+                  ]
+                },
+                {
+                  "roll": "84-100",
+                  "item": "Heavy steel shield (170 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "84-100",
+                    "Heavy steel shield (170 gp)"
+                  ]
+                }
+              ],
+              "raw_cells": [
+                "",
+                "",
+                "91-100",
+                "Masterwork shield"
+              ]
+            }
+          ],
+          "raw_cells": [
+            "",
+            "11-100",
+            "Medium"
+          ]
+        }
+      ],
+      "raw_cells": [
+        "18-50",
+        "Armor"
+      ]
+    },
+    {
+      "roll": "51-83",
+      "item": "Weapons",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [
+        {
+          "roll": "01-50",
+          "item": "Masterwork common melee weapon",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [
+            {
+              "roll": "01-04",
+              "item": "Dagger (2 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "01-04",
+                "Dagger (2 gp)"
+              ]
+            },
+            {
+              "roll": "05-14",
+              "item": "Greataxe (20 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "05-14",
+                "Greataxe (20 gp)"
+              ]
+            },
+            {
+              "roll": "15-24",
+              "item": "Greatsword (50 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "15-24",
+                "Greatsword (50 gp)"
+              ]
+            },
+            {
+              "roll": "25-28",
+              "item": "Kama (2 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "25-28",
+                "Kama (2 gp)"
+              ]
+            },
+            {
+              "roll": "29-41",
+              "item": "Longsword (15 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "29-41",
+                "Longsword (15 gp)"
+              ]
+            },
+            {
+              "roll": "42-45",
+              "item": "Mace, light (5 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "42-45",
+                "Mace, light (5 gp)"
+              ]
+            },
+            {
+              "roll": "46-50",
+              "item": "Mace, heavy (12 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "46-50",
+                "Mace, heavy (12 gp)"
+              ]
+            },
+            {
+              "roll": "51-54",
+              "item": "Nunchaku (2 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "51-54",
+                "Nunchaku (2 gp)"
+              ]
+            },
+            {
+              "roll": "55-57",
+              "item": "Quarterstaff (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "55-57",
+                "Quarterstaff (1 gp)"
+              ]
+            },
+            {
+              "roll": "58-61",
+              "item": "Rapier (20 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "58-61",
+                "Rapier (20 gp)"
+              ]
+            },
+            {
+              "roll": "62-66",
+              "item": "Scimitar (15 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "62-66",
+                "Scimitar (15 gp)"
+              ]
+            },
+            {
+              "roll": "67-70",
+              "item": "Shortspear (2 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "67-70",
+                "Shortspear (2 gp)"
+              ]
+            },
+            {
+              "roll": "71-74",
+              "item": "Siangham (3 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "71-74",
+                "Siangham (3 gp)"
+              ]
+            },
+            {
+              "roll": "75-84",
+              "item": "Sword, bastard (35 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "75-84",
+                "Sword, bastard (35 gp)"
+              ]
+            },
+            {
+              "roll": "85-89",
+              "item": "Sword, short (10 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "85-89",
+                "Sword, short (10 gp)"
+              ]
+            },
+            {
+              "roll": "90-100",
+              "item": "Waraxe, dwarven (30 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "90-100",
+                "Waraxe, dwarven (30 gp)"
+              ]
+            }
+          ],
+          "raw_cells": [
+            "",
+            "01-50",
+            "Masterwork common melee weapon"
+          ]
+        },
+        {
+          "roll": "51-70",
+          "item": "Masterwork uncommon weapon",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [
+            {
+              "roll": "01-03",
+              "item": "Axe, orc double2 (60 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "01-03",
+                "Axe, orc double2 (60 gp)"
+              ]
+            },
+            {
+              "roll": "04-07",
+              "item": "Battleaxe (10 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "04-07",
+                "Battleaxe (10 gp)"
+              ]
+            },
+            {
+              "roll": "08-10",
+              "item": "Chain, spiked (25 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "08-10",
+                "Chain, spiked (25 gp)"
+              ]
+            },
+            {
+              "roll": "11-12",
+              "item": "Club (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "11-12",
+                "Club (1 gp)"
+              ]
+            },
+            {
+              "roll": "13-16",
+              "item": "Crossbow, hand (100 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "13-16",
+                "Crossbow, hand (100 gp)"
+              ]
+            },
+            {
+              "roll": "17-19",
+              "item": "Crossbow, repeating (250 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "17-19",
+                "Crossbow, repeating (250 gp)"
+              ]
+            },
+            {
+              "roll": "20-21",
+              "item": "Dagger, punching (2 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "20-21",
+                "Dagger, punching (2 gp)"
+              ]
+            },
+            {
+              "roll": "22-23",
+              "item": "Falchion (75 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "22-23",
+                "Falchion (75 gp)"
+              ]
+            },
+            {
+              "roll": "24-26",
+              "item": "Flail, dire (90 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "24-26",
+                "Flail, dire (90 gp)"
+              ]
+            },
+            {
+              "roll": "27-31",
+              "item": "Flail, heavy (15 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "27-31",
+                "Flail, heavy (15 gp)"
+              ]
+            },
+            {
+              "roll": "32-35",
+              "item": "Flail (8 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "32-35",
+                "Flail (8 gp)"
+              ]
+            },
+            {
+              "roll": "36-37",
+              "item": "Gauntlet (2 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "36-37",
+                "Gauntlet (2 gp)"
+              ]
+            },
+            {
+              "roll": "38-39",
+              "item": "Gauntlet, spiked (5 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "38-39",
+                "Gauntlet, spiked (5 gp)"
+              ]
+            },
+            {
+              "roll": "40-41",
+              "item": "Glaive (8 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "40-41",
+                "Glaive (8 gp)"
+              ]
+            },
+            {
+              "roll": "42-43",
+              "item": "Greatclub (5 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "42-43",
+                "Greatclub (5 gp)"
+              ]
+            },
+            {
+              "roll": "44-45",
+              "item": "Guisarme (9 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "44-45",
+                "Guisarme (9 gp)"
+              ]
+            },
+            {
+              "roll": "46-48",
+              "item": "Halberd (10 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "46-48",
+                "Halberd (10 gp)"
+              ]
+            },
+            {
+              "roll": "49-51",
+              "item": "Spear (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "49-51",
+                "Spear (1 gp)"
+              ]
+            },
+            {
+              "roll": "52-54",
+              "item": "Hammer, gnome hooked (20 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "52-54",
+                "Hammer, gnome hooked (20 gp)"
+              ]
+            },
+            {
+              "roll": "55-56",
+              "item": "Hammer, light (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "55-56",
+                "Hammer, light (1 gp)"
+              ]
+            },
+            {
+              "roll": "57-58",
+              "item": "Handaxe (6 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "57-58",
+                "Handaxe (6 gp)"
+              ]
+            },
+            {
+              "roll": "59-61",
+              "item": "Kukri (8 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "59-61",
+                "Kukri (8 gp)"
+              ]
+            },
+            {
+              "roll": "62-64",
+              "item": "Lance (10 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "62-64",
+                "Lance (10 gp)"
+              ]
+            },
+            {
+              "roll": "65-67",
+              "item": "Longspear (5 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "65-67",
+                "Longspear (5 gp)"
+              ]
+            },
+            {
+              "roll": "68-70",
+              "item": "Morningstar (8 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "68-70",
+                "Morningstar (8 gp)"
+              ]
+            },
+            {
+              "roll": "71-72",
+              "item": "Net (20 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "71-72",
+                "Net (20 gp)"
+              ]
+            },
+            {
+              "roll": "73-74",
+              "item": "Pick, heavy (8 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "73-74",
+                "Pick, heavy (8 gp)"
+              ]
+            },
+            {
+              "roll": "75-76",
+              "item": "Pick, light (4 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "75-76",
+                "Pick, light (4 gp)"
+              ]
+            },
+            {
+              "roll": "77-78",
+              "item": "Ranseur (10 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "77-78",
+                "Ranseur (10 gp)"
+              ]
+            },
+            {
+              "roll": "79-80",
+              "item": "Sap (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "79-80",
+                "Sap (1 gp)"
+              ]
+            },
+            {
+              "roll": "81-82",
+              "item": "Scythe (18 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "81-82",
+                "Scythe (18 gp)"
+              ]
+            },
+            {
+              "roll": "83-84",
+              "item": "Shuriken (50) (10 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "83-84",
+                "Shuriken (50) (10 gp)"
+              ]
+            },
+            {
+              "roll": "85-86",
+              "item": "Sickle",
+              "additional_cells": [
+                "+306 gp"
+              ],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "85-86",
+                "Sickle",
+                "+306 gp"
+              ]
+            },
+            {
+              "roll": "87-89",
+              "item": "Sword, two-bladed2",
+              "additional_cells": [
+                "+700 gp"
+              ],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "87-89",
+                "Sword, two-bladed2",
+                "+700 gp"
+              ]
+            },
+            {
+              "roll": "90-91",
+              "item": "Trident (15 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "90-91",
+                "Trident (15 gp)"
+              ]
+            },
+            {
+              "roll": "92-94",
+              "item": "Urgrosh, dwarven (50 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "92-94",
+                "Urgrosh, dwarven (50 gp)"
+              ]
+            },
+            {
+              "roll": "95-97",
+              "item": "Warhammer (12 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "95-97",
+                "Warhammer (12 gp)"
+              ]
+            },
+            {
+              "roll": "98-100",
+              "item": "Whip (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "98-100",
+                "Whip (1 gp)"
+              ]
+            }
+          ],
+          "raw_cells": [
+            "",
+            "51-70",
+            "Masterwork uncommon weapon"
+          ]
+        },
+        {
+          "roll": "71-100",
+          "item": "Masterwork common ranged weapon",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [
+            {
+              "roll": "01-10",
+              "item": "Ammunition:",
+              "additional_cells": [
+                ""
+              ],
+              "indent_level": 2,
+              "children": [
+                {
+                  "roll": "01-50",
+                  "item": "Arrows (50) (2 gp 5 sp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "01-50",
+                    "Arrows (50) (2 gp 5 sp)"
+                  ]
+                },
+                {
+                  "roll": "51-75",
+                  "item": "Bolts, crossbow (50) (5 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "51-75",
+                    "Bolts, crossbow (50) (5 gp)"
+                  ]
+                },
+                {
+                  "roll": "76-80",
+                  "item": "Bolts, repeating crossbow (50) (10 gp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "76-80",
+                    "Bolts, repeating crossbow (50) (10 gp)"
+                  ]
+                },
+                {
+                  "roll": "81-100",
+                  "item": "Bullets, sling (50) (5 sp)",
+                  "additional_cells": [],
+                  "indent_level": 3,
+                  "children": [],
+                  "raw_cells": [
+                    "",
+                    "",
+                    "",
+                    "81-100",
+                    "Bullets, sling (50) (5 sp)"
+                  ]
+                }
+              ],
+              "raw_cells": [
+                "",
+                "",
+                "01-10",
+                "Ammunition:",
+                ""
+              ]
+            },
+            {
+              "roll": "11-15",
+              "item": "Axe, throwing (8 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "11-15",
+                "Axe, throwing (8 gp)"
+              ]
+            },
+            {
+              "roll": "16-25",
+              "item": "Crossbow, heavy (50 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "16-25",
+                "Crossbow, heavy (50 gp)"
+              ]
+            },
+            {
+              "roll": "26-35",
+              "item": "Crossbow, light (35 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "26-35",
+                "Crossbow, light (35 gp)"
+              ]
+            },
+            {
+              "roll": "36-39",
+              "item": "Dart (5 sp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "36-39",
+                "Dart (5 sp)"
+              ]
+            },
+            {
+              "roll": "40-41",
+              "item": "Javelin (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "40-41",
+                "Javelin (1 gp)"
+              ]
+            },
+            {
+              "roll": "42-46",
+              "item": "Shortbow (30 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "42-46",
+                "Shortbow (30 gp)"
+              ]
+            },
+            {
+              "roll": "47-51",
+              "item": "Shortbow, composite (+0 Str bonus) (75 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "47-51",
+                "Shortbow, composite (+0 Str bonus) (75 gp)"
+              ]
+            },
+            {
+              "roll": "52-56",
+              "item": "Shortbow, composite (+1 Str bonus) (150 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "52-56",
+                "Shortbow, composite (+1 Str bonus) (150 gp)"
+              ]
+            },
+            {
+              "roll": "57-61",
+              "item": "Shortbow, composite (+2 Str bonus) (225 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "57-61",
+                "Shortbow, composite (+2 Str bonus) (225 gp)"
+              ]
+            },
+            {
+              "roll": "62-65",
+              "item": "Sling (1 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "62-65",
+                "Sling (1 gp)"
+              ]
+            },
+            {
+              "roll": "66-75",
+              "item": "Longbow (75 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "66-75",
+                "Longbow (75 gp)"
+              ]
+            },
+            {
+              "roll": "76-80",
+              "item": "Longbow, composite (100 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "76-80",
+                "Longbow, composite (100 gp)"
+              ]
+            },
+            {
+              "roll": "81-85",
+              "item": "Longbow, composite (+1 Str bonus) (200 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "81-85",
+                "Longbow, composite (+1 Str bonus) (200 gp)"
+              ]
+            },
+            {
+              "roll": "86-90",
+              "item": "Longbow, composite (+2 Str bonus) (300 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "86-90",
+                "Longbow, composite (+2 Str bonus) (300 gp)"
+              ]
+            },
+            {
+              "roll": "91-95",
+              "item": "Longbow, composite (+3 Str bonus) (400 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "91-95",
+                "Longbow, composite (+3 Str bonus) (400 gp)"
+              ]
+            },
+            {
+              "roll": "96-100",
+              "item": "Longbow, composite (+4 Str bonus) (500 gp)",
+              "additional_cells": [],
+              "indent_level": 2,
+              "children": [],
+              "raw_cells": [
+                "",
+                "",
+                "96-100",
+                "Longbow, composite (+4 Str bonus) (500 gp)"
+              ]
+            }
+          ],
+          "raw_cells": [
+            "",
+            "71-100",
+            "Masterwork common ranged weapon"
+          ]
+        }
+      ],
+      "raw_cells": [
+        "51-83",
+        "Weapons"
+      ]
+    },
+    {
+      "roll": "84-100",
+      "item": "Tools and gear",
+      "additional_cells": [],
+      "indent_level": 0,
+      "children": [
+        {
+          "roll": "01-03",
+          "item": "Backpack, empty (2 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "01-03",
+            "Backpack, empty (2 gp)"
+          ]
+        },
+        {
+          "roll": "04-06",
+          "item": "Crowbar (2 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "04-06",
+            "Crowbar (2 gp)"
+          ]
+        },
+        {
+          "roll": "07-11",
+          "item": "Lantern, bullseye (12 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "07-11",
+            "Lantern, bullseye (12 gp)"
+          ]
+        },
+        {
+          "roll": "12-16",
+          "item": "Lock, simple (20 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "12-16",
+            "Lock, simple (20 gp)"
+          ]
+        },
+        {
+          "roll": "17-21",
+          "item": "Lock, average (40 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "17-21",
+            "Lock, average (40 gp)"
+          ]
+        },
+        {
+          "roll": "22-28",
+          "item": "Lock, good (80 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "22-28",
+            "Lock, good (80 gp)"
+          ]
+        },
+        {
+          "roll": "29-35",
+          "item": "Lock, superior (150 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "29-35",
+            "Lock, superior (150 gp)"
+          ]
+        },
+        {
+          "roll": "36-40",
+          "item": "Manacles, masterwork (50 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "36-40",
+            "Manacles, masterwork (50 gp)"
+          ]
+        },
+        {
+          "roll": "41-43",
+          "item": "Mirror, small steel (10 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "41-43",
+            "Mirror, small steel (10 gp)"
+          ]
+        },
+        {
+          "roll": "44-46",
+          "item": "Rope, silk (50 ft.) (10 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "44-46",
+            "Rope, silk (50 ft.) (10 gp)"
+          ]
+        },
+        {
+          "roll": "47-53",
+          "item": "Spyglass (1,000 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "47-53",
+            "Spyglass (1,000 gp)"
+          ]
+        },
+        {
+          "roll": "54-58",
+          "item": "Artisan’s tools, masterwork (55 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "54-58",
+            "Artisan’s tools, masterwork (55 gp)"
+          ]
+        },
+        {
+          "roll": "59-63",
+          "item": "Climber’s kit (80 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "59-63",
+            "Climber’s kit (80 gp)"
+          ]
+        },
+        {
+          "roll": "64-68",
+          "item": "Disguise kit (50 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "64-68",
+            "Disguise kit (50 gp)"
+          ]
+        },
+        {
+          "roll": "69-73",
+          "item": "Healer’s kit (50 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "69-73",
+            "Healer’s kit (50 gp)"
+          ]
+        },
+        {
+          "roll": "74-77",
+          "item": "Holy symbol, silver (25 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "74-77",
+            "Holy symbol, silver (25 gp)"
+          ]
+        },
+        {
+          "roll": "78-81",
+          "item": "Hourglass (25 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "78-81",
+            "Hourglass (25 gp)"
+          ]
+        },
+        {
+          "roll": "82-88",
+          "item": "Magnifying glass (100 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "82-88",
+            "Magnifying glass (100 gp)"
+          ]
+        },
+        {
+          "roll": "89-95",
+          "item": "Musical instrument, masterwork (100 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "89-95",
+            "Musical instrument, masterwork (100 gp)"
+          ]
+        },
+        {
+          "roll": "96-100",
+          "item": "Thieves’ tools, masterwork (50 gp)",
+          "additional_cells": [],
+          "indent_level": 1,
+          "children": [],
+          "raw_cells": [
+            "",
+            "96-100",
+            "Thieves’ tools, masterwork (50 gp)"
+          ]
+        }
+      ],
+      "raw_cells": [
+        "84-100",
+        "Tools and gear"
+      ]
+    }
+  ]
+}

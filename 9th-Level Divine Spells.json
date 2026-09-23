@@ -1,0 +1,106 @@
+{
+  "title": "9th-Level Divine Spells",
+  "source_file": "9th-Level Divine Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-04",
+      "spell": "antipathy",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "05-07",
+      "spell": "astral projection",
+      "market_price": "4,870 gp"
+    },
+    {
+      "d": "08-13",
+      "spell": "elemental swarm",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "14-19",
+      "spell": "energy drain",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "20-25",
+      "spell": "etherealness",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "26-31",
+      "spell": "foresight",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "32-37",
+      "spell": "gate",
+      "market_price": "8,825 gp"
+    },
+    {
+      "d": "38-46",
+      "spell": "heal, mass",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "47-53",
+      "spell": "implosion",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "54-55",
+      "spell": "miracle",
+      "market_price": "28,825 gp3"
+    },
+    {
+      "d": "56-61",
+      "spell": "regenerate",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "62-66",
+      "spell": "shambler",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "67-72",
+      "spell": "shapechange",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "73-77",
+      "spell": "soul bind",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "78-83",
+      "spell": "storm of vengeance",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "84-89",
+      "spell": "summon monster IX",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "90-95",
+      "spell": "summon nature’s ally IX",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "96-99",
+      "spell": "sympathy",
+      "market_price": "5,325 gp"
+    },
+    {
+      "d": "100",
+      "spell": "true resurrection",
+      "market_price": "28,825 gp"
+    }
+  ]
+}

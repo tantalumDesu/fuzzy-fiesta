@@ -1,0 +1,131 @@
+{
+  "title": "9th-Level Arcane Spells",
+  "source_file": "9th-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-03",
+      "spell": "astral projection",
+      "market_price": "4,870 gp"
+    },
+    {
+      "d": "04-07",
+      "spell": "crushing hand",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "08-12",
+      "spell": "dominate monster",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "13-16",
+      "spell": "energy drain",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "17-21",
+      "spell": "etherealness",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "22-25",
+      "spell": "foresight",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "26-31",
+      "spell": "freedom",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "32-36",
+      "spell": "gate",
+      "market_price": "8,825 gp"
+    },
+    {
+      "d": "37-40",
+      "spell": "hold monster, mass",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "41-44",
+      "spell": "imprisonment",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "45-49",
+      "spell": "meteor swarm",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "50-53",
+      "spell": "mage’s disjunction",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "54-58",
+      "spell": "power word kill",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "59-62",
+      "spell": "prismatic sphere",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "63-66",
+      "spell": "refuge",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "67-70",
+      "spell": "shades",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "71-76",
+      "spell": "shapechange",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "77-79",
+      "spell": "soul bind",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "80-83",
+      "spell": "summon monster IX",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "84-86",
+      "spell": "teleportation circle",
+      "market_price": "4,825 gp"
+    },
+    {
+      "d": "87-91",
+      "spell": "time stop",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "92-95",
+      "spell": "wail of the banshee",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "96-99",
+      "spell": "weird",
+      "market_price": "3,825 gp"
+    },
+    {
+      "d": "100",
+      "spell": "wish",
+      "market_price": "28,825 gp"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "title": "5th-Level Arcane Spells",
+  "source_file": "5th-Level Arcane Spells.txt",
+  "columns": [
+    "d%",
+    "Spell",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d": "01-02",
+      "spell": "animal growth",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "03-05",
+      "spell": "baleful polymorph",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "06-07",
+      "spell": "interposing hand",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "08-09",
+      "spell": "blight",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "10-12",
+      "spell": "break enchantment",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "13-14",
+      "spell": "cloudkill",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "15-17",
+      "spell": "cone of cold",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "18-19",
+      "spell": "contact other plane",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "20",
+      "spell": "cure light wounds, mass",
+      "market_price": "1,625 gp"
+    },
+    {
+      "d": "21-23",
+      "spell": "dismissal",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "24-26",
+      "spell": "dispel magic, greater",
+      "market_price": "1,625 gp"
+    },
+    {
+      "d": "27-28",
+      "spell": "dominate person",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "29",
+      "spell": "dream",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "30-31",
+      "spell": "fabricate",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "32-33",
+      "spell": "false vision",
+      "market_price": "1,375 gp"
+    },
+    {
+      "d": "34-35",
+      "spell": "feeblemind",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "36-39",
+      "spell": "hold monster",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "40",
+      "spell": "secret chest",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "41",
+      "spell": "magic jar",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "42-43",
+      "spell": "major creation",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "44-45",
+      "spell": "mind fog",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "46-47",
+      "spell": "mirage arcana",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "48-49",
+      "spell": "mage’s faithful hound",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "50-51",
+      "spell": "mage’s private sanctum",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "52-53",
+      "spell": "nightmare",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "54-57",
+      "spell": "overland flight",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "58-60",
+      "spell": "passwall",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "61",
+      "spell": "permanency",
+      "market_price": "10,125 gp"
+    },
+    {
+      "d": "62-63",
+      "spell": "persistent image",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "64-65",
+      "spell": "planar binding, lesser",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "66-67",
+      "spell": "prying eyes",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "68-69",
+      "spell": "telepathic bond",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "70-71",
+      "spell": "seeming",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "72-74",
+      "spell": "sending",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "75-76",
+      "spell": "shadow evocation",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "77",
+      "spell": "song of discord",
+      "market_price": "1,625 gp"
+    },
+    {
+      "d": "78-79",
+      "spell": "summon monster V",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "80",
+      "spell": "symbol of pain",
+      "market_price": "2,125 gp"
+    },
+    {
+      "d": "81",
+      "spell": "symbol of sleep",
+      "market_price": "2,125 gp"
+    },
+    {
+      "d": "82-83",
+      "spell": "telekinesis",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "84-88",
+      "spell": "teleport",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "89-90",
+      "spell": "transmute mud to rock",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "91-92",
+      "spell": "transmute rock to mud",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "93-95",
+      "spell": "wall of force",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "96-98",
+      "spell": "wall of stone",
+      "market_price": "1,125 gp"
+    },
+    {
+      "d": "99-100",
+      "spell": "waves of fatigue",
+      "market_price": "1,125 gp"
+    }
+  ]
+}

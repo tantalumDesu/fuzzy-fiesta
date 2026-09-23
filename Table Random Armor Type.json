@@ -1,0 +1,83 @@
+{
+  "title": "Random Armor Type",
+  "source_file": "Table Random Armor Type.txt",
+  "columns": [
+    "d%",
+    "Armor",
+    "Armor Cost"
+  ],
+  "rows": [
+    {
+      "d_percentile": "01",
+      "armor": "Padded",
+      "armor_cost": "+155 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "02",
+      "armor": "Leather",
+      "armor_cost": "+160 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "03-17",
+      "armor": "Studded leather",
+      "armor_cost": "+175 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "18-32",
+      "armor": "Chain shirt",
+      "armor_cost": "+250 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "33-42",
+      "armor": "Hide",
+      "armor_cost": "+165 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "43",
+      "armor": "Scale mail",
+      "armor_cost": "+200 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "44",
+      "armor": "Chainmail",
+      "armor_cost": "+300 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "45-57",
+      "armor": "Breastplate",
+      "armor_cost": "+350 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "58",
+      "armor": "Splint mail",
+      "armor_cost": "+350 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "59",
+      "armor": "Banded mail",
+      "armor_cost": "+400 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "60",
+      "armor": "Half-plate",
+      "armor_cost": "+750 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "61-100",
+      "armor": "Full plate",
+      "armor_cost": "+1,650 gp",
+      "indent_level": 0
+    }
+  ]
+}

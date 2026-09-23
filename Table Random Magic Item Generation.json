@@ -1,0 +1,66 @@
+{
+  "title": "Random Magic Item Generation",
+  "source_file": "Table Random Magic Item Generation.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Item"
+  ],
+  "rows": [
+    {
+      "minor": "01-04",
+      "medium": "01-10",
+      "major": "01-10",
+      "item": "Armor and shields"
+    },
+    {
+      "minor": "05-09",
+      "medium": "11-20",
+      "major": "11-20",
+      "item": "Weapons"
+    },
+    {
+      "minor": "10-44",
+      "medium": "21-30",
+      "major": "21-25",
+      "item": "Potions"
+    },
+    {
+      "minor": "45-46",
+      "medium": "31-40",
+      "major": "26-35",
+      "item": "Rings"
+    },
+    {
+      "minor": "—",
+      "medium": "41-50",
+      "major": "36-45",
+      "item": "Rods"
+    },
+    {
+      "minor": "47-81",
+      "medium": "51-65",
+      "major": "46-55",
+      "item": "Scrolls"
+    },
+    {
+      "minor": "—",
+      "medium": "66-68",
+      "major": "56-75",
+      "item": "Staffs"
+    },
+    {
+      "minor": "82-91",
+      "medium": "69-83",
+      "major": "76-80",
+      "item": "Wands"
+    },
+    {
+      "minor": "92-100",
+      "medium": "84-100",
+      "major": "81-100",
+      "item": "Wondrous items"
+    }
+  ]
+}

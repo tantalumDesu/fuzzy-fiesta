@@ -1,0 +1,611 @@
+{
+  "title": "Major Wondrous Items",
+  "source_file": "Table Major Wondrous Items.txt",
+  "columns": [
+    "d%",
+    "Item",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "d_percentile": "01",
+      "item": "Dimensional shackles",
+      "market_price": "28,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "02",
+      "item": "Figurine of wondrous power, obsidian steed",
+      "market_price": "28,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "03",
+      "item": "Drums of panic",
+      "market_price": "30,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "04",
+      "item": "Ioun stone, orange",
+      "market_price": "30,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "05",
+      "item": "Ioun stone, pale green prism",
+      "market_price": "30,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "06",
+      "item": "Lantern of revealing",
+      "market_price": "30,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "07",
+      "item": "Robe of blending",
+      "market_price": "30,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "08",
+      "item": "Amulet of natural armor +4",
+      "market_price": "32,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "09",
+      "item": "Amulet of proof against detection and location",
+      "market_price": "35,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "10",
+      "item": "Carpet of flying, 5 ft. by 10 ft.",
+      "market_price": "35,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "11",
+      "item": "Golem manual, iron",
+      "market_price": "35,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "12",
+      "item": "Amulet of health +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "13",
+      "item": "Belt of giant Strength +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "14",
+      "item": "Bracers of armor +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "15",
+      "item": "Cloak of Charisma +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "16",
+      "item": "Gloves of Dexterity +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "17",
+      "item": "Headband of intellect +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "18",
+      "item": "Ioun stone, vibrant purple prism",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "19",
+      "item": "Pearl of power, 6th-level spell",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "20",
+      "item": "Periapt of Wisdom +6",
+      "market_price": "36,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "21",
+      "item": "Scarab of protection",
+      "market_price": "38,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "22",
+      "item": "Ioun stone, lavender and green ellipsoid",
+      "market_price": "40,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "23",
+      "item": "Ring gates",
+      "market_price": "40,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "24",
+      "item": "Crystal ball",
+      "market_price": "42,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "25",
+      "item": "Golem manual, greater stone",
+      "market_price": "44,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "26",
+      "item": "Orb of storms",
+      "market_price": "48,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "27",
+      "item": "Boots of teleportation",
+      "market_price": "49,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "28",
+      "item": "Bracers of armor +7",
+      "market_price": "49,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "29",
+      "item": "Pearl of power, 7th-level spell",
+      "market_price": "49,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "30",
+      "item": "Amulet of natural armor +5",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "31",
+      "item": "Cloak of displacement, major",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "32",
+      "item": "Crystal ball with see invisibility",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "33",
+      "item": "Horn of Valhalla",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "34",
+      "item": "Crystal ball with detect thoughts",
+      "market_price": "51,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "35",
+      "item": "Carpet of flying, 6 ft. by 9 ft.",
+      "market_price": "53,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "36",
+      "item": "Amulet of mighty fists +3",
+      "market_price": "54,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "37",
+      "item": "Wings of flying",
+      "market_price": "54,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "38",
+      "item": "Cloak of etherealness",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "39",
+      "item": "Instant fortress",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "40",
+      "item": "Manual of bodily health +2",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "41",
+      "item": "Manual of gainful exercise +2",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "42",
+      "item": "Manual of quickness of action +2",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "43",
+      "item": "Tome of clear thought +2",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "44",
+      "item": "Tome of leadership and influence +2",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "45",
+      "item": "Tome of understanding +2",
+      "market_price": "55,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "46",
+      "item": "Eyes of charming",
+      "market_price": "56,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "47",
+      "item": "Robe of stars",
+      "market_price": "58,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "48",
+      "item": "Carpet of flying, 10 ft. by 10 ft.",
+      "market_price": "60,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "49",
+      "item": "Darkskull",
+      "market_price": "60,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "50",
+      "item": "Cube of force",
+      "market_price": "62,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "51",
+      "item": "Bracers of armor +8",
+      "market_price": "64,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "52",
+      "item": "Pearl of power, 8th-level spell",
+      "market_price": "64,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "53",
+      "item": "Crystal ball with telepathy",
+      "market_price": "70,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "54",
+      "item": "Horn of blasting, greater",
+      "market_price": "70,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "55",
+      "item": "Pearl of power, two spells",
+      "market_price": "70,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "56",
+      "item": "Helm of teleportation",
+      "market_price": "73,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "57",
+      "item": "Gem of seeing",
+      "market_price": "75,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "58",
+      "item": "Robe of the archmagi",
+      "market_price": "75,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "59",
+      "item": "Mantle of faith",
+      "market_price": "76,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "60",
+      "item": "Crystal ball with true seeing",
+      "market_price": "80,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "61",
+      "item": "Pearl of power, 9th-level spell",
+      "market_price": "81,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "62",
+      "item": "Well of many worlds",
+      "market_price": "82,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "63",
+      "item": "Manual of bodily health +3",
+      "market_price": "82,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "64",
+      "item": "Manual of gainful exercise +3",
+      "market_price": "82,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "65",
+      "item": "Manual of quickness of action +3",
+      "market_price": "82,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "66",
+      "item": "Tome of clear thought +3",
+      "market_price": "82,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "67",
+      "item": "Tome of leadership and influence +3",
+      "market_price": "82,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "68",
+      "item": "Tome of understanding +3",
+      "market_price": "82,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "69",
+      "item": "Apparatus of the crab",
+      "market_price": "90,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "70",
+      "item": "Mantle of spell resistance",
+      "market_price": "90,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "71",
+      "item": "Mirror of opposition",
+      "market_price": "92,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "72",
+      "item": "Strand of prayer beads, greater",
+      "market_price": "95,800 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "73",
+      "item": "Amulet of mighty fists +4",
+      "market_price": "96,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "74",
+      "item": "Eyes of petrification",
+      "market_price": "98,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "75",
+      "item": "Bowl of commanding water elementals",
+      "market_price": "100,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "76",
+      "item": "Brazier of commanding fire elementals",
+      "market_price": "100,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "77",
+      "item": "Censer of controlling air elementals",
+      "market_price": "100,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "78",
+      "item": "Stone of controlling earth elementals",
+      "market_price": "100,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "79",
+      "item": "Manual of bodily health +4",
+      "market_price": "110,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "80",
+      "item": "Manual of gainful exercise +4",
+      "market_price": "110,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "81",
+      "item": "Manual of quickness of action +4",
+      "market_price": "110,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "82",
+      "item": "Tome of clear thought +4",
+      "market_price": "110,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "83",
+      "item": "Tome of leadership and influence +4",
+      "market_price": "110,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "84",
+      "item": "Tome of understanding +4",
+      "market_price": "110,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "85",
+      "item": "Amulet of the planes",
+      "market_price": "120,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "86",
+      "item": "Robe of eyes",
+      "market_price": "120,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "87",
+      "item": "Helm of brilliance",
+      "market_price": "125,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "88",
+      "item": "Manual of bodily health +5",
+      "market_price": "137,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "89",
+      "item": "Manual of gainful exercise +5",
+      "market_price": "137,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "90",
+      "item": "Manual of quickness of action +5",
+      "market_price": "137,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "91",
+      "item": "Tome of clear thought +5",
+      "market_price": "137,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "92",
+      "item": "Tome of leadership and influence +5",
+      "market_price": "137,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "93",
+      "item": "Tome of understanding +5",
+      "market_price": "137,500 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "94",
+      "item": "Efreeti bottle",
+      "market_price": "145,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "95",
+      "item": "Amulet of mighty fists +5",
+      "market_price": "150,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "96",
+      "item": "Chaos diamond",
+      "market_price": "160,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "97",
+      "item": "Cubic gate",
+      "market_price": "164,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "98",
+      "item": "Iron flask",
+      "market_price": "170,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "99",
+      "item": "Mirror of mental prowess",
+      "market_price": "175,000 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "100",
+      "item": "Mirror of life trapping",
+      "market_price": "200,000 gp",
+      "indent_level": 0
+    }
+  ]
+}
