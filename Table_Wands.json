@@ -1,0 +1,661 @@
+{
+  "title": "Wands",
+  "source_file": "Table Wands.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Wand",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "minor": "01-02",
+      "medium": "—",
+      "major": "—",
+      "wand": "Detect magic",
+      "market_price": "375 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "03-04",
+      "medium": "—",
+      "major": "—",
+      "wand": "Light",
+      "market_price": "375 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "05-07",
+      "medium": "—",
+      "major": "—",
+      "wand": "Burning hands",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "08-10",
+      "medium": "—",
+      "major": "—",
+      "wand": "Charm animal",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "11-13",
+      "medium": "—",
+      "major": "—",
+      "wand": "Charm person",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "14-16",
+      "medium": "—",
+      "major": "—",
+      "wand": "Color spray",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "17-19",
+      "medium": "—",
+      "major": "—",
+      "wand": "Cure light wounds",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "20-22",
+      "medium": "—",
+      "major": "—",
+      "wand": "Detect secret doors",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "23-25",
+      "medium": "—",
+      "major": "—",
+      "wand": "Enlarge person",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "26-28",
+      "medium": "—",
+      "major": "—",
+      "wand": "Magic missile (1st)",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "29-31",
+      "medium": "—",
+      "major": "—",
+      "wand": "Shocking grasp",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "32-34",
+      "medium": "—",
+      "major": "—",
+      "wand": "Summon monster I",
+      "market_price": "750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "35-36",
+      "medium": "—",
+      "major": "—",
+      "wand": "Magic missile (3rd)",
+      "market_price": "2,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "37",
+      "medium": "01-03",
+      "major": "—",
+      "wand": "Magic missile (5th)",
+      "market_price": "3,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "38-40",
+      "medium": "04-07",
+      "major": "—",
+      "wand": "Bear’s endurance",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "41-43",
+      "medium": "08-11",
+      "major": "—",
+      "wand": "Bull’s strength",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "44-46",
+      "medium": "12-15",
+      "major": "—",
+      "wand": "Cat’s grace",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "47-49",
+      "medium": "16-20",
+      "major": "—",
+      "wand": "Cure moderate wounds",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "50-51",
+      "medium": "21-22",
+      "major": "—",
+      "wand": "Darkness",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "52-54",
+      "medium": "23-24",
+      "major": "—",
+      "wand": "Daze Monster",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "55-57",
+      "medium": "25-27",
+      "major": "—",
+      "wand": "Delay poison",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "58-60",
+      "medium": "28-31",
+      "major": "—",
+      "wand": "Eagle’s splendor",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "61-63",
+      "medium": "32-33",
+      "major": "—",
+      "wand": "False life",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "64-66",
+      "medium": "34-37",
+      "major": "—",
+      "wand": "Fox’s cunning",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "67-68",
+      "medium": "38",
+      "major": "—",
+      "wand": "Ghoul touch",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "69-71",
+      "medium": "39",
+      "major": "—",
+      "wand": "Hold person",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "72-74",
+      "medium": "40-42",
+      "major": "—",
+      "wand": "Invisibility",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "75-77",
+      "medium": "43-44",
+      "major": "—",
+      "wand": "Knock",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "78-80",
+      "medium": "45",
+      "major": "—",
+      "wand": "Levitate",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "81-83",
+      "medium": "46-47",
+      "major": "—",
+      "wand": "Acid arrow",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "84-86",
+      "medium": "48-49",
+      "major": "—",
+      "wand": "Mirror image",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "87-89",
+      "medium": "50-53",
+      "major": "—",
+      "wand": "Owl’s wisdom",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "90-91",
+      "medium": "54",
+      "major": "—",
+      "wand": "Shatter",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "92-94",
+      "medium": "55-56",
+      "major": "—",
+      "wand": "Silence",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "95-97",
+      "medium": "57",
+      "major": "—",
+      "wand": "Summon monster II",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "98-100",
+      "medium": "58-59",
+      "major": "—",
+      "wand": "Web",
+      "market_price": "4,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "60-62",
+      "major": "01-02",
+      "wand": "Magic missile (7th)",
+      "market_price": "5,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "63-64",
+      "major": "03-05",
+      "wand": "Magic missile (9th)",
+      "market_price": "6,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "65-67",
+      "major": "06-07",
+      "wand": "Call lightning (5th)",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "68",
+      "major": "08",
+      "wand": "Charm person, heightened (3rd-level spell)",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "69-70",
+      "major": "09-10",
+      "wand": "Contagion",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "71-74",
+      "major": "11-13",
+      "wand": "Cure serious wounds",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "75-77",
+      "major": "14-15",
+      "wand": "Dispel magic",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "78-81",
+      "major": "16-17",
+      "wand": "Fireball (5th)",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "82-83",
+      "major": "18-19",
+      "wand": "Keen edge",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "84-87",
+      "major": "20-21",
+      "wand": "Lightning bolt (5th)",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "88-89",
+      "major": "22-23",
+      "wand": "Major image",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "90-91",
+      "major": "24-25",
+      "wand": "Slow",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "92-94",
+      "major": "26-27",
+      "wand": "Suggestion",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "95-97",
+      "major": "28-29",
+      "wand": "Summon monster III",
+      "market_price": "11,250 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "98",
+      "major": "30-31",
+      "wand": "Fireball (6th)",
+      "market_price": "13,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "99",
+      "major": "32-33",
+      "wand": "Lightning bolt (6th)",
+      "market_price": "13,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "100",
+      "major": "34-35",
+      "wand": "Searing light (6th)",
+      "market_price": "13,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "36-37",
+      "wand": "Call lightning (8th)",
+      "market_price": "18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "38-39",
+      "wand": "Fireball (8th)",
+      "market_price": "18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "40-41",
+      "wand": "Lightning bolt (8th)",
+      "market_price": "18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "42-45",
+      "wand": "Charm monster",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "46-50",
+      "wand": "Cure critical wounds",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "51-52",
+      "wand": "Dimensional anchor",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "53-55",
+      "wand": "Fear",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "56-59",
+      "wand": "Greater invisibility",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "60",
+      "wand": "Hold person, heightened (4th level)",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "61-65",
+      "wand": "Ice storm",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "66-68",
+      "wand": "Inflict critical wounds",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "69-72",
+      "wand": "Neutralize poison",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "73-74",
+      "wand": "Poison",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "75-77",
+      "wand": "Polymorph",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "78",
+      "wand": "Ray of enfeeblement, heightened (4th level)",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "79",
+      "wand": "Suggestion, heightened (4th level)",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "80-82",
+      "wand": "Summon monster IV",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "83-86",
+      "wand": "Wall of fire",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "87-90",
+      "wand": "Wall of ice",
+      "market_price": "21,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "91",
+      "wand": "Dispel magic (10th)",
+      "market_price": "22,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "92",
+      "wand": "Fireball (10th)",
+      "market_price": "22,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "93",
+      "wand": "Lightning bolt (10th)",
+      "market_price": "22,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "94",
+      "wand": "Chaos hammer (8th)",
+      "market_price": "24,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "95",
+      "wand": "Holy smite (8th)",
+      "market_price": "24,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "96",
+      "wand": "Order’s wrath (8th)",
+      "market_price": "24,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "97",
+      "wand": "Unholy blight (8th)",
+      "market_price": "24,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "98-99",
+      "wand": "Restoration1",
+      "market_price": "26,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "100",
+      "wand": "Stoneskin2",
+      "market_price": "33,500 gp",
+      "indent_level": 0
+    }
+  ]
+}

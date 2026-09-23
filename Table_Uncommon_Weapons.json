@@ -1,0 +1,242 @@
+{
+  "title": "Uncommon Weapons",
+  "source_file": "Table Uncommon Weapons.txt",
+  "columns": [
+    "d%",
+    "Weapon",
+    "Weapon Cost"
+  ],
+  "table_notes": [
+    "This is a double weapon. Masterwork double weapons incur double the masterwork cost to account for each head."
+  ],
+  "rows": [
+    {
+      "d_percentile": "01-03",
+      "weapon": "Axe, orc double2",
+      "weapon_cost": "+660 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "04-07",
+      "weapon": "Battleaxe",
+      "weapon_cost": "+310 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "08-10",
+      "weapon": "Chain, spiked",
+      "weapon_cost": "+325 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "11-12",
+      "weapon": "Club",
+      "weapon_cost": "+300 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "13-16",
+      "weapon": "Crossbow, hand",
+      "weapon_cost": "+400 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "17-19",
+      "weapon": "Crossbow, repeating",
+      "weapon_cost": "+550 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "20-21",
+      "weapon": "Dagger, punching",
+      "weapon_cost": "+302 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "22-23",
+      "weapon": "Falchion",
+      "weapon_cost": "+375 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "24-26",
+      "weapon": "Flail, dire2",
+      "weapon_cost": "+690 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "27-31",
+      "weapon": "Flail, heavy",
+      "weapon_cost": "+315 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "32-35",
+      "weapon": "Flail",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "36-37",
+      "weapon": "Gauntlet",
+      "weapon_cost": "+302 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "38-39",
+      "weapon": "Gauntlet, spiked",
+      "weapon_cost": "+305 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "40-41",
+      "weapon": "Glaive",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "42-43",
+      "weapon": "Greatclub",
+      "weapon_cost": "+305 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "44-45",
+      "weapon": "Guisarme",
+      "weapon_cost": "+309 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "46-48",
+      "weapon": "Halberd",
+      "weapon_cost": "+310 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "49-51",
+      "weapon": "Spear",
+      "weapon_cost": "+301 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "52-54",
+      "weapon": "Hammer, gnome hooked2",
+      "weapon_cost": "+620 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "55-56",
+      "weapon": "Hammer, light",
+      "weapon_cost": "+301 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "57-58",
+      "weapon": "Handaxe",
+      "weapon_cost": "+306 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "59-61",
+      "weapon": "Kukri",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "62-64",
+      "weapon": "Lance",
+      "weapon_cost": "+310 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "65-67",
+      "weapon": "Longspear",
+      "weapon_cost": "+305 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "68-70",
+      "weapon": "Morningstar",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "71-72",
+      "weapon": "Net",
+      "weapon_cost": "+320 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "73-74",
+      "weapon": "Pick, heavy",
+      "weapon_cost": "+308 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "75-76",
+      "weapon": "Pick, light",
+      "weapon_cost": "+304 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "77-78",
+      "weapon": "Ranseur",
+      "weapon_cost": "+310 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "79-80",
+      "weapon": "Sap",
+      "weapon_cost": "+301 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "81-82",
+      "weapon": "Scythe",
+      "weapon_cost": "+318 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "83-84",
+      "weapon": "Shuriken (50)",
+      "weapon_cost": "+310 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "85-86",
+      "weapon": "Sickle",
+      "weapon_cost": "+306 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "87-89",
+      "weapon": "Sword, two-bladed2",
+      "weapon_cost": "+700 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "90-91",
+      "weapon": "Trident",
+      "weapon_cost": "+315 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "92-94",
+      "weapon": "Urgrosh, dwarven2",
+      "weapon_cost": "+650 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "95-97",
+      "weapon": "Warhammer",
+      "weapon_cost": "+312 gp",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "98-100",
+      "weapon": "Whip",
+      "weapon_cost": "+301 gp",
+      "indent_level": 0
+    }
+  ]
+}

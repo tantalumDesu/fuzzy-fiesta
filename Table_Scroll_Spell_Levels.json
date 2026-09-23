@@ -1,0 +1,83 @@
+{
+  "title": "Scroll Spell Levels",
+  "source_file": "Table Scroll Spell Levels.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Spell Level",
+    "Spell’s Caster Level"
+  ],
+  "rows": [
+    {
+      "minor": "01-05",
+      "medium": "—",
+      "major": "—",
+      "spell_level": "0",
+      "spell_s_caster_level": "1st"
+    },
+    {
+      "minor": "06-50",
+      "medium": "—",
+      "major": "—",
+      "spell_level": "1st",
+      "spell_s_caster_level": "1st"
+    },
+    {
+      "minor": "51-95",
+      "medium": "01-05",
+      "major": "—",
+      "spell_level": "2nd",
+      "spell_s_caster_level": "3rd"
+    },
+    {
+      "minor": "96-100",
+      "medium": "06-65",
+      "major": "—",
+      "spell_level": "3rd",
+      "spell_s_caster_level": "5th"
+    },
+    {
+      "minor": "—",
+      "medium": "66-95",
+      "major": "01-05",
+      "spell_level": "4th",
+      "spell_s_caster_level": "7th"
+    },
+    {
+      "minor": "—",
+      "medium": "96-100",
+      "major": "06-50",
+      "spell_level": "5th",
+      "spell_s_caster_level": "9th"
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "51-70",
+      "spell_level": "6th",
+      "spell_s_caster_level": "11th"
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "71-85",
+      "spell_level": "7th",
+      "spell_s_caster_level": "13th"
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "86-95",
+      "spell_level": "8th",
+      "spell_s_caster_level": "15th"
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "95-100",
+      "spell_level": "9th",
+      "spell_s_caster_level": "17th"
+    }
+  ]
+}

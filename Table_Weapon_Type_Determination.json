@@ -1,0 +1,25 @@
+{
+  "title": "Weapon Type Determination",
+  "source_file": "Table Weapon Type Determination.txt",
+  "columns": [
+    "d%",
+    "Weapon Type"
+  ],
+  "rows": [
+    {
+      "d_percentile": "01-70",
+      "weapon_type": "Common melee weapon",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "71-80",
+      "weapon_type": "Uncommon weapon",
+      "indent_level": 0
+    },
+    {
+      "d_percentile": "81-100",
+      "weapon_type": "Common ranged weapon",
+      "indent_level": 0
+    }
+  ]
+}

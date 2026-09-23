@@ -1,0 +1,321 @@
+{
+  "title": "Armor Special Abilities",
+  "source_file": "Table Armor Special Abilities.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Special Ability",
+    "Base Price Modifier"
+  ],
+  "table_notes": [
+    "Add to the enhancement bonus on Table: Armor and Shields to determine total market price.",
+    "Reroll if you get a duplicate special ability, an ability incompatible with an ability you've already rolled, or if the extra ability puts the armor's total bonus over the +10 limit."
+  ],
+  "rows": [
+    {
+      "minor": "01-25",
+      "medium": "01-05",
+      "major": "01-03",
+      "special_ability": "Glamered",
+      "base_price_modifier": "+2,700 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "26-32",
+      "medium": "06-08",
+      "major": "04",
+      "special_ability": "Fortification, light",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "33-52",
+      "medium": "09-11",
+      "major": "—",
+      "special_ability": "Slick",
+      "base_price_modifier": "+3,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "53-72",
+      "medium": "12-14",
+      "major": "—",
+      "special_ability": "Shadow",
+      "base_price_modifier": "+3,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "73-92",
+      "medium": "15-17",
+      "major": "—",
+      "special_ability": "Silent moves",
+      "base_price_modifier": "+3,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "93-96",
+      "medium": "18-19",
+      "major": "—",
+      "special_ability": "Spell resistance (13)",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "97",
+      "medium": "20-29",
+      "major": "05-07",
+      "special_ability": "Slick, improved",
+      "base_price_modifier": "+15,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "98",
+      "medium": "30-39",
+      "major": "08-10",
+      "special_ability": "Shadow, improved",
+      "base_price_modifier": "+15,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "99",
+      "medium": "40-49",
+      "major": "11-13",
+      "special_ability": "Silent moves, improved",
+      "base_price_modifier": "+15,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "50-54",
+      "major": "14-16",
+      "special_ability": "Acid resistance",
+      "base_price_modifier": "+18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "55-59",
+      "major": "17-19",
+      "special_ability": "Cold resistance",
+      "base_price_modifier": "+18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "60-64",
+      "major": "20-22",
+      "special_ability": "Electricity resistance",
+      "base_price_modifier": "+18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "65-69",
+      "major": "23-25",
+      "special_ability": "Fire resistance",
+      "base_price_modifier": "+18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "70-74",
+      "major": "26-28",
+      "special_ability": "Sonic resistance",
+      "base_price_modifier": "+18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "75-79",
+      "major": "29-33",
+      "special_ability": "Ghost touch",
+      "base_price_modifier": "+3 bonus1",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "80-84",
+      "major": "34-35",
+      "special_ability": "Invulnerability",
+      "base_price_modifier": "+3 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "85-89",
+      "major": "36-40",
+      "special_ability": "Fortification, moderate",
+      "base_price_modifier": "+3 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "90-94",
+      "major": "41-42",
+      "special_ability": "Spell resistance (15)",
+      "base_price_modifier": "+3 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "95-99",
+      "major": "43",
+      "special_ability": "Wild",
+      "base_price_modifier": "+3 bonus1",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "44-48",
+      "special_ability": "Slick, greater",
+      "base_price_modifier": "+33,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "49-53",
+      "special_ability": "Shadow, greater",
+      "base_price_modifier": "+33,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "54-58",
+      "special_ability": "Silent moves, greater",
+      "base_price_modifier": "+33,750 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "59-63",
+      "special_ability": "Acid resistance, improved",
+      "base_price_modifier": "+42,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "64-68",
+      "special_ability": "Cold resistance, improved",
+      "base_price_modifier": "+42,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "69-73",
+      "special_ability": "Electricity resistance, improved",
+      "base_price_modifier": "+42,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "74-78",
+      "special_ability": "Fire resistance, improved",
+      "base_price_modifier": "+42,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "79-83",
+      "special_ability": "Sonic resistance, improved",
+      "base_price_modifier": "+42,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "84-88",
+      "special_ability": "Spell resistance (17)",
+      "base_price_modifier": "+4 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "89",
+      "special_ability": "Etherealness",
+      "base_price_modifier": "+49,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "90",
+      "special_ability": "Undead controlling",
+      "base_price_modifier": "+49,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "91-92",
+      "special_ability": "Fortification, heavy",
+      "base_price_modifier": "+5 bonus1",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "93-94",
+      "special_ability": "Spell resistance (19)",
+      "base_price_modifier": "+5 bonus1",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "95",
+      "special_ability": "Acid resistance, greater",
+      "base_price_modifier": "+66,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "96",
+      "special_ability": "Cold resistance, greater",
+      "base_price_modifier": "+66,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "97",
+      "special_ability": "Electricity resistance, greater",
+      "base_price_modifier": "+66,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "98",
+      "special_ability": "Fire resistance, greater",
+      "base_price_modifier": "+66,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "99",
+      "special_ability": "Sonic resistance, greater",
+      "base_price_modifier": "+66,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "100",
+      "medium": "100",
+      "major": "100",
+      "special_ability": "Roll twice again2",
+      "base_price_modifier": "—",
+      "indent_level": 0
+    }
+  ]
+}

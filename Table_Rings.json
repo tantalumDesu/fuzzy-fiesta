@@ -1,0 +1,389 @@
+{
+  "title": "Rings",
+  "source_file": "Table Rings.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Ring",
+    "Market Price"
+  ],
+  "rows": [
+    {
+      "minor": "01-18",
+      "medium": "—",
+      "major": "—",
+      "ring": "Protection +1",
+      "market_price": "2,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "19-28",
+      "medium": "—",
+      "major": "—",
+      "ring": "Feather falling",
+      "market_price": "2,200 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "29-36",
+      "medium": "—",
+      "major": "—",
+      "ring": "Sustenance",
+      "market_price": "2,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "37-44",
+      "medium": "—",
+      "major": "—",
+      "ring": "Climbing",
+      "market_price": "2,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "45-52",
+      "medium": "—",
+      "major": "—",
+      "ring": "Jumping",
+      "market_price": "2,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "53-60",
+      "medium": "—",
+      "major": "—",
+      "ring": "Swimming",
+      "market_price": "2,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "61-70",
+      "medium": "01-05",
+      "major": "—",
+      "ring": "Counterspells",
+      "market_price": "4,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "71-75",
+      "medium": "06-08",
+      "major": "—",
+      "ring": "Mind shielding",
+      "market_price": "8,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "76-80",
+      "medium": "09-18",
+      "major": "—",
+      "ring": "Protection +2",
+      "market_price": "8,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "81-85",
+      "medium": "19-23",
+      "major": "—",
+      "ring": "Force shield",
+      "market_price": "8,500 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "86-90",
+      "medium": "24-28",
+      "major": "—",
+      "ring": "Ram",
+      "market_price": "8,600 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "29-34",
+      "major": "—",
+      "ring": "Climbing, improved",
+      "market_price": "10,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "35-40",
+      "major": "—",
+      "ring": "Jumping, improved",
+      "market_price": "10,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "41-46",
+      "major": "—",
+      "ring": "Swimming, improved",
+      "market_price": "10,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "91-93",
+      "medium": "47-51",
+      "major": "—",
+      "ring": "Animal friendship",
+      "market_price": "10,800 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "94-96",
+      "medium": "52-56",
+      "major": "01-02",
+      "ring": "Energy resistance, minor",
+      "market_price": "12,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "97-98",
+      "medium": "57-61",
+      "major": "—",
+      "ring": "Chameleon power",
+      "market_price": "12,700 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "99-100",
+      "medium": "62-66",
+      "major": "—",
+      "ring": "Water walking",
+      "market_price": "15,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "67-71",
+      "major": "03-07",
+      "ring": "Protection +3",
+      "market_price": "18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "72-76",
+      "major": "08-10",
+      "ring": "Spell storing, minor",
+      "market_price": "18,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "77-81",
+      "major": "11-15",
+      "ring": "Invisibility",
+      "market_price": "20,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "82-85",
+      "major": "16-19",
+      "ring": "Wizardry (I)",
+      "market_price": "20,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "86-89",
+      "major": "20-25",
+      "ring": "Evasion",
+      "market_price": "25,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "90-92",
+      "major": "26-28",
+      "ring": "X-ray vision",
+      "market_price": "25,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "93-95",
+      "major": "29-32",
+      "ring": "Blinking",
+      "market_price": "27,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "96-98",
+      "major": "33-36",
+      "ring": "Meld into Stone",
+      "market_price": "27,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "99-100",
+      "major": "37-43",
+      "ring": "Energy resistance, major",
+      "market_price": "28,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "44-50",
+      "ring": "Protection +4",
+      "market_price": "32,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "51-55",
+      "ring": "Wizardry (II)",
+      "market_price": "40,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "56-60",
+      "ring": "Freedom of movement",
+      "market_price": "40,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "61-63",
+      "ring": "Energy resistance, greater",
+      "market_price": "44,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "64-65",
+      "ring": "Friend shield (pair)",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "66-70",
+      "ring": "Protection +5",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "71-74",
+      "ring": "Shooting stars",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "75-79",
+      "ring": "Spell storing",
+      "market_price": "50,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "80-83",
+      "ring": "Wizardry (III)",
+      "market_price": "70,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "84-86",
+      "ring": "Telekinesis",
+      "market_price": "75,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "87-88",
+      "ring": "Regeneration",
+      "market_price": "90,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "89",
+      "ring": "Three wishes",
+      "market_price": "97,950 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "90-92",
+      "ring": "Spell turning",
+      "market_price": "98,280 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "93-94",
+      "ring": "Wizardry (IV)",
+      "market_price": "100,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "95",
+      "ring": "Djinni calling",
+      "market_price": "125,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "96",
+      "ring": "Elemental command (air)",
+      "market_price": "200,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "97",
+      "ring": "Elemental command (earth)",
+      "market_price": "200,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "98",
+      "ring": "Elemental command (fire)",
+      "market_price": "200,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "99",
+      "ring": "Elemental command (water)",
+      "market_price": "200,000 gp",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "100",
+      "ring": "Spell storing, major",
+      "market_price": "200,000 gp",
+      "indent_level": 0
+    }
+  ]
+}

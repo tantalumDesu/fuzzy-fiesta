@@ -1,0 +1,169 @@
+{
+  "title": "Ranged Weapon Special Abilities",
+  "source_file": "Table Ranged Weapon Special Abilities.txt",
+  "columns": [
+    "Minor",
+    "Medium",
+    "Major",
+    "Special Ability",
+    "Base Price Modifier"
+  ],
+  "table_notes": [
+    "Add to the enhancement bonus on Table: Weapons to determine total market price.",
+    "Reroll if you get a duplicate special ability, an ability incompatible with an ability you've already rolled, or if the extra ability puts you over the +10 limit. A weapon's enhancement bonus and special ability bonus equivalents can't total more than +10."
+  ],
+  "rows": [
+    {
+      "minor": "01-12",
+      "medium": "01-08",
+      "major": "01-04",
+      "special_ability": "Bane",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "13-25",
+      "medium": "09-16",
+      "major": "05-08",
+      "special_ability": "Distance",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "26-40",
+      "medium": "17-28",
+      "major": "09-12",
+      "special_ability": "Flaming",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "41-55",
+      "medium": "29-40",
+      "major": "13-16",
+      "special_ability": "Frost",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "56-60",
+      "medium": "41-42",
+      "major": "—",
+      "special_ability": "Merciful",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "61-68",
+      "medium": "43-47",
+      "major": "17-21",
+      "special_ability": "Returning",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "69-83",
+      "medium": "48-59",
+      "major": "22-25",
+      "special_ability": "Shock",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "84-93",
+      "medium": "60-64",
+      "major": "26-27",
+      "special_ability": "Seeking",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "94-99",
+      "medium": "65-68",
+      "major": "28-29",
+      "special_ability": "Thundering",
+      "base_price_modifier": "+1 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "69-71",
+      "major": "30-34",
+      "special_ability": "Anarchic",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "72-74",
+      "major": "35-39",
+      "special_ability": "Axiomatic",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "75-79",
+      "major": "40-49",
+      "special_ability": "Flaming burst",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "80-82",
+      "major": "50-54",
+      "special_ability": "Holy",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "83-87",
+      "major": "55-64",
+      "special_ability": "Icy burst",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "88-92",
+      "major": "65-74",
+      "special_ability": "Shocking burst",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "93-95",
+      "major": "75-79",
+      "special_ability": "Unholy",
+      "base_price_modifier": "+2 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "80-84",
+      "special_ability": "Speed",
+      "base_price_modifier": "+3 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "—",
+      "medium": "—",
+      "major": "85-90",
+      "special_ability": "Brilliant energy",
+      "base_price_modifier": "+4 bonus",
+      "indent_level": 0
+    },
+    {
+      "minor": "100",
+      "medium": "96-100",
+      "major": "91-100",
+      "special_ability": "Roll again twice2",
+      "base_price_modifier": "—",
+      "indent_level": 0
+    }
+  ]
+}
