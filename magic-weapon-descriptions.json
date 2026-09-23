@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Anarchic",
+    "description": "An anarchic weapon is chaotically aligned and infused with the power of chaos. It makes the weapon chaos-aligned and thus bypasses the corresponding [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction). It deals an extra 2d6 points of damage against all of lawful [alignment](https://www.d20srd.org/srd/description.htm#alignment). It bestows one [negative level](https://www.d20srd.org/srd/specialAbilities.htm#energyDrainAndNegativeLevels) on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual [level loss](https://www.d20srd.org/srd/specialAbilities.htm#levelLoss), but it cannot be overcome in any way (including [restoration](https://www.d20srd.org/srd/spells/restoration.htm) spells) while the weapon is wielded. Bows, crossbows, and slings so crafted bestow the chaotic power upon their ammunition.",
+    "construction": "Moderate evocation [chaotic]; CL 7th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [chaos hammer](https://www.d20srd.org/srd/spells/chaosHammer.htm), creator must be chaotic; Price +2 bonus."
+  },
+  {
+    "name": "Axiomatic",
+    "description": "An axiomatic weapon is lawfully aligned and infused with the power of law. It makes the weapon law-aligned and thus bypasses the corresponding [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction). It deals an extra 2d6 points of damage against all of chaotic [alignment](https://www.d20srd.org/srd/description.htm#alignment). It bestows one [negative level](https://www.d20srd.org/srd/specialAbilities.htm#energyDrainAndNegativeLevels) on any chaotic creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual [level loss](https://www.d20srd.org/srd/specialAbilities.htm#levelLoss), but it cannot be overcome in any way (including [restoration](https://www.d20srd.org/srd/spells/restoration.htm) spells) while the weapon is wielded. Bows, crossbows, and slings so crafted bestow the lawful power upon their ammunition.",
+    "construction": "Moderate evocation [lawful]; CL 7th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [order’s wrath](https://www.d20srd.org/srd/spells/ordersWrath.htm), creator must be lawful; Price +2 bonus."
+  },
+  {
+    "name": "Bane",
+    "description": "A bane weapon excels at attacking one type or subtype of creature. Against its designated foe, its effective [enhancement bonus](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) is +2 better than its normal enhancement bonus. It deals an extra 2d6 points of damage against the foe. Bows, crossbows, and slings so crafted bestow the bane quality upon their ammunition. To randomly determine a weapon’s designated foe, roll on the following table.",
+    "construction": "Moderate conjuration; CL 8th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [summon monster I](https://www.d20srd.org/srd/spells/summonMonsterI.htm); Price +1 bonus."
+  },
+  {
+    "name": "Brilliant Energy",
+    "description": "A brilliant energy weapon has its significant portion transformed into light, although this does not modify the item’s weight. It always gives off light as a torch (20-foot radius). A brilliant energy weapon ignores nonliving matter. Armor and [shield bonuses](https://www.d20srd.org/srd/theBasics.htm#shieldBonus) to AC (including any [enhancement bonuses](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) to that armor) do not count against it because the weapon passes through armor. (Dexterity, deflection, dodge, natural armor, and other such bonuses still apply.) A brilliant energy weapon cannot harm undead, [constructs](https://www.d20srd.org/srd/typesSubtypes.htm#constructType), and objects. This property can only be applied to melee weapons, [thrown weapons](https://www.d20srd.org/srd/equipment/weapons.htm#thrownWeapons), and ammunition.",
+    "construction": "Strong transmutation; CL 16th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [gaseous form](https://www.d20srd.org/srd/spells/gaseousForm.htm), [continual flame](https://www.d20srd.org/srd/spells/continualFlame.htm); Price +4 bonus."
+  },
+  {
+    "name": "Dancing",
+    "description": "As a [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions), a dancing weapon can be loosed to attack on its own. It fights for 4 rounds using the base attack bonus of the one who loosed it and then drops. While dancing, it cannot make [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm), and the person who activated it is not considered armed with the weapon. In all other respects, it is considered wielded or attended by the creature for all maneuvers and effects that target items. While dancing, it takes up the same space as the activating character and can attack adjacent foes (weapons with reach can attack opponents up to 10 feet away). The dancing weapon accompanies the person who activated it everywhere, whether she moves by physical or magical means. If the wielder who loosed it has an unoccupied hand, she can grasp it while it is attacking on its own as a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions); when so retrieved the weapon can’t dance (attack on its own) again for 4 rounds.",
+    "construction": "Strong transmutation; CL 15th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [animate objects](https://www.d20srd.org/srd/spells/animateObjects.htm); Price +4 bonus."
+  },
+  {
+    "name": "Defending",
+    "description": "A defending weapon allows the wielder to transfer some or all of the sword’s [enhancement bonus](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) to his AC as a bonus that stacks with all others. As a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions), the wielder chooses how to allocate the weapon’s enhancement bonus at the start of his turn before using the weapon, and the effect to AC lasts until his next turn.",
+    "construction": "Moderate abjuration; CL 8th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [shield](https://www.d20srd.org/srd/spells/shield.htm) or [shield of faith](https://www.d20srd.org/srd/spells/shieldOfFaith.htm); Price +1 bonus."
+  },
+  {
+    "name": "Disruption",
+    "description": "A weapon of disruption is the bane of all undead. Any [undead](https://www.d20srd.org/srd/typesSubtypes.htm#undeadType) creature struck in combat must succeed on a DC 14 [Will save](https://www.d20srd.org/srd/combat/combatStatistics.htm#will) or be destroyed. A weapon of disruption must be a bludgeoning weapon. (If you roll this property randomly for a piercing or slashing weapon, reroll.)",
+    "construction": "Strong conjuration; CL 14th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [heal](https://www.d20srd.org/srd/spells/heal.htm); Price +2 bonus."
+  },
+  {
+    "name": "Distance",
+    "description": "This property can only be placed on a ranged weapon. A weapon of distance has double the range increment of other weapons of its kind.",
+    "construction": "Moderate divination; CL 6th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [clairaudience/clairvoyance](https://www.d20srd.org/srd/spells/clairaudienceClairvoyance.htm); Price +1 bonus."
+  },
+  {
+    "name": "Flaming",
+    "description": "Upon command, a flaming weapon is sheathed in fire. The fire does not harm the wielder. The effect remains until another command is given. A flaming weapon deals an extra 1d6 points of fire damage on a successful hit. Bows, crossbows, and slings so crafted bestow the fire energy upon their ammunition.",
+    "construction": "Moderate evocation; CL 10th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor) and [flame blade](https://www.d20srd.org/srd/spells/flameBlade.htm), [flame strike](https://www.d20srd.org/srd/spells/flameStrike.htm), or [fireball](https://www.d20srd.org/srd/spells/fireball.htm); Price +1 bonus."
+  },
+  {
+    "name": "Flaming Burst",
+    "description": "A flaming burst weapon functions as a flaming weapon that also explodes with flame upon striking a successful [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits). The fire does not harm the wielder. In addition to the extra fire damage from the flaming ability (see above), a flaming burst weapon deals an extra 1d10 points of fire damage on a successful critical hit. If the weapon’s critical multiplier is ×3, add an extra 2d10 points of fire damage instead, and if the multiplier is ×4, add an extra 3d10 points of fire damage. Bows, crossbows, and slings so crafted bestow the fire energy upon their ammunition. Even if the flaming ability is not active, the weapon still deals its extra fire damage on a successful critical hit.",
+    "construction": "Strong evocation; CL 12th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor) and [flame blade](https://www.d20srd.org/srd/spells/flameBlade.htm), [flame strike](https://www.d20srd.org/srd/spells/flameStrike.htm), or [fireball](https://www.d20srd.org/srd/spells/fireball.htm); Price +2 bonus."
+  },
+  {
+    "name": "Frost",
+    "description": "Upon command, a frost weapon is sheathed in icy cold. The cold does not harm the wielder. The effect remains until another command is given. A frost weapon deals an extra 1d6 points of cold damage on a successful hit. Bows, crossbows, and slings so crafted bestow the cold energy upon their ammunition.",
+    "construction": "Moderate evocation; CL 8th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [chill metal](https://www.d20srd.org/srd/spells/chillMetal.htm) or [ice storm](https://www.d20srd.org/srd/spells/iceStorm.htm); Price +1 bonus."
+  },
+  {
+    "name": "Ghost Touch",
+    "description": "A ghost touch weapon deals damage normally against [incorporeal creatures](https://www.d20srd.org/srd/typesSubtypes.htm#incorporealSubtype), regardless of its bonus. (An incorporeal creature’s 50% chance to avoid damage does not apply to attacks with ghost touch weapons.) The weapon can be picked up and moved by an incorporeal creature at any time. A manifesting ghost can wield the weapon against corporeal foes. Essentially, a ghost touch weapon counts as either corporeal or [incorporeal](https://www.d20srd.org/srd/specialAbilities.htm#incorporeality) at any given time, whichever is more beneficial to the wielder.",
+    "construction": "Moderate conjuration; CL 9th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [plane shift](https://www.d20srd.org/srd/spells/planeShift.htm); Price +1 bonus."
+  },
+  {
+    "name": "Holy",
+    "description": "A holy weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction). It deals an extra 2d6 points of damage against all of evil [alignment](https://www.d20srd.org/srd/description.htm#alignment). It bestows one [negative level](https://www.d20srd.org/srd/specialAbilities.htm#energyDrainAndNegativeLevels) on any evil creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual [level loss](https://www.d20srd.org/srd/specialAbilities.htm#levelLoss), but it cannot be overcome in any way (including [restoration](https://www.d20srd.org/srd/spells/restoration.htm) spells) while the weapon is wielded. Bows, crossbows, and slings so crafted bestow the holy power upon their ammunition.",
+    "construction": "Moderate evocation [good]; CL 7th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [holy smite](https://www.d20srd.org/srd/spells/holySmite.htm), creator must be good; Price +2 bonus."
+  },
+  {
+    "name": "Icy Burst",
+    "description": "An icy burst weapon functions as a frost weapon that also explodes with frost upon striking a successful [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits). The frost does not harm the wielder. In addition to the extra damage from the frost ability, an icy burst weapon deals an extra 1d10 points of cold damage on a successful critical hit. If the weapon’s critical multiplier is ×3, add an extra 2d10 points of cold damage instead, and if the multiplier is ×4, add an extra 3d10 points. Bows, crossbows, and slings so crafted bestow the cold energy upon their ammunition. Even if the frost ability is not active, the weapon still deals its extra cold damage on a successful critical hit.",
+    "construction": "Moderate evocation; CL 10th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [chill metal](https://www.d20srd.org/srd/spells/chillMetal.htm) or [ice storm](https://www.d20srd.org/srd/spells/iceStorm.htm); Price +2 bonus."
+  },
+  {
+    "name": "Keen",
+    "description": "This ability doubles the threat range of a weapon. Only piercing or slashing weapons can be keen. (If you roll this property randomly for an inappropriate weapon, reroll.) This benefit doesn’t stack with any other effect that expands the threat range of a weapon (such as the [keen edge](https://www.d20srd.org/srd/spells/keenEdge.htm) spell or the [Improved Critical](https://www.d20srd.org/srd/feats.htm#improvedCritical) feat).",
+    "construction": "Moderate transmutation; CL 10th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [keen edge](https://www.d20srd.org/srd/spells/keenEdge.htm); Price +1 bonus."
+  },
+  {
+    "name": "Ki Focus",
+    "description": "The magic weapon serves as a channel for the wielder’s ki, allowing her to use her special ki attacks through the weapon as if they were unarmed attacks. These attacks include the [monk’s](https://www.d20srd.org/srd/classes/monk.htm) [stunning](https://www.d20srd.org/srd/conditionSummary.htm#stunned) attack, ki strike, and quivering palm, as well as the [Stunning Fist](https://www.d20srd.org/srd/feats.htm#stunningFist) feat. Only melee weapons can have the ki focus ability.",
+    "construction": "Moderate transmutation; CL 8th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), creator must be a [monk](https://www.d20srd.org/srd/classes/monk.htm); Price +1 bonus."
+  },
+  {
+    "name": "Merciful",
+    "description": "The weapon deals an extra 1d6 points of damage, and all damage it deals is [nonlethal damage](https://www.d20srd.org/srd/combat/injuryandDeath.htm#nonlethalDamage). On command, the weapon suppresses this ability until commanded to resume it. Bows, crossbows, and slings so crafted bestow the merciful effect upon their ammunition.",
+    "construction": "Faint conjuration; CL 5th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [cure light wounds](https://www.d20srd.org/srd/spells/cureLightWounds.htm); Price +1 bonus."
+  },
+  {
+    "name": "Mighty Cleaving",
+    "description": "A mighty cleaving weapon allows a wielder with the [Cleave](https://www.d20srd.org/srd/feats.htm#cleave) feat to make one additional cleave attempt in a round.",
+    "construction": "Moderate evocation; CL 8th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [divine power](https://www.d20srd.org/srd/spells/divinePower.htm); Price +1 bonus."
+  },
+  {
+    "name": "Returning",
+    "description": "This special ability can only be placed on a weapon that can be thrown. A returning weapon flies through the air back to the creature that threw it. It returns to the thrower just before the creature’s next turn (and is therefore ready to use again in that turn). Catching a returning weapon when it comes back is a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions). If the character can’t catch it, or if the character has moved since throwing it, the weapon drops to the ground in the square from which it was thrown.",
+    "construction": "Moderate transmutation; CL 7th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [telekinesis](https://www.d20srd.org/srd/spells/telekinesis.htm); Price +1 bonus."
+  },
+  {
+    "name": "Seeking",
+    "description": "Only ranged weapons can have the seeking ability. The weapon veers toward its target, negating any miss chances that would otherwise apply, such as from [concealment](https://www.d20srd.org/srd/combat/combatModifiers.htm#concealment). (The wielder still has to aim the weapon at the right square. Arrows mistakenly shot into an empty space, for example, do not veer and hit [invisible](https://www.d20srd.org/srd/conditionSummary.htm#invisible) enemies, even if they are nearby.)",
+    "construction": "Strong divination; CL 12th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [true seeing](https://www.d20srd.org/srd/spells/trueSeeing.htm); Price +1 bonus."
+  },
+  {
+    "name": "Shock",
+    "description": "Upon command, a shock weapon is sheathed in crackling electricity. The electricity does not harm the wielder. The effect remains until another command is given. A shock weapon deals an extra 1d6 points of electricity damage on a successful hit. Bows, crossbows, and slings so crafted bestow the electricity energy upon their ammunition.",
+    "construction": "Moderate evocation; CL 8th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [call lightning](https://www.d20srd.org/srd/spells/callLightning.htm) or [lightning bolt](https://www.d20srd.org/srd/spells/lightningBolt.htm); Price +1 bonus."
+  },
+  {
+    "name": "Shocking Burst",
+    "description": "A shocking burst weapon functions as a shock weapon that also explodes with electricity upon striking a successful [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits). The electricity does not harm the wielder. In addition to the extra electricity damage from the shock ability, a shocking burst weapon deals an extra 1d10 points of electricity damage on a successful critical hit. If the weapon’s critical multiplier is ×3, add an extra 2d10 points of electricity damage instead, and if the multiplier is ×4, add an extra 3d10 points. Bows, crossbows, and slings so crafted bestow the electricity energy upon their ammunition. Even if the shock ability is not active, the weapon still deals its extra electricity damage on a successful critical hit.",
+    "construction": "Moderate evocation; CL 10th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [call lightning](https://www.d20srd.org/srd/spells/callLightning.htm) or [lightning bolt](https://www.d20srd.org/srd/spells/lightningBolt.htm); Price +2 bonus."
+  },
+  {
+    "name": "Speed",
+    "description": "When making a [full attack](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullAttack) action, the wielder of a speed weapon may make one extra attack with it. The attack uses the wielder’s full base attack bonus, plus any modifiers appropriate to the situation. (This benefit is not cumulative with similar effects, such as a [haste](https://www.d20srd.org/srd/spells/haste.htm) spell.)",
+    "construction": "Moderate transmutation; CL 7th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [haste](https://www.d20srd.org/srd/spells/haste.htm); Price +3 bonus."
+  },
+  {
+    "name": "Spell Storing",
+    "description": "A spell storing weapon allows a spellcaster to store a single targeted spell of up to 3rd level in the weapon. (The spell must have a casting time of 1 [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions).) Any time the weapon strikes a creature and the creature takes damage from it, the weapon can immediately cast the spell on that creature as a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions) if the wielder desires. (This special ability is an exception to the general rule that casting a spell from an item takes at least as long as casting that spell normally.) Once the spell has been cast from the weapon, a spellcaster can cast any other targeted spell of up to 3rd level into it. The weapon magically imparts to the wielder the name of the spell currently stored within it. A randomly rolled spell storing weapon has a 50% chance to have a spell stored in it already.",
+    "construction": "Strong evocation (plus aura of stored spell); CL 12th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), creator must be a caster of at least 12th level; Price +1 bonus."
+  },
+  {
+    "name": "Thundering",
+    "description": "A thundering weapon creates a cacophonous roar like thunder upon striking a successful [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits). The [sonic](https://www.d20srd.org/srd/specialAbilities.htm#sonicAttacks) energy does not harm the wielder. A thundering weapon deals an extra 1d8 points of sonic damage on a successful critical hit. If the weapon’s critical multiplier is ×3, add an extra 2d8 points of sonic damage instead, and if the multiplier is ×4, add an extra 3d8 points of sonic damage. Bows, crossbows, and slings so crafted bestow the sonic energy upon their ammunition. Subjects dealt a critical hit by a thundering weapon must make a DC 14 [Fortitude save](https://www.d20srd.org/srd/combat/combatStatistics.htm#fortitude) or be [deafened](https://www.d20srd.org/srd/conditionSummary.htm#deafened) permanently.",
+    "construction": "Faint necromancy; CL 5th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [blindness/deafness](https://www.d20srd.org/srd/spells/blindnessDeafness.htm); Price +1 bonus."
+  },
+  {
+    "name": "Throwing",
+    "description": "This ability can only be placed on a melee weapon. A melee weapon crafted with this ability gains a range increment of 10 feet and can be thrown by a wielder [proficient](https://www.d20srd.org/srd/combat/combatModifiers.htm#weaponArmorAndShieldProficiency) in its normal use.",
+    "construction": "Faint transmutation; CL 5th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [magic stone](https://www.d20srd.org/srd/spells/magicStone.htm); Price +1 bonus."
+  },
+  {
+    "name": "Unholy",
+    "description": "An unholy weapon is imbued with unholy power. This power makes the weapon evil-aligned and thus bypasses the corresponding [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction). It deals an extra 2d6 points of damage against all of good [alignment](https://www.d20srd.org/srd/description.htm#alignment). It bestows one [negative level](https://www.d20srd.org/srd/specialAbilities.htm#energyDrainAndNegativeLevels) on any good creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level never results in actual [level loss](https://www.d20srd.org/srd/specialAbilities.htm#levelLoss), but it cannot be overcome in any way (including [restoration](https://www.d20srd.org/srd/spells/restoration.htm) spells) while the weapon is wielded. Bows, crossbows, and slings so crafted bestow the unholy power upon their ammunition.",
+    "construction": "Moderate evocation [evil]; CL 7th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [unholy blight](https://www.d20srd.org/srd/spells/unholyBlight.htm), creator must be evil; Price +2 bonus."
+  },
+  {
+    "name": "Vicious",
+    "description": "When a vicious weapon strikes an opponent, it creates a flash of disruptive energy that resonates between the opponent and the wielder. This energy deals an extra 2d6 points of damage to the opponent and 1d6 points of damage to the wielder. Only melee weapons can be vicious.",
+    "construction": "Moderate necromancy; CL 9th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [enervation](https://www.d20srd.org/srd/spells/enervation.htm); Price +1 bonus."
+  },
+  {
+    "name": "Vorpal",
+    "description": "This potent and feared ability allows the weapon to sever the heads of those it strikes. Upon a roll of natural 20 (followed by a successful roll to confirm the [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits)), the weapon severs the opponent’s head (if it has one) from its body. Some creatures, such as many [aberrations](https://www.d20srd.org/srd/typesSubtypes.htm#aberrationType) and all [oozes](https://www.d20srd.org/srd/typesSubtypes.htm#oozeType), have no heads. Others, such as golems and [undead](https://www.d20srd.org/srd/typesSubtypes.htm#undeadType) creatures other than [vampires](https://www.d20srd.org/srd/monsters/vampire.htm), are not affected by the loss of their heads. Most other creatures, however, die when their heads are cut off. A vorpal weapon must be a slashing weapon. (If you roll this property randomly for an inappropriate weapon, reroll.)",
+    "construction": "Strong necromancy and transmutation; CL 18th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [circle of death](https://www.d20srd.org/srd/spells/circleOfDeath.htm), [keen edge](https://www.d20srd.org/srd/spells/keenEdge.htm); Price +5 bonus."
+  },
+  {
+    "name": "Wounding",
+    "description": "A wounding weapon deals 1 point of Constitution damage from blood loss when it hits a creature. A [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits) does not multiply the Constitution damage. Creatures immune to [critical hits](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits) (such as [plants](https://www.d20srd.org/srd/typesSubtypes.htm#plantType) and [constructs](https://www.d20srd.org/srd/typesSubtypes.htm#constructType)) are immune to the Constitution damage dealt by this weapon.",
+    "construction": "Moderate evocation; CL 10th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [mage’s sword](https://www.d20srd.org/srd/spells/magesSword.htm); Price +2 bonus."
+  }
+]

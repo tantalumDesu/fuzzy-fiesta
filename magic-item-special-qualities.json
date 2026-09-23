@@ -1,0 +1,98 @@
+[
+  {
+    "category": "Ring",
+    "roll": "d%",
+    "results": [
+      {
+        "range": "01",
+        "effect": "The ring is intelligent."
+      },
+      {
+        "range": "02-31",
+        "effect": "A design, inscription, or similar feature provides a clue to the ring’s function."
+      },
+      {
+        "range": "32-100",
+        "effect": "No special qualities."
+      }
+    ],
+    "additional_rules": [
+      "Intelligent items have extra abilities and sometimes extraordinary powers and special purposes.",
+      "Rings with charges can never be intelligent."
+    ]
+  },
+  {
+    "category": "Rod",
+    "roll": "d%",
+    "results": [
+      {
+        "range": "01",
+        "effect": "The rod is intelligent."
+      },
+      {
+        "range": "02-31",
+        "effect": "A design, inscription, or similar feature provides a clue to the rod’s function."
+      },
+      {
+        "range": "32-100",
+        "effect": "No special qualities."
+      }
+    ],
+    "additional_rules": [
+      "Intelligent items have extra abilities and sometimes extraordinary powers and special purposes.",
+      "Rods with charges can never be intelligent."
+    ]
+  },
+  {
+    "category": "Staff",
+    "roll": "d%",
+    "results": [
+      {
+        "range": "01-30",
+        "effect": "A design, inscription, or similar feature provides a clue to the staff’s function."
+      },
+      {
+        "range": "31-100",
+        "effect": "No special qualities."
+      }
+    ],
+    "additional_rules": []
+  },
+  {
+    "category": "Wand",
+    "roll": "d%",
+    "results": [
+      {
+        "range": "01-30",
+        "effect": "A design, inscription, or similar feature provides a clue to the wand’s function."
+      },
+      {
+        "range": "31-100",
+        "effect": "No special qualities."
+      }
+    ],
+    "additional_rules": []
+  },
+  {
+    "category": "Wondrous Item",
+    "roll": "d%",
+    "results": [
+      {
+        "range": "01",
+        "effect": "The wondrous item is intelligent."
+      },
+      {
+        "range": "02-31",
+        "effect": "A design, inscription, or similar feature provides a clue to its function."
+      },
+      {
+        "range": "32-100",
+        "effect": "No special qualities."
+      }
+    ],
+    "additional_rules": [
+      "Intelligent items have extra abilities and sometimes extraordinary powers and special purposes.",
+      "Wondrous items with charges can never be intelligent."
+    ]
+  }
+]

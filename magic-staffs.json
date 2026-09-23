@@ -1,0 +1,292 @@
+[
+  {
+    "name": "Staff of Abjuration",
+    "description": [
+      "Usually carved from the heartwood of an ancient oak or other large tree, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Shield](https://www.d20srd.org/srd/spells/shield.htm) (1 charge)",
+      "- [Resist energy](https://www.d20srd.org/srd/spells/resistEnergy.htm) (1 charge)",
+      "- [Dispel magic](https://www.d20srd.org/srd/spells/dispelMagic.htm) (1 charge)",
+      "- [Lesser globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerabilityLesser.htm) (2 charges)",
+      "- [Dismissal](https://www.d20srd.org/srd/spells/dismissal.htm) (2 charges)",
+      "- [Repulsion](https://www.d20srd.org/srd/spells/repulsion.htm) (3 charges)"
+    ],
+    "construction": "Strong abjuration; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [dismissal](https://www.d20srd.org/srd/spells/dismissal.htm), [dispel magic](https://www.d20srd.org/srd/spells/dispelMagic.htm), [lesser globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerabilityLesser.htm), [resist energy](https://www.d20srd.org/srd/spells/resistEnergy.htm), [repulsion](https://www.d20srd.org/srd/spells/repulsion.htm), [shield](https://www.d20srd.org/srd/spells/shield.htm); Price 65,000 gp."
+  },
+  {
+    "name": "Staff of Charming",
+    "description": [
+      "Made of twisting wood ornately shaped and carved, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Charm person](https://www.d20srd.org/srd/spells/charmPerson.htm) (1 charge)",
+      "- [Charm monster](https://www.d20srd.org/srd/spells/charmMonster.htm) (2 charges)"
+    ],
+    "construction": "Moderate enchantment; CL 8th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [charm person](https://www.d20srd.org/srd/spells/charmPerson.htm), [charm monster](https://www.d20srd.org/srd/spells/charmMonster.htm); Price 16,500 gp."
+  },
+  {
+    "name": "Staff of Conjuration",
+    "description": [
+      "This staff is usually made of ash or walnut and bears ornate carvings of many different kinds of creatures. It allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Unseen servant](https://www.d20srd.org/srd/spells/unseenServant.htm) (1 charge)",
+      "- [Summon swarm](https://www.d20srd.org/srd/spells/summonSwarm.htm) (1 charge)",
+      "- [Stinking cloud](https://www.d20srd.org/srd/spells/stinkingCloud.htm) (1 charge)",
+      "- [Minor creation](https://www.d20srd.org/srd/spells/minorCreation.htm) (2 charges)",
+      "- [Cloudkill](https://www.d20srd.org/srd/spells/cloudkill.htm) (2 charges)",
+      "- [Summon monster VI](https://www.d20srd.org/srd/spells/summonMonsterVI.htm) (3 charges)"
+    ],
+    "construction": "Strong conjuration; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [cloudkill](https://www.d20srd.org/srd/spells/cloudkill.htm), [stinking cloud](https://www.d20srd.org/srd/spells/stinkingCloud.htm), [summon monster VI](https://www.d20srd.org/srd/spells/summonMonsterVI.htm), [summon swarm](https://www.d20srd.org/srd/spells/summonSwarm.htm), [unseen servant](https://www.d20srd.org/srd/spells/unseenServant.htm); Price 65,000 gp."
+  },
+  {
+    "name": "Staff of Defense",
+    "description": [
+      "The staff of defense is a simple-looking staff that throbs with power when held defensively. It allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Shield](https://www.d20srd.org/srd/spells/shield.htm) (1 charge)",
+      "- [Shield of faith](https://www.d20srd.org/srd/spells/shieldOfFaith.htm) (1 charge)",
+      "- [Shield other](https://www.d20srd.org/srd/spells/shieldOther.htm) (1 charge)",
+      "- [Shield of law](https://www.d20srd.org/srd/spells/shieldOfLaw.htm) (3 charges)"
+    ],
+    "construction": "Strong abjuration; CL 15th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [shield](https://www.d20srd.org/srd/spells/shield.htm), [shield of faith](https://www.d20srd.org/srd/spells/shieldOfFaith.htm), [shield of law](https://www.d20srd.org/srd/spells/shieldOfLaw.htm), [shield other](https://www.d20srd.org/srd/spells/shieldOther.htm), creator must be lawful; Price 58,250 gp."
+  },
+  {
+    "name": "Staff of Divination",
+    "description": [
+      "Made from a supple length of willow, often with a forked tip, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Detect secret doors](https://www.d20srd.org/srd/spells/detectSecretDoors.htm) (1 charge)",
+      "- [Locate object](https://www.d20srd.org/srd/spells/locateObject.htm) (1 charge)",
+      "- [Tongues](https://www.d20srd.org/srd/spells/tongues.htm) (1 charge)",
+      "- [Locate creature](https://www.d20srd.org/srd/spells/locateCreature.htm) (2 charges)",
+      "- [Prying eyes](https://www.d20srd.org/srd/spells/pryingEyes.htm) (2 charges)",
+      "- [True seeing](https://www.d20srd.org/srd/spells/trueSeeing.htm) (3 charges)"
+    ],
+    "construction": "Strong divination; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [detect secret doors](https://www.d20srd.org/srd/spells/detectSecretDoors.htm), [locate creature](https://www.d20srd.org/srd/spells/locateCreature.htm), [locate object](https://www.d20srd.org/srd/spells/locateObject.htm), [prying eyes](https://www.d20srd.org/srd/spells/pryingEyes.htm), [tongues](https://www.d20srd.org/srd/spells/tongues.htm), [true seeing](https://www.d20srd.org/srd/spells/trueSeeing.htm); Price 73,500 gp."
+  },
+  {
+    "name": "Staff of Earth and Stone",
+    "description": [
+      "This staff is topped with a fist-sized emerald that gleams with smoldering power. It allows the use of the following spells:"
+    ],
+    "spells": [
+      "- [Passwall](https://www.d20srd.org/srd/spells/passwall.htm) (1 charge)",
+      "- [Move earth](https://www.d20srd.org/srd/spells/moveEarth.htm) (1 charge)"
+    ],
+    "construction": "Moderate transmutation; CL 11th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [move earth](https://www.d20srd.org/srd/spells/moveEarth.htm), [passwall](https://www.d20srd.org/srd/spells/passwall.htm); Price 80,500 gp."
+  },
+  {
+    "name": "Staff of Enchantment",
+    "description": [
+      "Often made from applewood and topped with a clear crystal, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Sleep](https://www.d20srd.org/srd/spells/sleep.htm) (1 charge)",
+      "- [Hideous laughter](https://www.d20srd.org/srd/spells/hideousLaughter.htm) (1 charge)",
+      "- [Suggestion](https://www.d20srd.org/srd/spells/suggestion.htm) (1 charge)",
+      "- [Crushing despair](https://www.d20srd.org/srd/spells/crushingDespair.htm) (2 charges)",
+      "- [Mind fog](https://www.d20srd.org/srd/spells/mindFog.htm) (2 charges)",
+      "- [Suggestion, mass](https://www.d20srd.org/srd/spells/suggestionMass.htm) (3 charges)"
+    ],
+    "construction": "Strong enchantment; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [crushing despair](https://www.d20srd.org/srd/spells/crushingDespair.htm), [mass suggestion](https://www.d20srd.org/srd/spells/suggestionMass.htm), [mind fog](https://www.d20srd.org/srd/spells/mindFog.htm), [sleep](https://www.d20srd.org/srd/spells/sleep.htm), [suggestion](https://www.d20srd.org/srd/spells/suggestion.htm), [hideous laughter](https://www.d20srd.org/srd/spells/hideousLaughter.htm); Price 65,000 gp."
+  },
+  {
+    "name": "Staff of Evocation",
+    "description": [
+      "Usually very smooth and carved from hickory, willow, or yew, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Magic missile](https://www.d20srd.org/srd/spells/magicMissile.htm) (1 charge)",
+      "- [Shatter](https://www.d20srd.org/srd/spells/shatter.htm) (1 charge)",
+      "- [Fireball](https://www.d20srd.org/srd/spells/fireball.htm) (1 charge)",
+      "- [Ice storm](https://www.d20srd.org/srd/spells/iceStorm.htm) (2 charges)",
+      "- [Wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm) (2 charges)",
+      "- [Chain lightning](https://www.d20srd.org/srd/spells/chainLightning.htm) (3 charges)"
+    ],
+    "construction": "Strong evocation; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [chain lightning](https://www.d20srd.org/srd/spells/chainLightning.htm), [fireball](https://www.d20srd.org/srd/spells/fireball.htm), [ice storm](https://www.d20srd.org/srd/spells/iceStorm.htm), [magic missile](https://www.d20srd.org/srd/spells/magicMissile.htm), [shatter](https://www.d20srd.org/srd/spells/shatter.htm), [wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm); Price 65,000 gp."
+  },
+  {
+    "name": "Staff of Fire",
+    "description": [
+      "Crafted from bronzewood with brass bindings, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Burning hands](https://www.d20srd.org/srd/spells/burningHands.htm) (1 charge)",
+      "- [Fireball](https://www.d20srd.org/srd/spells/fireball.htm) (1 charge)",
+      "- [Wall of fire](https://www.d20srd.org/srd/spells/wallOfFire.htm) (2 charges)"
+    ],
+    "construction": "Moderate evocation; CL 8th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [burning hands](https://www.d20srd.org/srd/spells/burningHands.htm), [fireball](https://www.d20srd.org/srd/spells/fireball.htm), [wall of fire](https://www.d20srd.org/srd/spells/wallOfFire.htm); Price 28,500 gp."
+  },
+  {
+    "name": "Staff of Frost",
+    "description": [
+      "Tipped on either end with a glistening diamond, this rune-covered staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Ice storm](https://www.d20srd.org/srd/spells/iceStorm.htm) (1 charge)",
+      "- [Wall of ice](https://www.d20srd.org/srd/spells/wallOfIce.htm) (1 charge)",
+      "- [Cone of cold](https://www.d20srd.org/srd/spells/coneOfCold.htm) (2 charge)"
+    ],
+    "construction": "Moderate evocation; CL 10th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [cone of cold](https://www.d20srd.org/srd/spells/coneOfCold.htm), [ice storm](https://www.d20srd.org/srd/spells/iceStorm.htm), [wall of ice](https://www.d20srd.org/srd/spells/wallOfIce.htm); Price 56,250 gp."
+  },
+  {
+    "name": "Staff of Healing",
+    "description": [
+      "This white ash staff, with inlaid silver runes, allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Lesser restoration](https://www.d20srd.org/srd/spells/restorationLesser.htm) (1 charge)",
+      "- [Cure serious wounds](https://www.d20srd.org/srd/spells/cureSeriousWounds.htm) (1 charge)",
+      "- [Remove blindness/deafness](https://www.d20srd.org/srd/spells/removeBlindnessDeafness.htm) (2 charges)",
+      "- [Remove disease](https://www.d20srd.org/srd/spells/removeDisease.htm) (3 charges)"
+    ],
+    "construction": "Moderate conjuration; CL 8th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [cure serious wounds](https://www.d20srd.org/srd/spells/cureSeriousWounds.htm), [lesser restoration](https://www.d20srd.org/srd/spells/restorationLesser.htm), [remove blindness/deafness](https://www.d20srd.org/srd/spells/removeBlindnessDeafness.htm), [remove disease](https://www.d20srd.org/srd/spells/removeDisease.htm); Price 27,750 gp."
+  },
+  {
+    "name": "Staff of Illumination",
+    "description": [
+      "This staff is made from ebony or other dark wood and carved into an intricately twisted, fluted, or spiral shape. It allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Disguise self](https://www.d20srd.org/srd/spells/disguiseSelf.htm) (1 charge)",
+      "- [Mirror image](https://www.d20srd.org/srd/spells/mirrorImage.htm) (1 charge)",
+      "- [Major image](https://www.d20srd.org/srd/spells/majorImage.htm) (1 charge)",
+      "- [Rainbow pattern](https://www.d20srd.org/srd/spells/rainbowPattern.htm) (2 charges)",
+      "- [Persistent image](https://www.d20srd.org/srd/spells/persistentImage.htm) (2 charges)",
+      "- [Mislead](https://www.d20srd.org/srd/spells/mislead.htm) (3 charges)"
+    ],
+    "construction": "Strong illusion; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [disguise self](https://www.d20srd.org/srd/spells/disguiseSelf.htm), [major image](https://www.d20srd.org/srd/spells/majorImage.htm), [mirror image](https://www.d20srd.org/srd/spells/mirrorImage.htm), [persistent image](https://www.d20srd.org/srd/spells/persistentImage.htm), [project image](https://www.d20srd.org/srd/spells/projectImage.htm), [rainbow pattern](https://www.d20srd.org/srd/spells/rainbowPattern.htm); Price 65,000 gp."
+  },
+  {
+    "name": "Staff of Life",
+    "description": [
+      "This staff is usually sheathed in silver and decorated with sunbursts. It allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Dancing lights](https://www.d20srd.org/srd/spells/dancingLights.htm) (1 charge)",
+      "- [Flare](https://www.d20srd.org/srd/spells/flare.htm) (1 charge)",
+      "- [Daylight](https://www.d20srd.org/srd/spells/daylight.htm) (2 charges)",
+      "- [Sunburst](https://www.d20srd.org/srd/spells/sunburst.htm) (3 charges)"
+    ],
+    "construction": "Strong evocation; CL 15th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [dancing lights](https://www.d20srd.org/srd/spells/dancingLights.htm), [daylight](https://www.d20srd.org/srd/spells/daylight.htm), [flare](https://www.d20srd.org/srd/spells/flare.htm), [sunburst](https://www.d20srd.org/srd/spells/sunburst.htm); Price 48,250 gp."
+  },
+  {
+    "name": "Staff of Necromancy",
+    "description": [
+      "Made of thick oak shod in gold, this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Cause fear](https://www.d20srd.org/srd/spells/causeFear.htm) (1 charge)",
+      "- [Ghoul touch](https://www.d20srd.org/srd/spells/ghoulTouch.htm) (1 charge)",
+      "- [Halt undead](https://www.d20srd.org/srd/spells/haltUndead.htm) (1 charge)",
+      "- [Enervation](https://www.d20srd.org/srd/spells/enervation.htm) (2 charges)",
+      "- [Waves of fatigue](https://www.d20srd.org/srd/spells/wavesOfFatigue.htm) (2 charges)",
+      "- [Circle of death](https://www.d20srd.org/srd/spells/circleOfDeath.htm) (3 charges)"
+    ],
+    "construction": "Strong necromancy; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [cause fear](https://www.d20srd.org/srd/spells/causeFear.htm), [circle of death](https://www.d20srd.org/srd/spells/circleOfDeath.htm), [enervation](https://www.d20srd.org/srd/spells/enervation.htm), [ghoul touch](https://www.d20srd.org/srd/spells/ghoulTouch.htm), [halt undead](https://www.d20srd.org/srd/spells/haltUndead.htm), [waves of fatigue](https://www.d20srd.org/srd/spells/wavesOfFatigue.htm); Price 65,000 gp.",
+    "additional_text": [
+      "This staff is made from ebony or other dark wood and carved with the images of bones and skulls. It allows use of the following spells:"
+    ]
+  },
+  {
+    "name": "Staff of Passage",
+    "description": [
+      "This potent item allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Dimension door](https://www.d20srd.org/srd/spells/dimensionDoor.htm) (1 charge)",
+      "- [Passwall](https://www.d20srd.org/srd/spells/passwall.htm) (1 charge)",
+      "- [Phase door](https://www.d20srd.org/srd/spells/phaseDoor.htm) (2 charges)",
+      "- [Greater teleport](https://www.d20srd.org/srd/spells/teleportGreater.htm) (2 charges)",
+      "- [Astral projection](https://www.d20srd.org/srd/spells/astralProjection.htm) (2 charges)"
+    ],
+    "construction": "Strong varied; CL 17th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [astral projection](https://www.d20srd.org/srd/spells/astralProjection.htm), [dimension door](https://www.d20srd.org/srd/spells/dimensionDoor.htm), [greater teleport](https://www.d20srd.org/srd/spells/teleportGreater.htm), [passwall](https://www.d20srd.org/srd/spells/passwall.htm), [phase door](https://www.d20srd.org/srd/spells/phaseDoor.htm); Price 170,500 gp."
+  },
+  {
+    "name": "Staff of Power",
+    "description": [
+      "The staff of power is a very potent magic item, with offensive and defensive abilities. It is usually topped with a glistening gem, its shaft straight and smooth. It has the following powers:"
+    ],
+    "spells": [
+      "- [Magic missile](https://www.d20srd.org/srd/spells/magicMissile.htm) (1 charge)",
+      "- [Ray of enfeeblement](https://www.d20srd.org/srd/spells/rayOfEnfeeblement.htm) ([heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) to 5th level) (1 charge)",
+      "- [Continual flame](https://www.d20srd.org/srd/spells/continualFlame.htm) (1 charge)",
+      "- [Levitate](https://www.d20srd.org/srd/spells/levitate.htm) (1 charge)",
+      "- [Lightning bolt](https://www.d20srd.org/srd/spells/lightningBolt.htm) ([heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) to 5th level) (1 charge)",
+      "- [Fireball](https://www.d20srd.org/srd/spells/fireball.htm) ([heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) to 5th level) (1 charge)",
+      "- [Cone of cold](https://www.d20srd.org/srd/spells/coneOfCold.htm) (2 charges)",
+      "- [Hold monster](https://www.d20srd.org/srd/spells/holdMonster.htm) (2 charges)",
+      "- [Wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm) (in a 10-ft.-diameter hemisphere around the caster only) (2 charges)",
+      "- [Globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerability.htm) (2 charges)"
+    ],
+    "construction": "Strong varied; CL 15th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [magic missile](https://www.d20srd.org/srd/spells/magicMissile.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [ray of enfeeblement](https://www.d20srd.org/srd/spells/rayOfEnfeeblement.htm), [continual flame](https://www.d20srd.org/srd/spells/continualFlame.htm), [levitate](https://www.d20srd.org/srd/spells/levitate.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [fireball](https://www.d20srd.org/srd/spells/fireball.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [lightning bolt](https://www.d20srd.org/srd/spells/lightningBolt.htm), [cone of cold](https://www.d20srd.org/srd/spells/coneOfCold.htm), [hold monster](https://www.d20srd.org/srd/spells/holdMonster.htm), [wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm), [globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerability.htm); Price 211,000 gp.",
+    "additional_text": [
+      "The wielder of a staff of power gains a +2 [luck bonus](https://www.d20srd.org/srd/theBasics.htm#luckModifier) to AC and [saving throws](https://www.d20srd.org/srd/combat/combatStatistics.htm#savingThrows). The staff is also a +2 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff), and its wielder may use it to smite opponents. If 1 charge is expended (as a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions)), the staff causes double damage (×3 on a [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits)) for 1 round.",
+      "A staff of power can be used for a retributive strike, requiring it to be broken by its wielder. (If this breaking of the staff is purposeful and declared by the wielder, it can be performed as a [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions) that does not require the wielder to make a Strength check.) All charges currently in the staff are instantly released in a 30-foot radius. All within 2 squares of the broken staff take points of damage equal to 8 × the number of charges in the staff, those 3 or 4 squares away take 6 × the number of charges in damage, and those 5 or 6 squares distant take 4 × the number of charges in damage. All those affected can make DC 17 [Reflex saves](https://www.d20srd.org/srd/combat/combatStatistics.htm#reflex) to reduce the damage by half.",
+      "The character breaking the staff has a 50% chance of traveling to another plane of existence, but if he does not, the explosive release of spell energy destroys him. Only certain items, including the staff of the magi and the staff of power, are capable of being used for a retributive strike.",
+      "After all charges are used up from the staff, it remains a +2 quarterstaff. (Once empty of charges, it cannot be used for a retributive strike.)"
+    ]
+  },
+  {
+    "name": "Staff of Size Alteration",
+    "description": [
+      "Stout and sturdy, this staff of dark wood allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Enlarge person](https://www.d20srd.org/srd/spells/enlargePerson.htm) (1 charge)",
+      "- [Reduce person](https://www.d20srd.org/srd/spells/reducePerson.htm) (1 charge)",
+      "- [Shrink item](https://www.d20srd.org/srd/spells/shrinkItem.htm) (1 charge)",
+      "- [Enlarge person, mass](https://www.d20srd.org/srd/spells/enlargePersonMass.htm) (1 charge)",
+      "- [Reduce person, mass](https://www.d20srd.org/srd/spells/reducePersonMass.htm) (1 charge)"
+    ],
+    "construction": "Faint conjuration; CL 8th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [enlarge person, mass](https://www.d20srd.org/srd/spells/enlargePersonMass.htm) [enlarge person](https://www.d20srd.org/srd/spells/enlargePerson.htm), [reduce person](https://www.d20srd.org/srd/spells/reducePerson.htm), [mass reduce person](https://www.d20srd.org/srd/spells/reducePersonMass.htm), [shrink item](https://www.d20srd.org/srd/spells/shrinkItem.htm); Price 29,000 gp."
+  },
+  {
+    "name": "Staff of Swarming Insects",
+    "description": [
+      "Made of twisted dark wood with dark spots resembling crawling insects (which occasionally seem to move), this staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Summon swarm](https://www.d20srd.org/srd/spells/summonSwarm.htm) (1 charge)",
+      "- [Insect plague](https://www.d20srd.org/srd/spells/insectPlague.htm) (3 charges)"
+    ],
+    "construction": "Moderate conjuration; CL 9th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [insect plague](https://www.d20srd.org/srd/spells/insectPlague.htm), [summon swarm](https://www.d20srd.org/srd/spells/summonSwarm.htm); Price 24,750 gp."
+  },
+  {
+    "name": "Staff of Transmutation",
+    "description": [
+      "This staff is generally carved from or decorated with petrified wood and allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Expeditious retreat](https://www.d20srd.org/srd/spells/expeditiousRetreat.htm) (1 charge)",
+      "- [Alter self](https://www.d20srd.org/srd/spells/alterSelf.htm) (1 charge)",
+      "- [Blink](https://www.d20srd.org/srd/spells/blink.htm) (1 charge)",
+      "- [Polymorph](https://www.d20srd.org/srd/spells/polymorph.htm) (2 charges)",
+      "- [Baleful polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm) (2 charges)",
+      "- [Disintegrate](https://www.d20srd.org/srd/spells/disintegrate.htm) (3 charges)"
+    ],
+    "construction": "Strong transmutation; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [alter self](https://www.d20srd.org/srd/spells/alterSelf.htm), [baleful polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm), [blink](https://www.d20srd.org/srd/spells/blink.htm), [disintegrate](https://www.d20srd.org/srd/spells/disintegrate.htm), [expeditious retreat](https://www.d20srd.org/srd/spells/expeditiousRetreat.htm), [polymorph](https://www.d20srd.org/srd/spells/polymorph.htm); Price 65,000 gp."
+  },
+  {
+    "name": "Staff of the Woodlands",
+    "description": [
+      "Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Charm animal](https://www.d20srd.org/srd/spells/charmAnimal.htm) (1 charge)",
+      "- [Speak with animals](https://www.d20srd.org/srd/spells/speakWithAnimals.htm) (1 charge)",
+      "- [Barkskin](https://www.d20srd.org/srd/spells/barkskin.htm) (2 charges)",
+      "- [Wall of thorns](https://www.d20srd.org/srd/spells/wallOfThorns.htm) (3 charges)",
+      "- [Summon nature’s ally VI](https://www.d20srd.org/srd/spells/summonNaturesAllyVI.htm) (3 charges)",
+      "- [Animate plants](https://www.d20srd.org/srd/spells/animatePlants.htm) (4 charges)"
+    ],
+    "construction": "Moderate varied; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [animate plants](https://www.d20srd.org/srd/spells/animatePlants.htm), [barkskin](https://www.d20srd.org/srd/spells/barkskin.htm), [charm animal](https://www.d20srd.org/srd/spells/charmAnimal.htm), [pass without trace](https://www.d20srd.org/srd/spells/passWithoutTrace.htm), [speak with animals](https://www.d20srd.org/srd/spells/speakWithAnimals.htm), [summon nature’s ally VI](https://www.d20srd.org/srd/spells/summonNaturesAllyVI.htm), [wall of thorns](https://www.d20srd.org/srd/spells/wallOfThorns.htm); Price 101,250 gp.",
+    "additional_text": [
+      "The staff may be used as a weapon, functioning as a +2 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff). The staff of the woodlands also allows its wielder to [pass without trace](https://www.d20srd.org/srd/spells/passWithoutTrace.htm) at will, with no charge cost. These two attributes continue to function after all the charges are expended."
+    ]
+  }
+]
