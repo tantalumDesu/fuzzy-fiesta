@@ -1,5 +1,52 @@
 [
   {
+    "name": "Immovable Rod",
+    "description": [
+      "This rod is a flat iron bar with a small button on one end. When the button is pushed (a [move action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#moveActions)), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Several immovable rods can even make a ladder when used together (although only two are needed). An immovable rod can support up to 8,000 pounds before falling to the ground. If a creature pushes against an immovable rod, it must make a DC 30 Strength check to move the rod up to 10 feet in a single round."
+    ],
+    "construction": "Moderate transmutation; CL 10th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [levitate](https://www.d20srd.org/srd/spells/levitate.htm); Price 5,000 gp."
+  },
+  {
+    "name": "Metamagic Rods",
+    "shared_description": [
+      "Metamagic rods hold the essence of a metamagic feat but do not change the spell slot of the altered spell. All the rods described here are [use-activated](https://www.d20srd.org/srd/magicItems/magicItemBasics.htm#useActivated) (but casting spells in a threatened area still draws an [attack of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm)). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast.",
+      "Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A [sorcerer](https://www.d20srd.org/srd/classes/sorcererWizard.htm#sorcerer) still must take a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions) when using a metamagic rod, just as if using a metamagic feat he possesses.",
+      "Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower."
+    ],
+    "variants": [
+      {
+        "name": "Metamagic Rod, Empower Spell",
+        "description": "The wielder can cast up to three spells per day that are empowered as though using the [Empower Spell](https://www.d20srd.org/srd/feats.htm#empowerSpell) feat.",
+        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Empower Spell](https://www.d20srd.org/srd/feats.htm#empowerSpell); Price 9,000 gp (lesser), 32,500 gp (normal), 73,000 gp (greater)."
+      },
+      {
+        "name": "Metamagic Rod, Enlarge Spell",
+        "description": "The wielder can cast up to three spells per day that are enlarged as though using the [Enlarge Spell](https://www.d20srd.org/srd/feats.htm#enlargeSpell) feat.",
+        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Enlarge Spell](https://www.d20srd.org/srd/feats.htm#enlargeSpell); Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater)."
+      },
+      {
+        "name": "Metamagic Rod, Extend Spell",
+        "description": "The wielder can cast up to three spells per day that are extended as though using the [Extend Spell](https://www.d20srd.org/srd/feats.htm#extendSpell) feat.",
+        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Extend Spell](https://www.d20srd.org/srd/feats.htm#extendSpell); Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater)."
+      },
+      {
+        "name": "Metamagic Rod, Maximize Spell",
+        "description": "The wielder can cast up to three spells per day that are maximized as though using the [Maximize Spell](https://www.d20srd.org/srd/feats.htm#maximizeSpell) feat.",
+        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Maximize Spell](https://www.d20srd.org/srd/feats.htm#maximizeSpell) feat; Price 14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater)."
+      },
+      {
+        "name": "Metamagic Rod, Quicken Spell",
+        "description": "The wielder can cast up to three spells per day that are quickened as though using the [Quicken Spell](https://www.d20srd.org/srd/feats.htm#quickenSpell) feat.",
+        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Quicken Spell](https://www.d20srd.org/srd/feats.htm#quickenSpell); Price 35,000 gp (lesser), 75,500 gp (normal), 170,000 gp (greater)."
+      },
+      {
+        "name": "Metamagic Rod, Silent Spell",
+        "description": "The wielder can cast up to three spells per day without verbal components as though using the [Silent Spell](https://www.d20srd.org/srd/feats.htm#silentSpell) feat.",
+        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Silent Spell](https://www.d20srd.org/srd/feats.htm#silentSpell); Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater)."
+      }
+    ]
+  },
+  {
     "name": "Rod of Absorption",
     "description": [
       "This rod acts as a magnet, drawing spells or [spell-like abilities](https://www.d20srd.org/srd/specialAbilities.htm#spellLikeAbilities) into itself. The magic absorbed must be a single-target spell or a ray directed at either the character possessing the rod or her gear. The rod then nullifies the spell’s effect and stores its potential until the wielder releases this energy in the form of spells of her own. She can instantly detect a spell’s level as the rod absorbs that spell’s energy. Absorption requires no action on the part of the user if the rod is in hand at the time.",
@@ -52,13 +99,6 @@
     "construction": "Strong transmutation; CL 12th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [pyrotechnics](https://www.d20srd.org/srd/spells/pyrotechnics.htm); Price 15,000 gp."
   },
   {
-    "name": "Immovable Rod",
-    "description": [
-      "This rod is a flat iron bar with a small button on one end. When the button is pushed (a [move action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#moveActions)), the rod does not move from where it is, even if staying in place defies gravity. Thus, the owner can lift or place the rod wherever he wishes, push the button, and let go. Several immovable rods can even make a ladder when used together (although only two are needed). An immovable rod can support up to 8,000 pounds before falling to the ground. If a creature pushes against an immovable rod, it must make a DC 30 Strength check to move the rod up to 10 feet in a single round."
-    ],
-    "construction": "Moderate transmutation; CL 10th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [levitate](https://www.d20srd.org/srd/spells/levitate.htm); Price 5,000 gp."
-  },
-  {
     "name": "Rod of Lordly Might",
     "description": [
       "This rod has functions that are [spell-like](https://www.d20srd.org/srd/specialAbilities.htm#spellLikeAbilities), and it can also be used as a magic weapon of various sorts. It also has several more mundane uses. The rod of lordly might is metal, thicker than other rods, with a flanged ball at one end and six studlike buttons along its length. (Pushing any of the rod’s buttons is equivalent to drawing a weapon.) It weighs 10 pounds.",
@@ -86,58 +126,11 @@
     "construction": "Moderate divination; CL 9th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [locate object](https://www.d20srd.org/srd/spells/locateObject.htm); Price 10,500 gp."
   },
   {
-    "name": "Metamagic Rods",
-    "shared_description": [
-      "Metamagic rods hold the essence of a metamagic feat but do not change the spell slot of the altered spell. All the rods described here are [use-activated](https://www.d20srd.org/srd/magicItems/magicItemBasics.htm#useActivated) (but casting spells in a threatened area still draws an [attack of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm)). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast.",
-      "Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A [sorcerer](https://www.d20srd.org/srd/classes/sorcererWizard.htm#sorcerer) still must take a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions) when using a metamagic rod, just as if using a metamagic feat he possesses.",
-      "Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower."
-    ],
-    "variants": [
-      {
-        "name": "Metamagic Rod, Empower Spell",
-        "description": "The wielder can cast up to three spells per day that are empowered as though using the [Empower Spell](https://www.d20srd.org/srd/feats.htm#empowerSpell) feat.",
-        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Empower Spell](https://www.d20srd.org/srd/feats.htm#empowerSpell); Price 9,000 gp (lesser), 32,500 gp (normal), 73,000 gp (greater)."
-      },
-      {
-        "name": "Metamagic Rod, Enlarge Spell",
-        "description": "The wielder can cast up to three spells per day that are enlarged as though using the [Enlarge Spell](https://www.d20srd.org/srd/feats.htm#enlargeSpell) feat.",
-        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Enlarge Spell](https://www.d20srd.org/srd/feats.htm#enlargeSpell); Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater)."
-      },
-      {
-        "name": "Metamagic Rod, Extend Spell",
-        "description": "The wielder can cast up to three spells per day that are extended as though using the [Extend Spell](https://www.d20srd.org/srd/feats.htm#extendSpell) feat.",
-        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Extend Spell](https://www.d20srd.org/srd/feats.htm#extendSpell); Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater)."
-      },
-      {
-        "name": "Metamagic Rod, Maximize Spell",
-        "description": "The wielder can cast up to three spells per day that are maximized as though using the [Maximize Spell](https://www.d20srd.org/srd/feats.htm#maximizeSpell) feat.",
-        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Maximize Spell](https://www.d20srd.org/srd/feats.htm#maximizeSpell) feat; Price 14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater)."
-      },
-      {
-        "name": "Metamagic Rod, Quicken Spell",
-        "description": "The wielder can cast up to three spells per day that are quickened as though using the [Quicken Spell](https://www.d20srd.org/srd/feats.htm#quickenSpell) feat.",
-        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Quicken Spell](https://www.d20srd.org/srd/feats.htm#quickenSpell); Price 35,000 gp (lesser), 75,500 gp (normal), 170,000 gp (greater)."
-      },
-      {
-        "name": "Metamagic Rod, Silent Spell",
-        "description": "The wielder can cast up to three spells per day without verbal components as though using the [Silent Spell](https://www.d20srd.org/srd/feats.htm#silentSpell) feat.",
-        "construction": "Strong (no school); CL 17th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Silent Spell](https://www.d20srd.org/srd/feats.htm#silentSpell); Price 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater)."
-      }
-    ]
-  },
-  {
     "name": "Rod of Negation",
     "description": [
       "This device negates the spell or spell-like function or functions of magic items. The wielder points the rod at the magic item, and a pale gray beam shoots forth to touch the target device, attacking as a ray (a ranged [touch attack](https://www.d20srd.org/srd/combat/combatStatistics.htm#touchAttacks)). The ray functions as a [greater dispel magic](https://www.d20srd.org/srd/spells/dispelMagicGreater.htm) spell, except it only affects magic items. To negate instantaneous effects from an item, the rod wielder needs to have used a [ready](https://www.d20srd.org/srd/combat/specialInitiativeActions.htm#ready) action. The dispel check uses the rod’s caster level (15th). The target item gets no [saving throw](https://www.d20srd.org/srd/combat/combatStatistics.htm#savingThrows), although the rod can’t negate artifacts (even minor artifacts). The rod can function three times per day."
     ],
     "construction": "Strong varied; CL 15th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [dispel magic](https://www.d20srd.org/srd/spells/dispelMagic.htm), and [limited wish](https://www.d20srd.org/srd/spells/limitedWish.htm) or [miracle](https://www.d20srd.org/srd/spells/miracle.htm); Price 37,000 gp."
-  },
-  {
-    "name": "Rod of the Python",
-    "description": [
-      "This rod is longer than normal rods. It is about 4 feet long and weighs 10 pounds. It strikes as a +1/+1 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff). If the user throws the rod to the ground (a [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions)), it grows to become a [giant constrictor snake](https://www.d20srd.org/srd/monsters/snake.htm#constrictorSnakeGiant) by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 [enhancement bonus](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) on attacks and damage possessed by the rod form.) The serpent returns to rod form (a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions)) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. A python rod only functions if the possessor is good."
-    ],
-    "construction": "Moderate transmutation; CL 10th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [baleful polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm), creator must be good; Price 13,000 gp."
   },
   {
     "name": "Rod of Rulership",
@@ -165,6 +158,13 @@
       "In addition, the rod has a second special power, usable once per week. Upon command, it creates a palatial tent—a huge pavilion of silk 60 feet across. Inside the tent are temporary furnishings and food suitable to the splendor of the pavilion and sufficient to entertain as many as one hundred persons. The tent and its trappings last for one day. At the end of that time, the tent and all objects associated with it (including any items that were taken out of the tent) disappear."
     ],
     "construction": "Strong conjuration and transmutation; CL 12th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [eagle’s splendor](https://www.d20srd.org/srd/spells/eaglesSplendor.htm), [fabricate](https://www.d20srd.org/srd/spells/fabricate.htm), [major creation](https://www.d20srd.org/srd/spells/majorCreation.htm); Price 25,000 gp."
+  },
+  {
+    "name": "Rod of the Python",
+    "description": [
+      "This rod is longer than normal rods. It is about 4 feet long and weighs 10 pounds. It strikes as a +1/+1 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff). If the user throws the rod to the ground (a [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions)), it grows to become a [giant constrictor snake](https://www.d20srd.org/srd/monsters/snake.htm#constrictorSnakeGiant) by the end of the round. The python obeys all commands of the owner. (In animal form, it retains the +1 [enhancement bonus](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) on attacks and damage possessed by the rod form.) The serpent returns to rod form (a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions)) whenever the wielder desires, or whenever it moves farther than 100 feet from the owner. If the snake form is slain, it returns to rod form and cannot be activated again for three days. A python rod only functions if the possessor is good."
+    ],
+    "construction": "Moderate transmutation; CL 10th; [Craft Rod](https://www.d20srd.org/srd/feats.htm#craftRod), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [baleful polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm), creator must be good; Price 13,000 gp."
   },
   {
     "name": "Rod of Thunder and Lightning",

@@ -1,62 +1,86 @@
 [
   {
     "name": "Adamantine Breastplate",
-    "description": "This nonmagical breastplate is made of [adamantine](https://www.d20srd.org/srd/specialMaterials.htm#adamantine), giving its wearer [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction) of 2/-.",
+    "description": [
+      "This nonmagical breastplate is made of [adamantine](https://www.d20srd.org/srd/specialMaterials.htm#adamantine), giving its wearer [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction) of 2/-."
+    ],
     "construction": "No aura (nonmagical); Price 10,200 gp."
   },
   {
     "name": "Banded Mail of Luck",
-    "description": "Ten 100-gp gems adorn this +3 banded mail. Once per week, the armor allows its wearer to require that an [attack roll](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) made against him be rerolled. He must take whatever consequences come from the second roll. The wearer’s player must decide whether to have the attack roll rerolled before damage is rolled.",
+    "description": [
+      "Ten 100-gp gems adorn this +3 banded mail. Once per week, the armor allows its wearer to require that an [attack roll](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) made against him be rerolled. He must take whatever consequences come from the second roll. The wearer’s player must decide whether to have the attack roll rerolled before damage is rolled."
+    ],
     "construction": "Strong enchantment; CL 12th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [bless](https://www.d20srd.org/srd/spells/bless.htm); Price 18,900 gp; Cost 10,150 gp + 700 XP."
   },
   {
     "name": "Breastplate of Command",
-    "description": "This finely crafted +2 breastplate radiates a powerful aura of magic. When worn, the armor bestows a dignified and commanding aura upon its owner. The wearer gains a +2 [competence bonus](https://www.d20srd.org/srd/theBasics.htm#competenceModifier) on all Charisma checks, including turning checks and Charisma-based [skill checks](https://www.d20srd.org/srd/skills/usingSkills.htm#skillChecks). The wearer also gains a +2 competence bonus to his [Leadership](https://www.d20srd.org/srd/feats.htm#leadership) score. Friendly troops within 360 feet of the user become braver than normal. Since the effect arises in great part from the distinctiveness of the armor, the wearer cannot hide or conceal herself in any way and still have the effect function.",
+    "description": [
+      "This finely crafted +2 breastplate radiates a powerful aura of magic. When worn, the armor bestows a dignified and commanding aura upon its owner. The wearer gains a +2 [competence bonus](https://www.d20srd.org/srd/theBasics.htm#competenceModifier) on all Charisma checks, including turning checks and Charisma-based [skill checks](https://www.d20srd.org/srd/skills/usingSkills.htm#skillChecks). The wearer also gains a +2 competence bonus to his [Leadership](https://www.d20srd.org/srd/feats.htm#leadership) score. Friendly troops within 360 feet of the user become braver than normal. Since the effect arises in great part from the distinctiveness of the armor, the wearer cannot hide or conceal herself in any way and still have the effect function."
+    ],
     "construction": "Strong enchantment; CL 15th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [mass charm monster](https://www.d20srd.org/srd/spells/charmMonsterMass.htm); Price 25,400 gp; Cost 10,975 gp + 850 XP."
   },
   {
     "name": "Celestial Armor",
-    "description": "This bright silver or gold +3 chainmail is so fine and light that it can be worn under normal clothing without betraying its presence. It has a maximum Dexterity bonus of +8, an armor check penalty of -2, and an arcane spell failure chance of 15%. It is considered light armor, weighs 20 pounds, and it allows the wearer to use [fly](https://www.d20srd.org/srd/spells/fly.htm) on command (as the spell) once per day.",
+    "description": [
+      "This bright silver or gold +3 chainmail is so fine and light that it can be worn under normal clothing without betraying its presence. It has a maximum Dexterity bonus of +8, an armor check penalty of -2, and an arcane spell failure chance of 15%. It is considered light armor, weighs 20 pounds, and it allows the wearer to use [fly](https://www.d20srd.org/srd/spells/fly.htm) on command (as the spell) once per day."
+    ],
     "construction": "Faint transmutation [good]; CL 5th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), creator must be good, [fly](https://www.d20srd.org/srd/spells/fly.htm); Price 22,400 gp; Cost 12,550 gp + 1,004 XP."
   },
   {
     "name": "Demon Armor",
-    "description": "This plate armor is fashioned to make the wearer appear to be a demon. The helmet is shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This +4 full plate allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a [contagion](https://www.d20srd.org/srd/spells/contagion.htm) spell (Fortitude DC 14 negates). Use of [contagion](https://www.d20srd.org/srd/spells/contagion.htm) requires a normal melee attack with the claws. The \"claws\" are built into the armor’s vambraces and gauntlets. The armor bestows one [negative level](https://www.d20srd.org/srd/specialAbilities.htm#energyDrainAndNegativeLevels) on any nonevil creature wearing it. This negative level persists as long as the armor is worn and disappears when the armor is removed. The negative level never results in actual [level loss](https://www.d20srd.org/srd/specialAbilities.htm#levelLoss), but it cannot be overcome in any way (including [restoration](https://www.d20srd.org/srd/spells/restoration.htm) spells) while the armor is worn.",
+    "description": [
+      "This plate armor is fashioned to make the wearer appear to be a demon. The helmet is shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This +4 full plate allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a [contagion](https://www.d20srd.org/srd/spells/contagion.htm) spell (Fortitude DC 14 negates). Use of [contagion](https://www.d20srd.org/srd/spells/contagion.htm) requires a normal melee attack with the claws. The \"claws\" are built into the armor’s vambraces and gauntlets. The armor bestows one [negative level](https://www.d20srd.org/srd/specialAbilities.htm#energyDrainAndNegativeLevels) on any nonevil creature wearing it. This negative level persists as long as the armor is worn and disappears when the armor is removed. The negative level never results in actual [level loss](https://www.d20srd.org/srd/specialAbilities.htm#levelLoss), but it cannot be overcome in any way (including [restoration](https://www.d20srd.org/srd/spells/restoration.htm) spells) while the armor is worn."
+    ],
     "construction": "Strong necromancy [evil]; CL 13th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [contagion](https://www.d20srd.org/srd/spells/contagion.htm); Price 52,260 gp; Cost 26,130 gp + 2,090 XP."
   },
   {
     "name": "Dragonhide Plate",
-    "description": "This suit of full plate is made of [dragonhide](https://www.d20srd.org/srd/specialMaterials.htm#dragonhide), rather than metal, so [druids](https://www.d20srd.org/srd/classes/druid.htm) can wear it. It is otherwise identical to masterwork full plate.",
+    "description": [
+      "This suit of full plate is made of [dragonhide](https://www.d20srd.org/srd/specialMaterials.htm#dragonhide), rather than metal, so [druids](https://www.d20srd.org/srd/classes/druid.htm) can wear it. It is otherwise identical to masterwork full plate."
+    ],
     "construction": "No aura (nonmagical); Price 3,300 gp."
   },
   {
     "name": "Dwarven Plate",
-    "description": "This full plate is made of [adamantine](https://www.d20srd.org/srd/specialMaterials.htm#adamantine), giving its wearer [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction) of 3/-.",
+    "description": [
+      "This full plate is made of [adamantine](https://www.d20srd.org/srd/specialMaterials.htm#adamantine), giving its wearer [damage reduction](https://www.d20srd.org/srd/specialAbilities.htm#damageReduction) of 3/-."
+    ],
     "construction": "No aura (nonmagical); Price 16,500 gp."
   },
   {
     "name": "Elven Chain",
-    "description": "This extremely light chainmail is made of very fine [mithral](https://www.d20srd.org/srd/specialMaterials.htm#mithral) links. Speed while wearing elven chain is 30 feet for Medium creatures, or 20 feet for Small. The armor has an arcane spell failure chance of 20%, a maximum Dexterity bonus of +4, and an armor check penalty of -2. It is considered light armor and weighs 20 pounds.",
+    "description": [
+      "This extremely light chainmail is made of very fine [mithral](https://www.d20srd.org/srd/specialMaterials.htm#mithral) links. Speed while wearing elven chain is 30 feet for Medium creatures, or 20 feet for Small. The armor has an arcane spell failure chance of 20%, a maximum Dexterity bonus of +4, and an armor check penalty of -2. It is considered light armor and weighs 20 pounds."
+    ],
     "construction": "No aura (nonmagical); Price 4,150 gp."
   },
   {
     "name": "Mithral Full Plate of Speed",
-    "description": "As a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions), the wearer of this fine set of +1 [mithral](https://www.d20srd.org/srd/specialMaterials.htm#mithral) full plate can activate it, enabling her to act as though affected by a [haste](https://www.d20srd.org/srd/spells/haste.htm) spell for up to 10 rounds each day. The duration of the haste effect need not be consecutive rounds. Speed while wearing a suit of mithral full plate is 20 feet for Medium creatures, or 15 feet for Small. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +3, and an armor check penalty of -3. It is considered medium armor and weighs 25 pounds.",
+    "description": [
+      "As a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions), the wearer of this fine set of +1 [mithral](https://www.d20srd.org/srd/specialMaterials.htm#mithral) full plate can activate it, enabling her to act as though affected by a [haste](https://www.d20srd.org/srd/spells/haste.htm) spell for up to 10 rounds each day. The duration of the haste effect need not be consecutive rounds. Speed while wearing a suit of mithral full plate is 20 feet for Medium creatures, or 15 feet for Small. The armor has an arcane spell failure chance of 25%, a maximum Dexterity bonus of +3, and an armor check penalty of -3. It is considered medium armor and weighs 25 pounds."
+    ],
     "construction": "Faint transmutation; CL 5th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [haste](https://www.d20srd.org/srd/spells/haste.htm); Price 26,500 gp; Cost 18,500 + 640 XP."
   },
   {
     "name": "Mithral Shirt",
-    "description": "This extremely light chain shirt is made of very fine [mithral](https://www.d20srd.org/srd/specialMaterials.htm#mithral) links. Speed while wearing a mithral shirt is 30 feet for Medium creatures, or 20 feet for Small. The armor has an arcane spell failure chance of 10%, a maximum Dexterity bonus of +6, and no armor check penalty. It is considered light armor and weighs 10 pounds.",
+    "description": [
+      "This extremely light chain shirt is made of very fine [mithral](https://www.d20srd.org/srd/specialMaterials.htm#mithral) links. Speed while wearing a mithral shirt is 30 feet for Medium creatures, or 20 feet for Small. The armor has an arcane spell failure chance of 10%, a maximum Dexterity bonus of +6, and no armor check penalty. It is considered light armor and weighs 10 pounds."
+    ],
     "construction": "No aura (nonmagical); Price 1,100 gp."
   },
   {
     "name": "Plate Armor of the Deep",
-    "description": "This +1 full plate is decorated with a wave and fish motif. The wearer of plate armor of the deep is treated as unarmored for purposes of [Swim](https://www.d20srd.org/srd/skills/swim.htm) checks. The wearer can breathe underwater and can converse with any creature with a language that breathes water.",
+    "description": [
+      "This +1 full plate is decorated with a wave and fish motif. The wearer of plate armor of the deep is treated as unarmored for purposes of [Swim](https://www.d20srd.org/srd/skills/swim.htm) checks. The wearer can breathe underwater and can converse with any creature with a language that breathes water."
+    ],
     "construction": "Moderate abjuration; CL 11th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [freedom of movement](https://www.d20srd.org/srd/spells/freedomOfMovement.htm), [water breathing](https://www.d20srd.org/srd/spells/waterBreathing.htm), [tongues](https://www.d20srd.org/srd/spells/tongues.htm); Price 24,650 gp; Cost 17,150 gp + 600 XP."
   },
   {
     "name": "Rhino Hide",
-    "description": "This +2 hide armor is made from [rhinoceros](https://www.d20srd.org/srd/monsters/rhinoceros.htm) hide. In addition to granting a +2 [enhancement bonus](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) to AC, it has a -1 armor check penalty and deals an additional 2d6 points of damage on any successful charge attack made by the wearer, including a mounted charge.",
+    "description": [
+      "This +2 hide armor is made from [rhinoceros](https://www.d20srd.org/srd/monsters/rhinoceros.htm) hide. In addition to granting a +2 [enhancement bonus](https://www.d20srd.org/srd/theBasics.htm#enhancementBonus) to AC, it has a -1 armor check penalty and deals an additional 2d6 points of damage on any successful charge attack made by the wearer, including a mounted charge."
+    ],
     "construction": "Moderate transmutation; CL 9th; [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [bull’s strength](https://www.d20srd.org/srd/spells/bullsStrength.htm); Price 5,165 gp; Cost 2,665 gp + 200 XP."
   }
 ]

@@ -1,15 +1,20 @@
 [
   {
+    "name": "Armor Spikes",
+    "description": [
+      "You can outfit your armor with spikes, which can deal damage in a [grapple](https://www.d20srd.org/srd/combat/specialAttacks.htm#grapple) or as a separate attack. See Armor for details."
+    ]
+  },
+  {
     "name": "Arrow",
     "description": [
       "An arrow used as a melee weapon is treated as a light improvised weapon (-4 penalty on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll))  and deals damage as a dagger of its size (critical multiplier ×2).  Arrows come in a leather quiver that holds 20 arrows. An arrow that hits  its target is destroyed; one that misses has a 50% chance of being  destroyed or lost."
     ]
   },
   {
-    "name": "Orc Double Axe",
+    "name": "Bastard Sword",
     "description": [
-      "An orc double axe is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon.",
-      "A creature wielding an orc double axe in one hand can’t use it as a  double weapon—only one end of the weapon can be used in any given round."
+      "A bastard sword is too large to use in one hand without special training; thus, it is an [exotic weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons). A character can use a bastard sword two-handed as a [martial weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons)."
     ]
   },
   {
@@ -19,52 +24,29 @@
     ]
   },
   {
-    "name": "Crossbow Bolt",
-    "description": [
-      "A crossbow bolt used as a melee weapon is treated as a light improvised weapon (-4 penalty on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll)) and deals damage as a dagger of its size (crit ×2). Bolts come in a wooden case that holds 10 bolts (or 5, for a [repeating crossbow](https://www.d20srd.org/srd/equipment/weapons.htm#crossbowRepeating)). A bolt that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost."
-    ]
-  },
-  {
     "name": "Bullets, Sling",
     "description": [
       "Bullets come in a leather pouch that holds 10 bullets. A bullet that  hits its target is destroyed; one that misses has a 50% chance of being  destroyed or lost."
     ]
   },
   {
-    "name": "Spiked Chain",
+    "name": "Composite Longbow",
     "description": [
-      "A spiked chain has reach, so you can strike opponents 10 feet away with  it. In addition, unlike most other weapons with reach, it can be used  against an adjacent foe.",
-      "You can make [trip](https://www.d20srd.org/srd/combat/specialAttacks.htm#trip) attacks with the chain. If you are tripped during your own trip attempt, you can drop the chain to avoid being tripped.",
-      "When using a spiked chain, you get a +2 bonus on opposed [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) made to [disarm](https://www.d20srd.org/srd/combat/specialAttacks.htm#disarm) an opponent (including the roll to avoid being disarmed if such an attempt fails).",
-      "You can use the [Weapon Finesse](https://www.d20srd.org/srd/feats.htm#weaponFinesse) feat to apply your Dexterity modifier instead of your Strength modifier to [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) with a spiked chain sized for you, even though it isn’t a light weapon for you."
+      "You need at least two hands to use a bow, regardless of its size. You  can use a composite longbow while mounted. All composite bows are made  with a particular strength rating (that is, each requires a minimum  Strength modifier to use with proficiency). If your Strength bonus is  less than the strength rating of the composite bow, you can’t  effectively use it, so you take a -2 penalty on attacks with it. The  default composite longbow requires a Strength modifier of +0 or higher  to use with proficiency. A composite longbow can be made with a high  strength rating to take advantage of an above-average Strength score;  this feature allows you to add your Strength bonus to damage, up to the  maximum bonus indicated for the bow. Each point of Strength bonus  granted by the bow adds 100 gp to its cost.",
+      "For purposes of [weapon proficiency](https://www.d20srd.org/srd/combat/combatModifiers.htm#weaponArmorAndShieldProficiency) and similar feats, a composite longbow is treated as if it were a longbow."
     ]
   },
   {
-    "name": "Hand Crossbow",
+    "name": "Composite Shortbow",
     "description": [
-      "You can draw a hand crossbow back by hand. Loading a hand crossbow is a [move action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#moveActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
-      "You can shoot, but not load, a hand crossbow with one hand at no  penalty. You can shoot a hand crossbow with each hand, but you take a  penalty on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) as if attacking with two light weapons."
+      "You need at least two hands to use a bow, regardless of its size. You  can use a composite shortbow while mounted. All composite bows are made  with a particular strength rating (that is, each requires a minimum  Strength modifier to use with proficiency). If your Strength bonus is  lower than the strength rating of the composite bow, you can’t  effectively use it, so you take a -2 penalty on attacks with it. The  default composite shortbow requires a Strength modifier of +0 or higher  to use with proficiency. A composite shortbow can be made with a high  strength rating to take advantage of an above-average Strength score;  this feature allows you to add your Strength bonus to damage, up to the  maximum bonus indicated for the bow. Each point of Strength bonus  granted by the bow adds 75 gp to its cost.",
+      "For purposes of [weapon proficiency](https://www.d20srd.org/srd/combat/combatModifiers.htm#weaponArmorAndShieldProficiency) and similar feats, a composite shortbow is treated as if it were a shortbow."
     ]
   },
   {
-    "name": "Heavy Crossbow",
+    "name": "Crossbow Bolt",
     "description": [
-      "You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
-      "Normally, operating a heavy crossbow requires two hands. However, you  can shoot, but not load, a heavy crossbow with one hand at a -4 penalty  on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll).  You can shoot a heavy crossbow with each hand, but you take a penalty  on attack rolls as if attacking with two one-handed weapons. This  penalty is cumulative with the penalty for one-handed firing."
-    ]
-  },
-  {
-    "name": "Light Crossbow",
-    "description": [
-      "You draw a light crossbow back by pulling a lever. Loading a light crossbow is a [move action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#moveActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
-      "Normally, operating a light crossbow requires two hands. However, you  can shoot, but not load, a light crossbow with one hand at a -2 penalty  on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll).  You can shoot a light crossbow with each hand, but you take a penalty  on attack rolls as if attacking with two light weapons. This penalty is  cumulative with the penalty for one-handed firing."
-    ]
-  },
-  {
-    "name": "Repeating Crossbow",
-    "description": [
-      "The repeating crossbow (whether heavy or light) holds 5 crossbow bolts.  As long as it holds bolts, you can reload it by pulling the reloading  lever (a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions)). Loading a new case of 5 bolts is a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
-      "You can fire a repeating crossbow with one hand or fire a repeating  crossbow in each hand in the same manner as you would a normal crossbow  of the same size. However, you must fire the weapon with two hands in  order to use the reloading lever, and you must use two hands to load a  new case of bolts."
+      "A crossbow bolt used as a melee weapon is treated as a light improvised weapon (-4 penalty on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll)) and deals damage as a dagger of its size (crit ×2). Bolts come in a wooden case that holds 10 bolts (or 5, for a [repeating crossbow](https://www.d20srd.org/srd/equipment/weapons.htm#crossbowRepeating)). A bolt that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost."
     ]
   },
   {
@@ -82,6 +64,20 @@
     ]
   },
   {
+    "name": "Dwarven Urgrosh",
+    "description": [
+      "A dwarven urgrosh is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon. The urgrosh’s axe head is a slashing weapon that deals 1d8  points of damage. Its spear head is a piercing weapon that deals 1d6  points of damage. You can use either head as the primary weapon. The  other is the off-hand weapon. A creature wielding a dwarven urgrosh in  one hand can’t use it as a double weapon—only one end of the weapon can  be used in any given round.",
+      "If you use a [ready](https://www.d20srd.org/srd/combat/specialInitiativeActions.htm#ready) action to set an urgrosh against a [charge](https://www.d20srd.org/srd/combat/specialAttacks.htm#charge),  you deal double damage if you score a hit against a charging character.  If you use an urgrosh against a charging character, the spear head is  the part of the weapon that deals damage.",
+      "Dwarves treat dwarven urgroshes as [martial weapons](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons)."
+    ]
+  },
+  {
+    "name": "Dwarven Waraxe",
+    "description": [
+      "A dwarven waraxe is too large to use in one hand without special training; thus, it is an [exotic weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons). A Medium character can use a dwarven waraxe two-handed as a [martial weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons),  or a Large creature can use it one-handed in the same way. A dwarf  treats a dwarven waraxe as a martial weapon even when using it in one  hand."
+    ]
+  },
+  {
     "name": "Flail",
     "description": [
       "With a flail, you get a +2 bonus on opposed [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) made to [disarm](https://www.d20srd.org/srd/combat/specialAttacks.htm#disarm) an enemy (including the roll to avoid being disarmed if such an attempt fails).",
@@ -95,15 +91,17 @@
     ]
   },
   {
-    "name": "Spiked Gauntlet",
-    "description": [
-      "Your opponent cannot use a [disarm](https://www.d20srd.org/srd/combat/specialAttacks.htm#disarm)  action to disarm you of spiked gauntlets. The cost and weight given are  for a single gauntlet. An attack with a spiked gauntlet is considered  an armed attack."
-    ]
-  },
-  {
     "name": "Glaive",
     "description": [
       "A glaive has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe."
+    ]
+  },
+  {
+    "name": "Gnome Hooked Hammer",
+    "description": [
+      "A gnome hooked hammer is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon. The hammer’s blunt head is a bludgeoning weapon that deals 1d6  points of damage (crit ×3). Its hook is a piercing weapon that deals 1d4  points of damage (crit ×4). You can use either head as the primary  weapon. The other head is the offhand weapon. A creature wielding a  gnome hooked hammer in one hand can’t use it as a double weapon—only one  end of the weapon can be used in any given round.",
+      "You can use a gnome hooked hammer to make [trip](https://www.d20srd.org/srd/combat/specialAttacks.htm#trip) attacks. If you are tripped during your own trip attempt, you can drop the gnome hooked hammer to avoid being tripped.",
+      "Gnomes treat gnome hooked hammers as [martial weapons](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons)."
     ]
   },
   {
@@ -121,11 +119,17 @@
     ]
   },
   {
-    "name": "Gnome Hooked Hammer",
+    "name": "Hand Crossbow",
     "description": [
-      "A gnome hooked hammer is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon. The hammer’s blunt head is a bludgeoning weapon that deals 1d6  points of damage (crit ×3). Its hook is a piercing weapon that deals 1d4  points of damage (crit ×4). You can use either head as the primary  weapon. The other head is the offhand weapon. A creature wielding a  gnome hooked hammer in one hand can’t use it as a double weapon—only one  end of the weapon can be used in any given round.",
-      "You can use a gnome hooked hammer to make [trip](https://www.d20srd.org/srd/combat/specialAttacks.htm#trip) attacks. If you are tripped during your own trip attempt, you can drop the gnome hooked hammer to avoid being tripped.",
-      "Gnomes treat gnome hooked hammers as [martial weapons](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons)."
+      "You can draw a hand crossbow back by hand. Loading a hand crossbow is a [move action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#moveActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
+      "You can shoot, but not load, a hand crossbow with one hand at no  penalty. You can shoot a hand crossbow with each hand, but you take a  penalty on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) as if attacking with two light weapons."
+    ]
+  },
+  {
+    "name": "Heavy Crossbow",
+    "description": [
+      "You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
+      "Normally, operating a heavy crossbow requires two hands. However, you  can shoot, but not load, a heavy crossbow with one hand at a -4 penalty  on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll).  You can shoot a heavy crossbow with each hand, but you take a penalty  on attack rolls as if attacking with two one-handed weapons. This  penalty is cumulative with the penalty for one-handed firing."
     ]
   },
   {
@@ -149,16 +153,16 @@
     ]
   },
   {
-    "name": "Longbow",
+    "name": "Light Crossbow",
     "description": [
-      "You need at least two hands to use a bow, regardless of its size. A  longbow is too unwieldy to use while you are mounted. If you have a  penalty for low Strength, apply it to damage rolls when you use a  longbow. If you have a bonus for high Strength, you can apply it to  damage rolls when you use a composite longbow (see below) but not a  regular longbow."
+      "You draw a light crossbow back by pulling a lever. Loading a light crossbow is a [move action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#moveActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
+      "Normally, operating a light crossbow requires two hands. However, you  can shoot, but not load, a light crossbow with one hand at a -2 penalty  on [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll).  You can shoot a light crossbow with each hand, but you take a penalty  on attack rolls as if attacking with two light weapons. This penalty is  cumulative with the penalty for one-handed firing."
     ]
   },
   {
-    "name": "Composite Longbow",
+    "name": "Longbow",
     "description": [
-      "You need at least two hands to use a bow, regardless of its size. You  can use a composite longbow while mounted. All composite bows are made  with a particular strength rating (that is, each requires a minimum  Strength modifier to use with proficiency). If your Strength bonus is  less than the strength rating of the composite bow, you can’t  effectively use it, so you take a -2 penalty on attacks with it. The  default composite longbow requires a Strength modifier of +0 or higher  to use with proficiency. A composite longbow can be made with a high  strength rating to take advantage of an above-average Strength score;  this feature allows you to add your Strength bonus to damage, up to the  maximum bonus indicated for the bow. Each point of Strength bonus  granted by the bow adds 100 gp to its cost.",
-      "For purposes of [weapon proficiency](https://www.d20srd.org/srd/combat/combatModifiers.htm#weaponArmorAndShieldProficiency) and similar feats, a composite longbow is treated as if it were a longbow."
+      "You need at least two hands to use a bow, regardless of its size. A  longbow is too unwieldy to use while you are mounted. If you have a  penalty for low Strength, apply it to damage rolls when you use a  longbow. If you have a bonus for high Strength, you can apply it to  damage rolls when you use a composite longbow (see below) but not a  regular longbow."
     ]
   },
   {
@@ -183,6 +187,13 @@
     ]
   },
   {
+    "name": "Orc Double Axe",
+    "description": [
+      "An orc double axe is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon.",
+      "A creature wielding an orc double axe in one hand can’t use it as a  double weapon—only one end of the weapon can be used in any given round."
+    ]
+  },
+  {
     "name": "Quarterstaff",
     "description": [
       "A quarterstaff is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon. A creature wielding a quarterstaff in one hand can’t use it as a  double weapon—only one end of the weapon can be used in any given  round.",
@@ -194,6 +205,13 @@
     "description": [
       "A ranseur has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.",
       "With a ranseur, you get a +2 bonus on opposed [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) made to [disarm](https://www.d20srd.org/srd/combat/specialAttacks.htm#disarm) an opponent (including the roll to avoid being disarmed if such an attempt fails)."
+    ]
+  },
+  {
+    "name": "Repeating Crossbow",
+    "description": [
+      "The repeating crossbow (whether heavy or light) holds 5 crossbow bolts.  As long as it holds bolts, you can reload it by pulling the reloading  lever (a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions)). Loading a new case of 5 bolts is a [full-round action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#fullRoundActions) that provokes [attacks of opportunity](https://www.d20srd.org/srd/combat/attacksOfOpportunity.htm).",
+      "You can fire a repeating crossbow with one hand or fire a repeating  crossbow in each hand in the same manner as you would a normal crossbow  of the same size. However, you must fire the weapon with two hands in  order to use the reloading lever, and you must use two hands to load a  new case of bolts."
     ]
   },
   {
@@ -220,13 +238,6 @@
     "name": "Shortbow",
     "description": [
       "You need at least two hands to use a bow, regardless of its size. You  can use a shortbow while mounted. If you have a penalty for low  Strength, apply it to damage rolls when you use a shortbow. If you have a  bonus for high Strength, you can apply it to damage rolls when you use a  composite shortbow (see below) but not a regular shortbow."
-    ]
-  },
-  {
-    "name": "Composite Shortbow",
-    "description": [
-      "You need at least two hands to use a bow, regardless of its size. You  can use a composite shortbow while mounted. All composite bows are made  with a particular strength rating (that is, each requires a minimum  Strength modifier to use with proficiency). If your Strength bonus is  lower than the strength rating of the composite bow, you can’t  effectively use it, so you take a -2 penalty on attacks with it. The  default composite shortbow requires a Strength modifier of +0 or higher  to use with proficiency. A composite shortbow can be made with a high  strength rating to take advantage of an above-average Strength score;  this feature allows you to add your Strength bonus to damage, up to the  maximum bonus indicated for the bow. Each point of Strength bonus  granted by the bow adds 75 gp to its cost.",
-      "For purposes of [weapon proficiency](https://www.d20srd.org/srd/combat/combatModifiers.htm#weaponArmorAndShieldProficiency) and similar feats, a composite shortbow is treated as if it were a shortbow."
     ]
   },
   {
@@ -268,9 +279,18 @@
     ]
   },
   {
-    "name": "Armor Spikes",
+    "name": "Spiked Chain",
     "description": [
-      "You can outfit your armor with spikes, which can deal damage in a [grapple](https://www.d20srd.org/srd/combat/specialAttacks.htm#grapple) or as a separate attack. See Armor for details."
+      "A spiked chain has reach, so you can strike opponents 10 feet away with  it. In addition, unlike most other weapons with reach, it can be used  against an adjacent foe.",
+      "You can make [trip](https://www.d20srd.org/srd/combat/specialAttacks.htm#trip) attacks with the chain. If you are tripped during your own trip attempt, you can drop the chain to avoid being tripped.",
+      "When using a spiked chain, you get a +2 bonus on opposed [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) made to [disarm](https://www.d20srd.org/srd/combat/specialAttacks.htm#disarm) an opponent (including the roll to avoid being disarmed if such an attempt fails).",
+      "You can use the [Weapon Finesse](https://www.d20srd.org/srd/feats.htm#weaponFinesse) feat to apply your Dexterity modifier instead of your Strength modifier to [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) with a spiked chain sized for you, even though it isn’t a light weapon for you."
+    ]
+  },
+  {
+    "name": "Spiked Gauntlet",
+    "description": [
+      "Your opponent cannot use a [disarm](https://www.d20srd.org/srd/combat/specialAttacks.htm#disarm)  action to disarm you of spiked gauntlets. The cost and weight given are  for a single gauntlet. An attack with a spiked gauntlet is considered  an armed attack."
     ]
   },
   {
@@ -280,16 +300,9 @@
     ]
   },
   {
-    "name": "Unarmed Strike",
+    "name": "Trident",
     "description": [
-      "A Medium character deals 1d3 points of [nonlethal damage](https://www.d20srd.org/srd/combat/injuryandDeath.htm#nonlethalDamage) with an unarmed strike. A Small character deals 1d2 points of nonlethal damage. A [monk](https://www.d20srd.org/srd/classes/monk.htm) or any character with the [Improved Unarmed Strike](https://www.d20srd.org/srd/feats.htm#improvedUnarmedStrike)  feat can deal lethal or nonlethal damage with unarmed strikes, at her  option. The damage from an unarmed strike is considered weapon damage  for the purposes of effects that give you a bonus on weapon damage  rolls.",
-      "An unarmed strike is always considered a light weapon. Therefore, you can use the [Weapon Finesse](https://www.d20srd.org/srd/feats.htm#weaponFinesse) feat to apply your Dexterity modifier instead of your Strength modifier to [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) with an unarmed strike."
-    ]
-  },
-  {
-    "name": "Bastard Sword",
-    "description": [
-      "A bastard sword is too large to use in one hand without special training; thus, it is an [exotic weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons). A character can use a bastard sword two-handed as a [martial weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons)."
+      "This weapon can be thrown. If you use a [ready](https://www.d20srd.org/srd/combat/specialInitiativeActions.htm#ready) action to set a trident against a [charge](https://www.d20srd.org/srd/combat/specialAttacks.htm#charge), you deal double damage on a successful hit against a charging character."
     ]
   },
   {
@@ -299,23 +312,10 @@
     ]
   },
   {
-    "name": "Trident",
+    "name": "Unarmed Strike",
     "description": [
-      "This weapon can be thrown. If you use a [ready](https://www.d20srd.org/srd/combat/specialInitiativeActions.htm#ready) action to set a trident against a [charge](https://www.d20srd.org/srd/combat/specialAttacks.htm#charge), you deal double damage on a successful hit against a charging character."
-    ]
-  },
-  {
-    "name": "Dwarven Urgrosh",
-    "description": [
-      "A dwarven urgrosh is a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons).  You can fight with it as if fighting with two weapons, but if you do,  you incur all the normal attack penalties associated with fighting with  two weapons, just as if you were using a one-handed weapon and a light  weapon. The urgrosh’s axe head is a slashing weapon that deals 1d8  points of damage. Its spear head is a piercing weapon that deals 1d6  points of damage. You can use either head as the primary weapon. The  other is the off-hand weapon. A creature wielding a dwarven urgrosh in  one hand can’t use it as a double weapon—only one end of the weapon can  be used in any given round.",
-      "If you use a [ready](https://www.d20srd.org/srd/combat/specialInitiativeActions.htm#ready) action to set an urgrosh against a [charge](https://www.d20srd.org/srd/combat/specialAttacks.htm#charge),  you deal double damage if you score a hit against a charging character.  If you use an urgrosh against a charging character, the spear head is  the part of the weapon that deals damage.",
-      "Dwarves treat dwarven urgroshes as [martial weapons](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons)."
-    ]
-  },
-  {
-    "name": "Dwarven Waraxe",
-    "description": [
-      "A dwarven waraxe is too large to use in one hand without special training; thus, it is an [exotic weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons). A Medium character can use a dwarven waraxe two-handed as a [martial weapon](https://www.d20srd.org/srd/equipment/weapons.htm#simpleMartialandExoticWeapons),  or a Large creature can use it one-handed in the same way. A dwarf  treats a dwarven waraxe as a martial weapon even when using it in one  hand."
+      "A Medium character deals 1d3 points of [nonlethal damage](https://www.d20srd.org/srd/combat/injuryandDeath.htm#nonlethalDamage) with an unarmed strike. A Small character deals 1d2 points of nonlethal damage. A [monk](https://www.d20srd.org/srd/classes/monk.htm) or any character with the [Improved Unarmed Strike](https://www.d20srd.org/srd/feats.htm#improvedUnarmedStrike)  feat can deal lethal or nonlethal damage with unarmed strikes, at her  option. The damage from an unarmed strike is considered weapon damage  for the purposes of effects that give you a bonus on weapon damage  rolls.",
+      "An unarmed strike is always considered a light weapon. Therefore, you can use the [Weapon Finesse](https://www.d20srd.org/srd/feats.htm#weaponFinesse) feat to apply your Dexterity modifier instead of your Strength modifier to [attack rolls](https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll) with an unarmed strike."
     ]
   },
   {

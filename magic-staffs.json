@@ -187,10 +187,10 @@
       "- [Waves of fatigue](https://www.d20srd.org/srd/spells/wavesOfFatigue.htm) (2 charges)",
       "- [Circle of death](https://www.d20srd.org/srd/spells/circleOfDeath.htm) (3 charges)"
     ],
-    "construction": "Strong necromancy; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [cause fear](https://www.d20srd.org/srd/spells/causeFear.htm), [circle of death](https://www.d20srd.org/srd/spells/circleOfDeath.htm), [enervation](https://www.d20srd.org/srd/spells/enervation.htm), [ghoul touch](https://www.d20srd.org/srd/spells/ghoulTouch.htm), [halt undead](https://www.d20srd.org/srd/spells/haltUndead.htm), [waves of fatigue](https://www.d20srd.org/srd/spells/wavesOfFatigue.htm); Price 65,000 gp.",
     "additional_text": [
       "This staff is made from ebony or other dark wood and carved with the images of bones and skulls. It allows use of the following spells:"
-    ]
+    ],
+    "construction": "Strong necromancy; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [cause fear](https://www.d20srd.org/srd/spells/causeFear.htm), [circle of death](https://www.d20srd.org/srd/spells/circleOfDeath.htm), [enervation](https://www.d20srd.org/srd/spells/enervation.htm), [ghoul touch](https://www.d20srd.org/srd/spells/ghoulTouch.htm), [halt undead](https://www.d20srd.org/srd/spells/haltUndead.htm), [waves of fatigue](https://www.d20srd.org/srd/spells/wavesOfFatigue.htm); Price 65,000 gp."
   },
   {
     "name": "Staff of Passage",
@@ -223,13 +223,13 @@
       "- [Wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm) (in a 10-ft.-diameter hemisphere around the caster only) (2 charges)",
       "- [Globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerability.htm) (2 charges)"
     ],
-    "construction": "Strong varied; CL 15th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [magic missile](https://www.d20srd.org/srd/spells/magicMissile.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [ray of enfeeblement](https://www.d20srd.org/srd/spells/rayOfEnfeeblement.htm), [continual flame](https://www.d20srd.org/srd/spells/continualFlame.htm), [levitate](https://www.d20srd.org/srd/spells/levitate.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [fireball](https://www.d20srd.org/srd/spells/fireball.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [lightning bolt](https://www.d20srd.org/srd/spells/lightningBolt.htm), [cone of cold](https://www.d20srd.org/srd/spells/coneOfCold.htm), [hold monster](https://www.d20srd.org/srd/spells/holdMonster.htm), [wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm), [globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerability.htm); Price 211,000 gp.",
     "additional_text": [
       "The wielder of a staff of power gains a +2 [luck bonus](https://www.d20srd.org/srd/theBasics.htm#luckModifier) to AC and [saving throws](https://www.d20srd.org/srd/combat/combatStatistics.htm#savingThrows). The staff is also a +2 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff), and its wielder may use it to smite opponents. If 1 charge is expended (as a [free action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#freeActions)), the staff causes double damage (×3 on a [critical hit](https://www.d20srd.org/srd/combat/actionsInCombat.htm#criticalHits)) for 1 round.",
       "A staff of power can be used for a retributive strike, requiring it to be broken by its wielder. (If this breaking of the staff is purposeful and declared by the wielder, it can be performed as a [standard action](https://www.d20srd.org/srd/combat/actionsInCombat.htm#standardActions) that does not require the wielder to make a Strength check.) All charges currently in the staff are instantly released in a 30-foot radius. All within 2 squares of the broken staff take points of damage equal to 8 × the number of charges in the staff, those 3 or 4 squares away take 6 × the number of charges in damage, and those 5 or 6 squares distant take 4 × the number of charges in damage. All those affected can make DC 17 [Reflex saves](https://www.d20srd.org/srd/combat/combatStatistics.htm#reflex) to reduce the damage by half.",
       "The character breaking the staff has a 50% chance of traveling to another plane of existence, but if he does not, the explosive release of spell energy destroys him. Only certain items, including the staff of the magi and the staff of power, are capable of being used for a retributive strike.",
       "After all charges are used up from the staff, it remains a +2 quarterstaff. (Once empty of charges, it cannot be used for a retributive strike.)"
-    ]
+    ],
+    "construction": "Strong varied; CL 15th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [magic missile](https://www.d20srd.org/srd/spells/magicMissile.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [ray of enfeeblement](https://www.d20srd.org/srd/spells/rayOfEnfeeblement.htm), [continual flame](https://www.d20srd.org/srd/spells/continualFlame.htm), [levitate](https://www.d20srd.org/srd/spells/levitate.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [fireball](https://www.d20srd.org/srd/spells/fireball.htm), [heightened](https://www.d20srd.org/srd/feats.htm#heightenSpell) [lightning bolt](https://www.d20srd.org/srd/spells/lightningBolt.htm), [cone of cold](https://www.d20srd.org/srd/spells/coneOfCold.htm), [hold monster](https://www.d20srd.org/srd/spells/holdMonster.htm), [wall of force](https://www.d20srd.org/srd/spells/wallOfForce.htm), [globe of invulnerability](https://www.d20srd.org/srd/spells/globeOfInvulnerability.htm); Price 211,000 gp."
   },
   {
     "name": "Staff of Size Alteration",
@@ -257,6 +257,24 @@
     "construction": "Moderate conjuration; CL 9th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [insect plague](https://www.d20srd.org/srd/spells/insectPlague.htm), [summon swarm](https://www.d20srd.org/srd/spells/summonSwarm.htm); Price 24,750 gp."
   },
   {
+    "name": "Staff of the Woodlands",
+    "description": [
+      "Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:"
+    ],
+    "spells": [
+      "- [Charm animal](https://www.d20srd.org/srd/spells/charmAnimal.htm) (1 charge)",
+      "- [Speak with animals](https://www.d20srd.org/srd/spells/speakWithAnimals.htm) (1 charge)",
+      "- [Barkskin](https://www.d20srd.org/srd/spells/barkskin.htm) (2 charges)",
+      "- [Wall of thorns](https://www.d20srd.org/srd/spells/wallOfThorns.htm) (3 charges)",
+      "- [Summon nature’s ally VI](https://www.d20srd.org/srd/spells/summonNaturesAllyVI.htm) (3 charges)",
+      "- [Animate plants](https://www.d20srd.org/srd/spells/animatePlants.htm) (4 charges)"
+    ],
+    "additional_text": [
+      "The staff may be used as a weapon, functioning as a +2 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff). The staff of the woodlands also allows its wielder to [pass without trace](https://www.d20srd.org/srd/spells/passWithoutTrace.htm) at will, with no charge cost. These two attributes continue to function after all the charges are expended."
+    ],
+    "construction": "Moderate varied; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [animate plants](https://www.d20srd.org/srd/spells/animatePlants.htm), [barkskin](https://www.d20srd.org/srd/spells/barkskin.htm), [charm animal](https://www.d20srd.org/srd/spells/charmAnimal.htm), [pass without trace](https://www.d20srd.org/srd/spells/passWithoutTrace.htm), [speak with animals](https://www.d20srd.org/srd/spells/speakWithAnimals.htm), [summon nature’s ally VI](https://www.d20srd.org/srd/spells/summonNaturesAllyVI.htm), [wall of thorns](https://www.d20srd.org/srd/spells/wallOfThorns.htm); Price 101,250 gp."
+  },
+  {
     "name": "Staff of Transmutation",
     "description": [
       "This staff is generally carved from or decorated with petrified wood and allows use of the following spells:"
@@ -270,23 +288,5 @@
       "- [Disintegrate](https://www.d20srd.org/srd/spells/disintegrate.htm) (3 charges)"
     ],
     "construction": "Strong transmutation; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [alter self](https://www.d20srd.org/srd/spells/alterSelf.htm), [baleful polymorph](https://www.d20srd.org/srd/spells/balefulPolymorph.htm), [blink](https://www.d20srd.org/srd/spells/blink.htm), [disintegrate](https://www.d20srd.org/srd/spells/disintegrate.htm), [expeditious retreat](https://www.d20srd.org/srd/spells/expeditiousRetreat.htm), [polymorph](https://www.d20srd.org/srd/spells/polymorph.htm); Price 65,000 gp."
-  },
-  {
-    "name": "Staff of the Woodlands",
-    "description": [
-      "Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:"
-    ],
-    "spells": [
-      "- [Charm animal](https://www.d20srd.org/srd/spells/charmAnimal.htm) (1 charge)",
-      "- [Speak with animals](https://www.d20srd.org/srd/spells/speakWithAnimals.htm) (1 charge)",
-      "- [Barkskin](https://www.d20srd.org/srd/spells/barkskin.htm) (2 charges)",
-      "- [Wall of thorns](https://www.d20srd.org/srd/spells/wallOfThorns.htm) (3 charges)",
-      "- [Summon nature’s ally VI](https://www.d20srd.org/srd/spells/summonNaturesAllyVI.htm) (3 charges)",
-      "- [Animate plants](https://www.d20srd.org/srd/spells/animatePlants.htm) (4 charges)"
-    ],
-    "construction": "Moderate varied; CL 13th; [Craft Staff](https://www.d20srd.org/srd/feats.htm#craftStaff), [Craft Magic Arms and Armor](https://www.d20srd.org/srd/feats.htm#craftMagicArmsAndArmor), [animate plants](https://www.d20srd.org/srd/spells/animatePlants.htm), [barkskin](https://www.d20srd.org/srd/spells/barkskin.htm), [charm animal](https://www.d20srd.org/srd/spells/charmAnimal.htm), [pass without trace](https://www.d20srd.org/srd/spells/passWithoutTrace.htm), [speak with animals](https://www.d20srd.org/srd/spells/speakWithAnimals.htm), [summon nature’s ally VI](https://www.d20srd.org/srd/spells/summonNaturesAllyVI.htm), [wall of thorns](https://www.d20srd.org/srd/spells/wallOfThorns.htm); Price 101,250 gp.",
-    "additional_text": [
-      "The staff may be used as a weapon, functioning as a +2 [quarterstaff](https://www.d20srd.org/srd/equipment/weapons.htm#quarterstaff). The staff of the woodlands also allows its wielder to [pass without trace](https://www.d20srd.org/srd/spells/passWithoutTrace.htm) at will, with no charge cost. These two attributes continue to function after all the charges are expended."
-    ]
   }
 ]

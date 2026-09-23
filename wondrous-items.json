@@ -24,20 +24,20 @@
     "construction": "Faint transmutation; CL 5th; Craft Wondrous Item, barkskin, creator’s caster level must be at least three times the amulet’s bonus; Price 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), or 50,000 gp (+5)."
   },
   {
-    "name": "Amulet of the Planes",
-    "description": [
-      "This device usually appears to be a black circular amulet, although any character looking closely at it sees a dark, moving swirl of color. The amulet allows its wearer to utilize plane shift. However, this is a difficult item to master. The user must make a DC 15 Intelligence check in order to get the amulet to take her to the plane (and the specific location on that plane) that she wants. If she fails, the amulet transports her and all those traveling with her to a random location on that plane (01-60 on d%) or to a random plane (61-100)."
-    ],
-    "tables": [],
-    "construction": "Strong conjuration; CL 15th; Craft Wondrous Item, plane shift; Price 120,000 gp."
-  },
-  {
     "name": "Amulet of Proof against Detection and Location",
     "description": [
       "This silver amulet protects the wearer from scrying and magical location just as a nondetection spell does. If a divination spell is attempted against the wearer, the caster of the divination must succeed on a caster level check (1d20 + caster level) against a DC of 19 (as if the caster had cast nondetection on herself)."
     ],
     "tables": [],
     "construction": "Moderate abjuration; CL 8th; Craft Wondrous Item, nondetection; Price 35,000 gp."
+  },
+  {
+    "name": "Amulet of the Planes",
+    "description": [
+      "This device usually appears to be a black circular amulet, although any character looking closely at it sees a dark, moving swirl of color. The amulet allows its wearer to utilize plane shift. However, this is a difficult item to master. The user must make a DC 15 Intelligence check in order to get the amulet to take her to the plane (and the specific location on that plane) that she wants. If she fails, the amulet transports her and all those traveling with her to a random location on that plane (01-60 on d%) or to a random plane (61-100)."
+    ],
+    "tables": [],
+    "construction": "Strong conjuration; CL 15th; Craft Wondrous Item, plane shift; Price 120,000 gp."
   },
   {
     "name": "Apparatus of the Crab",
@@ -112,14 +112,6 @@
     "construction": "Moderate evocation; CL 10th; Craft Wondrous Item, resilient sphere; Price 3,000 gp."
   },
   {
-    "name": "Belt, Monk’s",
-    "description": [
-      "This simple rope belt, when wrapped around a character’s waist, confers great ability in unarmed combat. The wearer’s AC and unarmed damage is treated as a monk of five levels higher. If donned by a character with the Stunning Fist feat, the belt lets her make one additional stunning attack per day. If the character is not a monk, she gains the AC and unarmed damage of a 5th-level monk. This AC bonus functions just like the monk’s AC bonus."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 10th; Craft Wondrous Item, righteous might or transformation; Price 13,000 gp; Weight 1 lb."
-  },
-  {
     "name": "Belt of Dwarvenkind",
     "description": [
       "This belt gives the wearer a +4 competence bonus on Charisma checks and Charisma-based skill checks as they relate to dealing with dwarves, a +2 competence bonus on similar checks when dealing with gnomes and halflings, and a -2 competence penalty on similar checks when dealing with anyone else. The wearer can understand, speak, and read Dwarven. If the wearer is not a dwarf, he gains 60-foot darkvision, dwarven stonecunning, a +2 enhancement bonus to Constitution, and a +2 resistance bonus on saves against poison, spells, or spell-like effects."
@@ -134,6 +126,14 @@
     ],
     "tables": [],
     "construction": "Moderate transmutation; CL 10th; Craft Wondrous Item, bull’s strength; Price 16,000 gp (+4), 36,000 gp (+6); Weight 1 lb."
+  },
+  {
+    "name": "Belt, Monk’s",
+    "description": [
+      "This simple rope belt, when wrapped around a character’s waist, confers great ability in unarmed combat. The wearer’s AC and unarmed damage is treated as a monk of five levels higher. If donned by a character with the Stunning Fist feat, the belt lets her make one additional stunning attack per day. If the character is not a monk, she gains the AC and unarmed damage of a 5th-level monk. This AC bonus functions just like the monk’s AC bonus."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 10th; Craft Wondrous Item, righteous might or transformation; Price 13,000 gp; Weight 1 lb."
   },
   {
     "name": "Blessed Book",
@@ -366,20 +366,20 @@
     "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, knock; Price 3,000 gp; Weight 1 lb."
   },
   {
-    "name": "Circlet of Blasting, Minor",
-    "description": [
-      "On command, this simple golden headband projects a blast of searing light (3d8 points of damage) once per day."
-    ],
-    "tables": [],
-    "construction": "Faint evocation; CL 6th; Craft Wondrous Item, searing light; Price 6,480 gp."
-  },
-  {
     "name": "Circlet of Blasting, Major",
     "description": [
       "On command, this elaborate golden headband projects a blast of searing light (5d8 maximized for 40 points of damage) once per day."
     ],
     "tables": [],
     "construction": "Strong evocation; CL 17th; Craft Wondrous Item, Maximize Spell, searing light; Price 23,760 gp."
+  },
+  {
+    "name": "Circlet of Blasting, Minor",
+    "description": [
+      "On command, this simple golden headband projects a blast of searing light (3d8 points of damage) once per day."
+    ],
+    "tables": [],
+    "construction": "Faint evocation; CL 6th; Craft Wondrous Item, searing light; Price 6,480 gp."
   },
   {
     "name": "Circlet of Persuasion",
@@ -398,15 +398,6 @@
     "construction": "Faint conjuration and transmutation; CL 6th; Craft Wondrous Item, spider climb, web; Price 14,000 gp; Weight 1 lb."
   },
   {
-    "name": "Cloak of the Bat",
-    "description": [
-      "Fashioned of dark brown or black cloth, this cloak bestows a +5 competence bonus on Hide checks. The wearer is also able to hang upside down from the ceiling, like a bat.",
-      "By holding the edges of the garment, the wearer is able to fly as per the spell. If he desires, the wearer can actually polymorph himself into an ordinary bat and fly accordingly. (All possessions worn or carried are part of the transformation.) Flying, either with the cloak or in bat form, can be accomplished only in darkness (either under the night sky or in a lightless or near-lightless environment underground). Either of the flying powers is usable for up to 7 minutes at a time, but after a flight of any duration the cloak cannot bestow any flying power for a like period of time."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 7th; Craft Wondrous Item, fly, polymorph; Price 26,000 gp; Weight 1 lb."
-  },
-  {
     "name": "Cloak of Charisma",
     "description": [
       "This lightweight and fashionable cloak has a highly decorative silver trim. When in a character’s possession, it adds a +2, +4, or +6 enhancement bonus to her Charisma score."
@@ -415,20 +406,20 @@
     "construction": "Moderate transmutation; CL 8th; Craft Wondrous Item, eagle’s splendor; Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6); Weight 2 lb."
   },
   {
-    "name": "Cloak of Displacement, Minor",
-    "description": [
-      "This item appears to be a normal cloak, but when worn by a character its magical properties distort and warp light waves. This displacement works similar to the displacement spell except that it only grants a 20% miss chance on attacks against the wearer. It functions continually."
-    ],
-    "tables": [],
-    "construction": "Faint illusion; CL 3rd; Craft Wondrous Item, displacement; Price 24,000 gp; Weight 1 lb."
-  },
-  {
     "name": "Cloak of Displacement, Major",
     "description": [
       "This item appears to be a normal cloak, but on command its magical properties distort and warp light waves. This displacement works just like the displacement spell and lasts for a total of 15 rounds per day, which the wearer can divide up as she sees fit."
     ],
     "tables": [],
     "construction": "Moderate illusion; CL 7th; Craft Wondrous Item, Extend Spell, displacement; Price 50,000 gp; Weight 1 lb."
+  },
+  {
+    "name": "Cloak of Displacement, Minor",
+    "description": [
+      "This item appears to be a normal cloak, but when worn by a character its magical properties distort and warp light waves. This displacement works similar to the displacement spell except that it only grants a 20% miss chance on attacks against the wearer. It functions continually."
+    ],
+    "tables": [],
+    "construction": "Faint illusion; CL 3rd; Craft Wondrous Item, displacement; Price 24,000 gp; Weight 1 lb."
   },
   {
     "name": "Cloak of Elvenkind",
@@ -447,6 +438,23 @@
     "construction": "Strong transmutation; CL 15th; Craft Wondrous Item, ethereal jaunt; Price 55,000 gp; Weight 1 lb."
   },
   {
+    "name": "Cloak of Resistance",
+    "description": [
+      "These garments offer magic protection in the form of a +1 to +5 resistance bonus on all saving throws (Fortitude, Reflex, and Will)."
+    ],
+    "tables": [],
+    "construction": "Faint abjuration; CL 5th; Craft Wondrous Item, resistance, creator’s caster level must be at least three times the cloak’s bonus; Price 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5); Weight 1 lb."
+  },
+  {
+    "name": "Cloak of the Bat",
+    "description": [
+      "Fashioned of dark brown or black cloth, this cloak bestows a +5 competence bonus on Hide checks. The wearer is also able to hang upside down from the ceiling, like a bat.",
+      "By holding the edges of the garment, the wearer is able to fly as per the spell. If he desires, the wearer can actually polymorph himself into an ordinary bat and fly accordingly. (All possessions worn or carried are part of the transformation.) Flying, either with the cloak or in bat form, can be accomplished only in darkness (either under the night sky or in a lightless or near-lightless environment underground). Either of the flying powers is usable for up to 7 minutes at a time, but after a flight of any duration the cloak cannot bestow any flying power for a like period of time."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 7th; Craft Wondrous Item, fly, polymorph; Price 26,000 gp; Weight 1 lb."
+  },
+  {
     "name": "Cloak of the Manta Ray",
     "description": [
       "This cloak appears to be made of leather until the wearer enters salt water. At that time the cloak of the manta ray adheres to the individual, and he appears nearly identical to a manta ray (as the polymorph spell, except that it allows only manta ray form). He gains a +3 natural armor bonus, the ability to breathe underwater, and a swim speed of 60 feet, like a real manta ray.",
@@ -454,14 +462,6 @@
     ],
     "tables": [],
     "construction": "Moderate transmutation; CL 9th; Craft Wondrous Item, polymorph, water breathing; Price 7,200 gp; Weight 1 lb."
-  },
-  {
-    "name": "Cloak of Resistance",
-    "description": [
-      "These garments offer magic protection in the form of a +1 to +5 resistance bonus on all saving throws (Fortitude, Reflex, and Will)."
-    ],
-    "tables": [],
-    "construction": "Faint abjuration; CL 5th; Craft Wondrous Item, resistance, creator’s caster level must be at least three times the cloak’s bonus; Price 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5); Weight 1 lb."
   },
   {
     "name": "Crystal Ball",
@@ -657,6 +657,14 @@
     "construction": "Faint transmutation; CL 3rd; Craft Wondrous Item, pass without trace; Price 250 gp."
   },
   {
+    "name": "Ebony Fly",
+    "description": [
+      "When animated, an ebony fly is the size of a pony and has all the statistics of a hippogriff but can make no attacks. The item can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony fly again becomes a tiny statuette."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 10,000 gp."
+  },
+  {
     "name": "Efficient Quiver",
     "description": [
       "This appears to be a typical arrow container capable of holding about twenty arrows. It has three distinct portions, each with a nondimensional space allowing it to store far more than would normally be possible. The first and smallest one can contain up to sixty objects of the same general size and shape as an arrow. The second slightly longer compartment holds up to eighteen objects of the same general size and shape as a javelin. The third and longest portion of the case contains as many as six objects of the same general size and shape as a bow (spears, staffs, or the like). Once the owner has filled it, the quiver can produce any item she wishes, as if from a regular quiver or scabbard. The efficient quiver weighs the same no matter what’s placed inside it."
@@ -765,14 +773,6 @@
     "construction": "Moderate necromancy; CL 11th; Craft Wondrous Item, doom, deathwatch, fear; Price 25,000 gp."
   },
   {
-    "name": "Eyes of the Eagle",
-    "description": [
-      "These items are made of special crystal and fit over the eyes of the wearer. These lenses grant a +5 competence bonus on Spot checks. Wearing only one of the pair causes a character to become dizzy and, in effect, stunned for 1 round. Thereafter, the wearer can use the single lens without being stunned so long as she covers her other eye. Of course, she can remove the single lens and see normally at any time, or wear both lenses to end or avoid the dizziness."
-    ],
-    "tables": [],
-    "construction": "Faint divination; CL 3rd; Craft Wondrous Item, clairaudience/clairvoyance; Price 2,500 gp."
-  },
-  {
     "name": "Eyes of Petrification",
     "description": [
       "These items are made of special crystal and fit over the eyes of the wearer. They allow her to use a petrification gaze attack (Fortitude DC 19 negates) for 10 rounds per day. Both lenses must be worn for the magic to be effective."
@@ -781,83 +781,12 @@
     "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, flesh to stone; Price 98,000 gp."
   },
   {
-    "name": "Figurines of Wondrous Power",
+    "name": "Eyes of the Eagle",
     "description": [
-      "Each of the several kinds of figurines of wondrous power appears to be a miniature statuette of a creature an inch or so high (with one exception). When the figurine is tossed down and the correct command word spoken, it becomes a living creature of normal size (except when noted otherwise below). The creature obeys and serves its owner. Unless stated otherwise, the creature understands Common but does not speak.",
-      "If a figurine of wondrous power is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.",
-      "Bronze Griffon",
-      "When animated, a bronze griffon acts in all ways like a normal griffon under the command of its possessor. The item can be used twice per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the bronze griffon once again becomes a tiny statuette."
+      "These items are made of special crystal and fit over the eyes of the wearer. These lenses grant a +5 competence bonus on Spot checks. Wearing only one of the pair causes a character to become dizzy and, in effect, stunned for 1 round. Thereafter, the wearer can use the single lens without being stunned so long as she covers her other eye. Of course, she can remove the single lens and see normally at any time, or wear both lenses to end or avoid the dizziness."
     ],
     "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 10,000 gp."
-  },
-  {
-    "name": "Ebony Fly",
-    "description": [
-      "When animated, an ebony fly is the size of a pony and has all the statistics of a hippogriff but can make no attacks. The item can be used three times per week for up to 12 hours per use. When 12 hours have passed or when the command word is spoken, the ebony fly again becomes a tiny statuette."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 10,000 gp."
-  },
-  {
-    "name": "Golden Lions",
-    "description": [
-      "These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for one full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 16,500 gp."
-  },
-  {
-    "name": "Ivory Goats",
-    "description": [
-      "These figurines come in threes. Each goat of this trio looks slightly different from the others, and each has a different function:",
-      "The Goat of Traveling: This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of one day each week—continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for not less than one day before it can again be used.",
-      "The Goat of Travail: This statuette becomes an enormous creature, larger than a bull, with the statistics of a nightmare except for the addition of a pair of wicked horns of exceptional size (damage 1d8+4 for each horn). If it is charging to attack, it may only use its horns (but add 6 points of damage to each successful attack in that round). It can be called to life just once per month for up to 12 hours at a time.",
-      "The Goat of Terror: When called upon with the proper command word, this statuette becomes a destrier-like mount, with the statistics of a light warhorse. However, its rider can employ the goat’s horns as weapons (one horn as a +3 lance, the other as a +5 longsword). When ridden in an attack against an opponent, the goat of terror radiates fear as the spell in a 30-foot radius (Will DC 16 partial). It can be used once every two weeks for up to 3 hours per use."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 21,000 gp."
-  },
-  {
-    "name": "Marble Elephant",
-    "description": [
-      "This is the largest of the figurines, the statuette being about the size of a human hand. Upon utterance of the command word, a marble elephant grows to the size and specifications of a true elephant. The animal created from the statuette is fully obedient to the figurine’s owner, serving as a beast of burden, a mount, or a combatant. The statuette can be used four times per month for up to 24 hours at a time."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 17,000 gp."
-  },
-  {
-    "name": "Obsidian Steed",
-    "description": [
-      "This figurine appears to be a small, shapeless lump of black stone. Only careful inspection reveals that it vaguely resembles some form of quadruped. On command, the near-formless piece of obsidian becomes a fantastic mount. Treat it as a heavy warhorse with the following additional powers usable once per round at will: overland flight, plane shift, and ethereal jaunt. The steed allows itself to be ridden, but if the rider is of good alignment, the steed is 10% likely per use to carry him to the lower planes and then return to its statuette form. The statuette can be used once per week for one continuous period of up to 24 hours. Note that when an obsidian steed becomes ethereal or plane shifts, its rider and his gear follow suit.",
-      "Thus, the user can travel to other planes via this means."
-    ],
-    "tables": [],
-    "construction": "Strong conjuration and transmutation; CL 15th; Craft Wondrous Item, animate objects, etherealness, fly, plane shift; Price 28,500 gp."
-  },
-  {
-    "name": "Onyx Dog",
-    "description": [
-      "When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an Intelligence of 8, can communicate in Common, and has exceptional olfactory and visual abilities. (It has the scent ability and adds +4 to its Spot and Search checks.) It has 60-foot darkvision, and it can see invisibility. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner."
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 15,500 gp."
-  },
-  {
-    "name": "Serpentine Owl",
-    "description": [
-      "This figurine becomes either a normal-sized horned owl or a giant owl according to the command word used. The transformation can take place once per day, with a maximum duration of 8 continuous hours. However, after three transformations into giant owl form, the statuette loses all its magical properties. The owl communicates with its owner by telepathic means, informing her of all it sees and hears. (Remember the limitations of its Intelligence.)"
-    ],
-    "tables": [],
-    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 9,100 gp."
-  },
-  {
-    "name": "Silver Raven",
-    "description": [
-      "This silver figurine turns into a raven on command (but it retains its metallic consistency, which gives it hardness 10). Another command sends it off into the air, bearing a message just like a creature affected by an animal messenger spell. If not commanded to carry a message, the raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It can maintain its nonfigurine status for only 24 hours per week, but the duration need not be continuous."
-    ],
-    "tables": [],
-    "construction": "Faint enchantment and transmutation; CL 6th; Craft Wondrous Item, animal messenger, animate objects; Price 3,800 gp."
+    "construction": "Faint divination; CL 3rd; Craft Wondrous Item, clairaudience/clairvoyance; Price 2,500 gp."
   },
   {
     "name": "Feather Token",
@@ -880,12 +809,23 @@
     "construction": "Moderate conjuration; CL 12th; Craft Wondrous Item, major creation; Price 50 gp (anchor), 300 gp (bird), 200 gp (fan), 450 gp (swan boat), 400 gp (tree), 500 gp (whip)."
   },
   {
-    "name": "Gauntlets of Ogre Power",
+    "name": "Figurines of Wondrous Power",
     "description": [
-      "These gauntlets are made of tough leather with iron studs running across the back of the hands and fingers. They grant the wearer great strength, adding a +2 enhancement bonus to his Strength score. Both gauntlets must be worn for the magic to be effective."
+      "Each of the several kinds of figurines of wondrous power appears to be a miniature statuette of a creature an inch or so high (with one exception). When the figurine is tossed down and the correct command word spoken, it becomes a living creature of normal size (except when noted otherwise below). The creature obeys and serves its owner. Unless stated otherwise, the creature understands Common but does not speak.",
+      "If a figurine of wondrous power is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.",
+      "Bronze Griffon",
+      "When animated, a bronze griffon acts in all ways like a normal griffon under the command of its possessor. The item can be used twice per week for up to 6 hours per use. When 6 hours have passed or when the command word is spoken, the bronze griffon once again becomes a tiny statuette."
     ],
     "tables": [],
-    "construction": "Faint transmutation; CL 6th; Craft Wondrous Item, bull’s strength; Price 4,000 gp; Weight 4 lb."
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 10,000 gp."
+  },
+  {
+    "name": "Flesh Golem Manual",
+    "description": [
+      "The book contains animate dead, bull’s strength, geas/quest, and limited wish. The reader may treat her caster level as one level higher than normal for the purpose of crafting a flesh golem. The book supplies 780 XP for the creation of a flesh golem."
+    ],
+    "tables": [],
+    "construction": "Moderate enchantment, necromancy [evil], and transmutation; CL 8th; Craft Construct, creator must be caster level 8th, animate dead, bull’s strength, geas/quest, limited wish; Price 8,000 gp; Cost 2,050 gp + 944 XP; Weight 5 lb."
   },
   {
     "name": "Gauntlet of Rust",
@@ -894,6 +834,14 @@
     ],
     "tables": [],
     "construction": "Moderate transmutation; CL 7th; Craft Wondrous Item, rusting grasp; Price 11,500 gp; Weight 2 lb."
+  },
+  {
+    "name": "Gauntlets of Ogre Power",
+    "description": [
+      "These gauntlets are made of tough leather with iron studs running across the back of the hands and fingers. They grant the wearer great strength, adding a +2 enhancement bonus to his Strength score. Both gauntlets must be worn for the magic to be effective."
+    ],
+    "tables": [],
+    "construction": "Faint transmutation; CL 6th; Craft Wondrous Item, bull’s strength; Price 4,000 gp; Weight 4 lb."
   },
   {
     "name": "Gem of Brightness",
@@ -916,6 +864,14 @@
     "construction": "Moderate divination; CL 10th; Craft Wondrous Item, true seeing; Price 75,000 gp."
   },
   {
+    "name": "Glove of Storing",
+    "description": [
+      "This device is a simple leather glove. On command, one item held in the hand wearing the glove disappears. The item can weigh no more than 20 pounds and must be able to be held in one hand. While stored, the item has negligible weight. With a snap of the fingers wearing the glove, the item reappears. A glove can only store one item at a time. Storing or retrieving the item is a free action. The item is held in stasis and shrunk down so small within the palm of the glove that it cannot be seen. Spell durations are not suppressed, but continue to expire. If an effect is suppressed or dispelled, the stored item appears instantly."
+    ],
+    "tables": [],
+    "construction": "Faint transmutation; CL 6th; Craft Wondrous Item, shrink item; Price 10,000 gp (one glove)."
+  },
+  {
     "name": "Gloves of Arrow Snaring",
     "description": [
       "Once snugly worn, these gloves seem to meld with the hands, becoming almost invisible. Twice per day, the wearer can act as if he had the Snatch Arrows feat, even if he does not meet the prerequisites for it. Both gloves must be worn for the magic to be effective. At least one hand must be free to take advantage of the magic."
@@ -930,14 +886,6 @@
     ],
     "tables": [],
     "construction": "Moderate transmutation; CL 8th; Craft Wondrous Item, cat’s grace; Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6)."
-  },
-  {
-    "name": "Glove of Storing",
-    "description": [
-      "This device is a simple leather glove. On command, one item held in the hand wearing the glove disappears. The item can weigh no more than 20 pounds and must be able to be held in one hand. While stored, the item has negligible weight. With a snap of the fingers wearing the glove, the item reappears. A glove can only store one item at a time. Storing or retrieving the item is a free action. The item is held in stasis and shrunk down so small within the palm of the glove that it cannot be seen. Spell durations are not suppressed, but continue to expire. If an effect is suppressed or dispelled, the stored item appears instantly."
-    ],
-    "tables": [],
-    "construction": "Faint transmutation; CL 6th; Craft Wondrous Item, shrink item; Price 10,000 gp (one glove)."
   },
   {
     "name": "Gloves of Swimming and Climbing",
@@ -964,6 +912,14 @@
     "construction": "Faint transmutation; CL 3rd; Craft Wondrous Item, darkvision; Price 12,000 gp."
   },
   {
+    "name": "Golden Lions",
+    "description": [
+      "These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for one full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 16,500 gp."
+  },
+  {
     "name": "Golem Manual",
     "description": [
       "A golem manual contains information, incantations and magical power that help a character to craft a golem. The instructions therein grant a +5 competence bonus on skill checks made to craft the golem’s body. Each manual also holds the prerequisite spells needed for a specific golem, effectively grants the builder use of the Craft Construct feat during the construction of the golem, and grants the character an increase to her caster level for the purpose of crafting a golem. Any golem built using a golem manual does not cost the creator any XP, since the requisite XP are \"contained\" in the book and \"expended\" by the book during the creation process.",
@@ -973,38 +929,6 @@
     ],
     "tables": [],
     "construction": "Moderate conjuration, divination, enchantment, and transmutation; CL 11th; Craft Construct, creator must be caster level 11th, animate objects, commune, prayer, resurrection; Price 12,000 gp; Cost 2,150 gp + 1,712 XP; Weight 5 lb."
-  },
-  {
-    "name": "Flesh Golem Manual",
-    "description": [
-      "The book contains animate dead, bull’s strength, geas/quest, and limited wish. The reader may treat her caster level as one level higher than normal for the purpose of crafting a flesh golem. The book supplies 780 XP for the creation of a flesh golem."
-    ],
-    "tables": [],
-    "construction": "Moderate enchantment, necromancy [evil], and transmutation; CL 8th; Craft Construct, creator must be caster level 8th, animate dead, bull’s strength, geas/quest, limited wish; Price 8,000 gp; Cost 2,050 gp + 944 XP; Weight 5 lb."
-  },
-  {
-    "name": "Iron Golem Manual",
-    "description": [
-      "The book contains cloudkill, geas/quest, limited wish, and polymorph any object. The reader may treat her caster level as four levels higher than normal for the purpose of crafting a iron golem. The book supplies 5,600 XP for the creation of a iron golem."
-    ],
-    "tables": [],
-    "construction": "Strong conjuration, enchantment and transmutation; CL 16th; Craft Construct, creator must be caster level 16th, cloudkill, geas/quest, limited wish, polymorph any object; Price 35,000 gp; Cost 3,500 gp + 5,880 XP; Weight 5 lb."
-  },
-  {
-    "name": "Stone Golem Manual",
-    "description": [
-      "The book contains geas/quest, limited wish, polymorph any object, and slow. The reader may treat her caster level as three levels higher than normal for the purpose of crafting a stone golem. The book supplies 3,400 XP for the creation of a stone golem."
-    ],
-    "tables": [],
-    "construction": "Strong abjuration and enchantment; CL 14th; Craft Construct, creator must be caster level 14th, antimagic field, geas/quest, symbol of stunning; Price 22,000 gp; Cost 2,500 gp + 3,600 XP; Weight 5 lb."
-  },
-  {
-    "name": "Stone Golem Manual, Greater",
-    "description": [
-      "The book contains geas/quest, limited wish, polymorph any object, and slow. The reader may treat her caster level as three levels higher than normal for the purpose of crafting a greater stone golem. The book supplies 7,640 XP for the creation of a greater stone golem."
-    ],
-    "tables": [],
-    "construction": "Strong abjuration and enchantment; CL 16th; Craft Construct, creator must be caster level 16th, antimagic field, geas/quest, symbol of stunning; Price 44,000 gp; Cost 2,900 gp + 7,872 XP; Weight 5 lb."
   },
   {
     "name": "Hand of Glory",
@@ -1168,20 +1092,20 @@
     "construction": "Strong conjuration; CL 13th; Craft Wondrous Item, summon monster VI; Price 50,000 gp; Weight 2 lb."
   },
   {
-    "name": "Horseshoes of Speed",
-    "description": [
-      "These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal’s hooves, they increase the animal’s base land speed by 30 feet; this counts as an enhancement bonus. As with other effects that increase speed, jumping distances increase proportionally. All four shoes must be worn by the same animal for the magic to be effective."
-    ],
-    "tables": [],
-    "construction": "Faint transmutation; CL 3rd; Craft Wondrous Item, haste; Price 3,000 gp; Weight 12 lb. (for four)."
-  },
-  {
     "name": "Horseshoes of a Zephyr",
     "description": [
       "These four iron shoes are affixed like normal horseshoes. They allow a horse to travel without actually touching the ground. The horse must still run above (always around 4 inches above) a roughly horizontal surface. This means that nonsolid or unstable surfaces can be crossed, and that movement is possible without leaving tracks on any sort of ground. The horse moves at its normal base land speed. All four shoes must be worn by the same animal for the magic to be effective."
     ],
     "tables": [],
     "construction": "Faint transmutation; CL 3rd; Craft Wondrous Item, levitate; Price 6,000 gp; Weight 4 lb. (for four)."
+  },
+  {
+    "name": "Horseshoes of Speed",
+    "description": [
+      "These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal’s hooves, they increase the animal’s base land speed by 30 feet; this counts as an enhancement bonus. As with other effects that increase speed, jumping distances increase proportionally. All four shoes must be worn by the same animal for the magic to be effective."
+    ],
+    "tables": [],
+    "construction": "Faint transmutation; CL 3rd; Craft Wondrous Item, haste; Price 3,000 gp; Weight 12 lb. (for four)."
   },
   {
     "name": "Incense of Meditation",
@@ -1274,6 +1198,25 @@
     "construction": "Strong conjuration; CL 20th; Craft Wondrous Item, trap the soul; Price 170,000 gp (empty); Weight 1 lb."
   },
   {
+    "name": "Iron Golem Manual",
+    "description": [
+      "The book contains cloudkill, geas/quest, limited wish, and polymorph any object. The reader may treat her caster level as four levels higher than normal for the purpose of crafting a iron golem. The book supplies 5,600 XP for the creation of a iron golem."
+    ],
+    "tables": [],
+    "construction": "Strong conjuration, enchantment and transmutation; CL 16th; Craft Construct, creator must be caster level 16th, cloudkill, geas/quest, limited wish, polymorph any object; Price 35,000 gp; Cost 3,500 gp + 5,880 XP; Weight 5 lb."
+  },
+  {
+    "name": "Ivory Goats",
+    "description": [
+      "These figurines come in threes. Each goat of this trio looks slightly different from the others, and each has a different function:",
+      "The Goat of Traveling: This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of one day each week—continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for not less than one day before it can again be used.",
+      "The Goat of Travail: This statuette becomes an enormous creature, larger than a bull, with the statistics of a nightmare except for the addition of a pair of wicked horns of exceptional size (damage 1d8+4 for each horn). If it is charging to attack, it may only use its horns (but add 6 points of damage to each successful attack in that round). It can be called to life just once per month for up to 12 hours at a time.",
+      "The Goat of Terror: When called upon with the proper command word, this statuette becomes a destrier-like mount, with the statistics of a light warhorse. However, its rider can employ the goat’s horns as weapons (one horn as a +3 lance, the other as a +5 longsword). When ridden in an attack against an opponent, the goat of terror radiates fear as the spell in a 30-foot radius (Will DC 16 partial). It can be used once every two weeks for up to 3 hours per use."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 21,000 gp."
+  },
+  {
     "name": "Lantern of Revealing",
     "description": [
       "This lantern operates as a normal hooded lantern. While it is lit, it also reveals all invisible creatures and objects within 25 feet of it, just like the spell invisibility purge."
@@ -1338,6 +1281,14 @@
     ],
     "tables": [],
     "construction": "Strong evocation (if miracle is used); CL 17th; Craft Wondrous Item, wish or miracle; Price 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5); Cost 1,250 gp + 5,100 XP (+1), 2,500 gp + 10,200 XP (+2), 3,750 gp + 15,300 XP (+3), 5,000 gp + 20,400 XP (+4), 6,250 gp + 25,500 XP (+5); Weight 5 lb."
+  },
+  {
+    "name": "Marble Elephant",
+    "description": [
+      "This is the largest of the figurines, the statuette being about the size of a human hand. Upon utterance of the command word, a marble elephant grows to the size and specifications of a true elephant. The animal created from the statuette is fully obedient to the figurine’s owner, serving as a beast of burden, a mount, or a combatant. The statuette can be used four times per month for up to 24 hours at a time."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 17,000 gp."
   },
   {
     "name": "Marvelous Pigments",
@@ -1442,6 +1393,23 @@
     "construction": "Moderate evocation; CL 10th; Craft Wondrous Item, fireball."
   },
   {
+    "name": "Obsidian Steed",
+    "description": [
+      "This figurine appears to be a small, shapeless lump of black stone. Only careful inspection reveals that it vaguely resembles some form of quadruped. On command, the near-formless piece of obsidian becomes a fantastic mount. Treat it as a heavy warhorse with the following additional powers usable once per round at will: overland flight, plane shift, and ethereal jaunt. The steed allows itself to be ridden, but if the rider is of good alignment, the steed is 10% likely per use to carry him to the lower planes and then return to its statuette form. The statuette can be used once per week for one continuous period of up to 24 hours. Note that when an obsidian steed becomes ethereal or plane shifts, its rider and his gear follow suit.",
+      "Thus, the user can travel to other planes via this means."
+    ],
+    "tables": [],
+    "construction": "Strong conjuration and transmutation; CL 15th; Craft Wondrous Item, animate objects, etherealness, fly, plane shift; Price 28,500 gp."
+  },
+  {
+    "name": "Onyx Dog",
+    "description": [
+      "When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an Intelligence of 8, can communicate in Common, and has exceptional olfactory and visual abilities. (It has the scent ability and adds +4 to its Spot and Search checks.) It has 60-foot darkvision, and it can see invisibility. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner."
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 15,500 gp."
+  },
+  {
     "name": "Orb of Storms",
     "description": [
       "This glass sphere is 8 inches in diameter. The possessor can call forth all manner of weather, even supernaturally destructive storms. Once per day she can call upon the orb to use a control weather spell, Once per month, she can conjure a storm of vengeance. The possessor of the orb is continually protected by an endure elements effect."
@@ -1532,6 +1500,14 @@
     "construction": "Faint enchantment and evocation; CL 6th; Craft Wondrous Item, creator must have the bardic music class feature, sound burst; Price 12,000 gp; Weight 3 lb."
   },
   {
+    "name": "Pipes of Sounding",
+    "description": [
+      "When played by a character who has the Perform (wind instruments) skill, these pipes create a variety of sounds. The figment sounds are the equivalent of ghost sound (caster level 2nd)."
+    ],
+    "tables": [],
+    "construction": "Faint illusion; CL 2nd; Craft Wondrous Item, ghost sound; Price 1,800 gp; Weight 3 lb."
+  },
+  {
     "name": "Pipes of the Sewers",
     "description": [
       "These wooden pipes appear ordinary, but if the possessor learns the proper tune, he can attract 1d3 rat swarms if rats are within 400 feet. For each 50-foot distance the rats have to travel, there is a 1-round delay. The piper must continue playing until the rats appear, and when they do so, the piper must make a DC 10 Perform (wind instruments) check. Success means that they obey the piper’s telepathic commands so long as he continues to play. Failure indicates that they turn on the piper. If for any reason the piper ceases playing, the rats leave immediately. If they are called again within a day, the Perform check DC is 15.",
@@ -1539,14 +1515,6 @@
     ],
     "tables": [],
     "construction": "Faint conjuration; CL 2nd; Craft Wondrous Item, charm animal, summon nature’s ally I, wild empathy ability; Price 1,150 gp; Weight 3 lb."
-  },
-  {
-    "name": "Pipes of Sounding",
-    "description": [
-      "When played by a character who has the Perform (wind instruments) skill, these pipes create a variety of sounds. The figment sounds are the equivalent of ghost sound (caster level 2nd)."
-    ],
-    "tables": [],
-    "construction": "Faint illusion; CL 2nd; Craft Wondrous Item, ghost sound; Price 1,800 gp; Weight 3 lb."
   },
   {
     "name": "Portable Hole",
@@ -1572,19 +1540,6 @@
     ],
     "tables": [],
     "construction": "Strong conjuration; CL 17th; Craft Wondrous Item, gate; Price 40,000 gp; Weight 1 lb. each."
-  },
-  {
-    "name": "Robe of the Archmagi",
-    "description": [
-      "This normal-appearing garment can be white (01-45 on d%, good alignment), gray (46-75, neither good nor evil alignment), or black (76-100, evil alignment). Its wearer, if an arcane spellcaster, gains the following powers.",
-      "+5 armor bonus to AC.",
-      "Spell resistance 18.",
-      "+4 resistance bonus on all saving throws.",
-      "+2 enhancement bonus on caster level checks made to overcome spell resistance.",
-      "If a white robe is donned by an evil character, she immediately gains three negative levels. The reverse is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two negative levels. While these negative levels never result in lost levels, they remain as long as the garment is worn and cannot be overcome in any way (including restoration spells)."
-    ],
-    "tables": [],
-    "construction": "Strong varied; CL 14th; Craft Wondrous Item, antimagic field, mage armor or shield of faith, creator must be of same alignment as robe; Price 75,000 gp; Weight 1 lb."
   },
   {
     "name": "Robe of Blending",
@@ -1640,6 +1595,19 @@
     ],
     "tables": [],
     "construction": "Strong varied; CL 15th; Craft Wondrous Item, magic missile, astral projection or plane shift; Price 58,000 gp; Weight 1 lb."
+  },
+  {
+    "name": "Robe of the Archmagi",
+    "description": [
+      "This normal-appearing garment can be white (01-45 on d%, good alignment), gray (46-75, neither good nor evil alignment), or black (76-100, evil alignment). Its wearer, if an arcane spellcaster, gains the following powers.",
+      "+5 armor bonus to AC.",
+      "Spell resistance 18.",
+      "+4 resistance bonus on all saving throws.",
+      "+2 enhancement bonus on caster level checks made to overcome spell resistance.",
+      "If a white robe is donned by an evil character, she immediately gains three negative levels. The reverse is true with respect to a black robe donned by a good character. An evil or good character who puts on a gray robe, or a neutral character who dons either a white or black robe, gains two negative levels. While these negative levels never result in lost levels, they remain as long as the garment is worn and cannot be overcome in any way (including restoration spells)."
+    ],
+    "tables": [],
+    "construction": "Strong varied; CL 14th; Craft Wondrous Item, antimagic field, mage armor or shield of faith, creator must be of same alignment as robe; Price 75,000 gp; Weight 1 lb."
   },
   {
     "name": "Robe of Useful Items",
@@ -1727,12 +1695,28 @@
     "construction": "Moderate divination; CL 8th; Craft Wondrous Item, detect magic, creator must be at least 10th level; Price 2,500 gp."
   },
   {
+    "name": "Serpentine Owl",
+    "description": [
+      "This figurine becomes either a normal-sized horned owl or a giant owl according to the command word used. The transformation can take place once per day, with a maximum duration of 8 continuous hours. However, after three transformations into giant owl form, the statuette loses all its magical properties. The owl communicates with its owner by telepathic means, informing her of all it sees and hears. (Remember the limitations of its Intelligence.)"
+    ],
+    "tables": [],
+    "construction": "Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 9,100 gp."
+  },
+  {
     "name": "Shrouds of Disintegration",
     "description": [
       "These burial wrappings look to be made of fine, embroidered materials. When a body is placed inside, a command word will turn it to dust. The magic of the shrouds is usable only once, after which the wrappings become ordinary, fine cloth."
     ],
     "tables": [],
     "construction": "Strong transmutation; CL 15th; Craft Wondrous Item, disintegrate; Price 6,600 gp; Weight 10 lb."
+  },
+  {
+    "name": "Silver Raven",
+    "description": [
+      "This silver figurine turns into a raven on command (but it retains its metallic consistency, which gives it hardness 10). Another command sends it off into the air, bearing a message just like a creature affected by an animal messenger spell. If not commanded to carry a message, the raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It can maintain its nonfigurine status for only 24 hours per week, but the duration need not be continuous."
+    ],
+    "tables": [],
+    "construction": "Faint enchantment and transmutation; CL 6th; Craft Wondrous Item, animal messenger, animate objects; Price 3,800 gp."
   },
   {
     "name": "Silversheen",
@@ -1759,6 +1743,36 @@
     "construction": "Strong transmutation; CL 20th; Craft Wondrous Item, make whole; Price 2,400 gp (per ounce)."
   },
   {
+    "name": "Stone Golem Manual",
+    "description": [
+      "The book contains geas/quest, limited wish, polymorph any object, and slow. The reader may treat her caster level as three levels higher than normal for the purpose of crafting a stone golem. The book supplies 3,400 XP for the creation of a stone golem."
+    ],
+    "tables": [],
+    "construction": "Strong abjuration and enchantment; CL 14th; Craft Construct, creator must be caster level 14th, antimagic field, geas/quest, symbol of stunning; Price 22,000 gp; Cost 2,500 gp + 3,600 XP; Weight 5 lb."
+  },
+  {
+    "name": "Stone Golem Manual, Greater",
+    "description": [
+      "The book contains geas/quest, limited wish, polymorph any object, and slow. The reader may treat her caster level as three levels higher than normal for the purpose of crafting a greater stone golem. The book supplies 7,640 XP for the creation of a greater stone golem."
+    ],
+    "tables": [],
+    "construction": "Strong abjuration and enchantment; CL 16th; Craft Construct, creator must be caster level 16th, antimagic field, geas/quest, symbol of stunning; Price 44,000 gp; Cost 2,900 gp + 7,872 XP; Weight 5 lb."
+  },
+  {
+    "name": "Stone Horse",
+    "description": [
+      "Each item of this nature appears to be a fullsized, roughly hewn statue of a horse, carved from some type of hard stone. A command word brings the steed to life, enabling it to carry a burden and even to attack as if it were a real horse of the appropriate kind.",
+      "A stone horse can carry 1,000 pounds tirelessly and never needs to rest or feed. Damage dealt to it can be repaired by first using a stone to flesh spell, thus causing the stone horse to become a normal horse that can be healed normally. When fully healed, it automatically reverts to its stone form. While in its stone form, it can be fed gems, healing 1 point of damage for each 50 gp worth of mineral it is given.",
+      "There are two sorts of stone horses.",
+      "Courser",
+      "This item has the statistics of a heavy horse as well as having hardness 10.",
+      "Destrier",
+      "This item has the statistics of a heavy warhorse as well as having hardness 10."
+    ],
+    "tables": [],
+    "construction": "Strong transmutation; CL 14th; Craft Wondrous Item, flesh to stone, animate objects; Price 10,000 gp (courser) or 14,800 gp (destrier); Weight 6,000 lb."
+  },
+  {
     "name": "Stone of Alarm",
     "description": [
       "This stone cube, when given the command word, affixes itself to any object. If that object is touched thereafter by anyone who does not first speak that same command word, the stone emits a piercing screech for 1 hour that can be heard up to a quarter-mile away (assuming no intervening barriers)."
@@ -1782,20 +1796,6 @@
     ],
     "tables": [],
     "construction": "Faint evocation; CL 5th; Craft Wondrous Item, divine favor; Price 20,000 gp."
-  },
-  {
-    "name": "Stone Horse",
-    "description": [
-      "Each item of this nature appears to be a fullsized, roughly hewn statue of a horse, carved from some type of hard stone. A command word brings the steed to life, enabling it to carry a burden and even to attack as if it were a real horse of the appropriate kind.",
-      "A stone horse can carry 1,000 pounds tirelessly and never needs to rest or feed. Damage dealt to it can be repaired by first using a stone to flesh spell, thus causing the stone horse to become a normal horse that can be healed normally. When fully healed, it automatically reverts to its stone form. While in its stone form, it can be fed gems, healing 1 point of damage for each 50 gp worth of mineral it is given.",
-      "There are two sorts of stone horses.",
-      "Courser",
-      "This item has the statistics of a heavy horse as well as having hardness 10.",
-      "Destrier",
-      "This item has the statistics of a heavy warhorse as well as having hardness 10."
-    ],
-    "tables": [],
-    "construction": "Strong transmutation; CL 14th; Craft Wondrous Item, flesh to stone, animate objects; Price 10,000 gp (courser) or 14,800 gp (destrier); Weight 6,000 lb."
   },
   {
     "name": "Stone Salve",

@@ -65,6 +65,13 @@
     ]
   },
   {
+    "name": "Shield Spikes",
+    "description": [
+      "When added to your shield, these spikes turn it into a martial piercing weapon that increases the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you. You can’t put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.",
+      "An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a spiked shield can be made into a magic weapon in its own right."
+    ]
+  },
+  {
     "name": "Shield, Heavy, Wooden or Steel",
     "description": [
       "You strap a shield to your forearm and grip it with your hand. A heavy shield is so heavy that you can’t use your shield hand for anything else."
@@ -109,13 +116,6 @@
     "description": [
       "This massive wooden shield is nearly as tall as you are. In most situations, it provides the indicated shield bonus to your AC. However, you can instead use it as total cover, though you must give up your attacks to do so. The shield does not, however, provide cover against targeted spells; a spellcaster can cast a spell on you by targeting the shield you are holding. You cannot bash with a tower shield, nor can you use your shield hand for anything else.",
       "When employing a tower shield in combat, you take a -2 penalty on attack rolls because of the shield’s encumbrance."
-    ]
-  },
-  {
-    "name": "Shield Spikes",
-    "description": [
-      "When added to your shield, these spikes turn it into a martial piercing weapon that increases the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you. You can’t put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.",
-      "An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a spiked shield can be made into a magic weapon in its own right."
     ]
   },
   {
