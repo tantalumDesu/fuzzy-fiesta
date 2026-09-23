@@ -1,0 +1,25 @@
+{
+  "title": "Mithral Cost Modifiers",
+  "items": [
+    {
+      "item_type": "Light armor",
+      "cost_modifier": "+1,000 gp"
+    },
+    {
+      "item_type": "Medium armor",
+      "cost_modifier": "+4,000 gp"
+    },
+    {
+      "item_type": "Heavy armor",
+      "cost_modifier": "+9,000 gp"
+    },
+    {
+      "item_type": "Shield",
+      "cost_modifier": "+1,000 gp"
+    },
+    {
+      "item_type": "Other items",
+      "cost_modifier": "+500 gp/lb."
+    }
+  ]
+}

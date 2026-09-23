@@ -1,0 +1,151 @@
+{
+  "title": "Specific Cursed Items",
+  "roll": "d%",
+  "items": [
+    {
+      "roll": "01-05",
+      "item": "Incense of obsession",
+      "market_price": "200 gp"
+    },
+    {
+      "roll": "06-15",
+      "item": "Ring of clumsiness",
+      "market_price": "500 gp"
+    },
+    {
+      "roll": "16-20",
+      "item": "Amulet of inescapable location",
+      "market_price": "1,000 gp"
+    },
+    {
+      "roll": "21-25",
+      "item": "Stone of weight",
+      "market_price": "1,000 gp"
+    },
+    {
+      "roll": "26-30",
+      "item": "Bracers of defenselessness",
+      "market_price": "1,200 gp"
+    },
+    {
+      "roll": "31-35",
+      "item": "Gauntlets of fumbling",
+      "market_price": "1,300 gp"
+    },
+    {
+      "roll": "36-40",
+      "item": "-2 sword, cursed",
+      "market_price": "1,500 gp"
+    },
+    {
+      "roll": "41-43",
+      "item": "Armor of rage",
+      "market_price": "1,600 gp"
+    },
+    {
+      "roll": "44-46",
+      "item": "Medallion of thought projection",
+      "market_price": "1,800 gp"
+    },
+    {
+      "roll": "47-52",
+      "item": "Flask of curses",
+      "market_price": "2,100 gp"
+    },
+    {
+      "roll": "53-54",
+      "item": "Dust of sneezing and choking",
+      "market_price": "2,400 gp"
+    },
+    {
+      "roll": "55",
+      "item": "Helm of opposite alignment",
+      "market_price": "4,000 gp"
+    },
+    {
+      "roll": "56-60",
+      "item": "Potion of poison",
+      "market_price": "5,000 gp"
+    },
+    {
+      "roll": "61",
+      "item": "Broom of animated attack",
+      "market_price": "5,200 gp"
+    },
+    {
+      "roll": "62-63",
+      "item": "Robe of powerlessness",
+      "market_price": "5,500 gp"
+    },
+    {
+      "roll": "64",
+      "item": "Vacuous grimoire",
+      "market_price": "6,000 gp"
+    },
+    {
+      "roll": "65-68",
+      "item": "Spear, cursed backbiter",
+      "market_price": "7,500 gp"
+    },
+    {
+      "roll": "69-70",
+      "item": "Armor of arrow attraction",
+      "market_price": "9,000 gp"
+    },
+    {
+      "roll": "71-72",
+      "item": "Net of snaring",
+      "market_price": "10,000 gp"
+    },
+    {
+      "roll": "73-75",
+      "item": "Bag of devouring",
+      "market_price": "—"
+    },
+    {
+      "roll": "76-80",
+      "item": "Mace of blood",
+      "market_price": "16,000 gp"
+    },
+    {
+      "roll": "81-85",
+      "item": "Robe of vermin",
+      "market_price": "16,500 gp"
+    },
+    {
+      "roll": "86-88",
+      "item": "Periapt of foul rotting",
+      "market_price": "17,000 gp"
+    },
+    {
+      "roll": "89-92",
+      "item": "Sword, berserking",
+      "market_price": "17,500 gp"
+    },
+    {
+      "roll": "93-96",
+      "item": "Boots of dancing",
+      "market_price": "30,000 gp"
+    },
+    {
+      "roll": "97",
+      "item": "Crystal hypnosis ball",
+      "market_price": "—"
+    },
+    {
+      "roll": "98",
+      "item": "Necklace of strangulation",
+      "market_price": "60,000 gp"
+    },
+    {
+      "roll": "99",
+      "item": "Cloak of poisonousness",
+      "market_price": "62,000 gp"
+    },
+    {
+      "roll": "100",
+      "item": "Scarab of death",
+      "market_price": "80,000 gp"
+    }
+  ]
+}

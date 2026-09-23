@@ -1,0 +1,21 @@
+{
+  "title": "Alchemical Silver Cost Modifiers",
+  "items": [
+    {
+      "item_type": "Ammunition",
+      "cost_modifier": "+2 gp"
+    },
+    {
+      "item_type": "Light weapon",
+      "cost_modifier": "+20 gp"
+    },
+    {
+      "item_type": "One-handed weapon, or one head of a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons)",
+      "cost_modifier": "+90 gp"
+    },
+    {
+      "item_type": "Two-handed weapon, or both heads of a [double weapon](https://www.d20srd.org/srd/equipment/weapons.htm#doubleWeapons)",
+      "cost_modifier": "+180 gp"
+    }
+  ]
+}

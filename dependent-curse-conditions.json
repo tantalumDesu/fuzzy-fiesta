@@ -1,0 +1,86 @@
+{
+  "title": "Dependent Curse Condition",
+  "roll": "d%",
+  "conditions": [
+    {
+      "roll": "01-03",
+      "situation": "Temperature below freezing"
+    },
+    {
+      "roll": "04-05",
+      "situation": "Temperature above freezing"
+    },
+    {
+      "roll": "06-10",
+      "situation": "During the day"
+    },
+    {
+      "roll": "11-15",
+      "situation": "During the night"
+    },
+    {
+      "roll": "16-20",
+      "situation": "In direct sunlight"
+    },
+    {
+      "roll": "21-25",
+      "situation": "Out of direct sunlight"
+    },
+    {
+      "roll": "26-34",
+      "situation": "Underwater"
+    },
+    {
+      "roll": "35-37",
+      "situation": "Out of water"
+    },
+    {
+      "roll": "38-45",
+      "situation": "Underground"
+    },
+    {
+      "roll": "46-55",
+      "situation": "Aboveground"
+    },
+    {
+      "roll": "56-60",
+      "situation": "Within 10 feet of a random creature type"
+    },
+    {
+      "roll": "61-64",
+      "situation": "Within 10 feet of a random race or kind of creature"
+    },
+    {
+      "roll": "65-72",
+      "situation": "Within 10 feet of an arcane spellcaster"
+    },
+    {
+      "roll": "73-80",
+      "situation": "Within 10 feet of a divine spellcaster"
+    },
+    {
+      "roll": "81-85",
+      "situation": "In the hands of a nonspellcaster"
+    },
+    {
+      "roll": "86-90",
+      "situation": "In the hands of a spellcaster"
+    },
+    {
+      "roll": "91-95",
+      "situation": "In the hands of a creature of a particular alignment"
+    },
+    {
+      "roll": "96",
+      "situation": "In the hands of a creature of particular gender"
+    },
+    {
+      "roll": "97-99",
+      "situation": "On nonholy days or during particular astrological events"
+    },
+    {
+      "roll": "100",
+      "situation": "More than 100 miles from a particular site"
+    }
+  ]
+}
