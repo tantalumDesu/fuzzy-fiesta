@@ -1,0 +1,50 @@
+{
+  "title": "Treasure Above 20th Level",
+  "note": "For treasures above 20th level, use the 20th-level row and then add a number of random major items.",
+  "columns": [
+    "Level",
+    "Magic Items"
+  ],
+  "entries": [
+    {
+      "level": "21st",
+      "magic_items": "+1"
+    },
+    {
+      "level": "22nd",
+      "magic_items": "+2"
+    },
+    {
+      "level": "23rd",
+      "magic_items": "+4"
+    },
+    {
+      "level": "24th",
+      "magic_items": "+6"
+    },
+    {
+      "level": "25th",
+      "magic_items": "+9"
+    },
+    {
+      "level": "26th",
+      "magic_items": "+12"
+    },
+    {
+      "level": "27th",
+      "magic_items": "+17"
+    },
+    {
+      "level": "28th",
+      "magic_items": "+23"
+    },
+    {
+      "level": "29th",
+      "magic_items": "+31"
+    },
+    {
+      "level": "30th",
+      "magic_items": "+42"
+    }
+  ]
+}
